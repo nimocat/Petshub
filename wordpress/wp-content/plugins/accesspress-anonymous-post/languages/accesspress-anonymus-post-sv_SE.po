@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Anonymous Post\n"
+"POT-Creation-Date: 2015-07-12 10:09+0545\n"
+"PO-Revision-Date: 2016-03-31 16:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: Access Keys <support@accesspressthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../accesspress-anonymous-post.php:104 ../inc/cores/front-form.php:11
+#: ../inc/cores/save-post.php:29 ../inc/cores/save-post.php:36
+#: ../inc/cores/save-post.php:37
+msgid "This field is required"
+msgstr "Detta fält måste fyllas i"
+
+#: ../accesspress-anonymous-post.php:105
+msgid "Sum is not correct."
+msgstr "Summan är inte korrekt."
+
+#: ../accesspress-anonymous-post.php:112
+msgid "AccessPress Anonymoust Post Settings"
+msgstr "AccessPress Anonymous Post Inställningar"
+
+#: ../accesspress-anonymous-post.php:112
+msgid "AccessPress Anonymous Post"
+msgstr "AccessPress Anonyma Post"
+
+#: ../accesspress-anonymous-post.php:140 ../inc/cores/front-form.php:5
+msgid "Anonymous Post"
+msgstr "Anonyma Post"
+
+#: ../accesspress-anonymous-post.php:144 ../accesspress-anonymous-post.php:378
+#: ../inc/cores/shortcode.php:22
+msgid "Please login to submit the post."
+msgstr "Logga in för att överlämna inlägget. "
+
+#: ../accesspress-anonymous-post.php:295
+msgid "Hello there,"
+msgstr "Hej där,"
+
+#: ../accesspress-anonymous-post.php:296
+msgid "A new post has been submitted via AccessPress Anonymous Post plugin in "
+msgstr ""
+"Ett nytt inlägg har blivit överlämnat via AccesPress Anonyma Posts plugin i"
+
+#: ../accesspress-anonymous-post.php:296
+msgid " Please find details below:"
+msgstr "Du hittar detaljerna nedan:"
+
+#: ../accesspress-anonymous-post.php:317
+msgid "To take action (approve/reject)- please go here:"
+msgstr "Att vidta åtgärder (Godkänn/avvisa) - vänligen gå hit:"
+
+#: ../accesspress-anonymous-post.php:320
+msgid "Thank You"
+msgstr "Tack Så Mycket"
+
+#: ../accesspress-anonymous-post.php:321
+msgid "New Post Submission - via AccessPress Anonymous Post"
+msgstr "Nytt inlägg inlämning - via AccessPress Anonyma Post"
+
+#: ../accesspress-anonymous-post.php:407
+msgid "Default Settings Restored Successfully."
+msgstr "Standardinställningarna har återställts framgångsrikt "
+
+#: ../inc/settings.php:19
+msgid "Follow us for new updates"
+msgstr "Följ oss för nya uppdateringar "
+
+#: ../inc/settings.php:30
+msgid "AccessPress Anonymous Post Settings"
+msgstr "AccessPress Anonym Post inställningar"
+
+#: ../inc/settings.php:41 ../inc/boards/general-settings.php:2
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: ../inc/settings.php:42
+msgid "Form Settings"
+msgstr "Formulärinställningar"
+
+#: ../inc/settings.php:43 ../inc/boards/captcha-settings.php:2
+msgid "Captcha Settings"
+msgstr "Captcha-inställningar"
+
+#: ../inc/settings.php:44
+msgid "How to use"
+msgstr "Hur man använder "
+
+#: ../inc/settings.php:45 ../inc/boards/upgrade.php:2
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: ../inc/settings.php:46
+msgid "About"
+msgstr "Om"
+
+#: ../inc/settings.php:106
+msgid "Are you sure you want to restore default settings?"
+msgstr "Är du säker du vill återställa standardinställningarna?"
+
+#: ../inc/boards/about.php:2
+msgid "About Us"
+msgstr "Om oss"
+
+#: ../inc/boards/captcha-settings.php:6
+msgid "Show Mathmatical Captcha"
+msgstr "Visa Matematisk Captcha"
+
+#: ../inc/boards/captcha-settings.php:11
+msgid "Mathmatical Captcha Label"
+msgstr "Matematisk Captch Etikett"
+
+#: ../inc/boards/captcha-settings.php:17
+msgid "Mathmatical Captcha Error Message"
+msgstr "Matematisk Captcha Felmeddelande "
+
+#: ../inc/boards/form-settings.php:3
+msgid "Form field configurations"
+msgstr "FormulärenFältkonfigurationer "
+
+#: ../inc/boards/form-settings.php:10 ../inc/boards/form-settings.php:236
+#: ../inc/cores/front-form.php:6
+msgid "Post Title"
+msgstr "Inläggsrubrik"
+
+#: ../inc/boards/form-settings.php:14 ../inc/boards/form-settings.php:34
+#: ../inc/boards/form-settings.php:53 ../inc/boards/form-settings.php:91
+#: ../inc/boards/form-settings.php:110 ../inc/boards/form-settings.php:129
+#: ../inc/boards/form-settings.php:149 ../inc/boards/form-settings.php:166
+msgid "Show on form"
+msgstr "Visa på Formulären "
+
+#: ../inc/boards/form-settings.php:17 ../inc/boards/form-settings.php:37
+#: ../inc/boards/form-settings.php:56 ../inc/boards/form-settings.php:75
+#: ../inc/boards/form-settings.php:94 ../inc/boards/form-settings.php:113
+#: ../inc/boards/form-settings.php:132 ../inc/boards/form-settings.php:152
+#: ../inc/boards/form-settings.php:169
+msgid "Required"
+msgstr "Nödvändig"
+
+#: ../inc/boards/form-settings.php:21
+msgid "Post Title Required Message"
+msgstr "Inläggens Rubrik Krävs Medelande"
+
+#: ../inc/boards/form-settings.php:30 ../inc/boards/form-settings.php:245
+#: ../inc/cores/front-form.php:7
+msgid "Post Content"
+msgstr "Inläggsinnehåll"
+
+#: ../inc/boards/form-settings.php:40
+msgid "Post Content Required Message"
+msgstr "Inläggsinehåll Krävs Medelande"
+
+#: ../inc/boards/form-settings.php:49 ../inc/boards/form-settings.php:254
+#: ../inc/cores/front-form.php:68
+msgid "Post Excerpt"
+msgstr "Inlägg Utrag"
+
+#: ../inc/boards/form-settings.php:59
+msgid "Excerpt Required Message"
+msgstr "Utrag Krävs Medelande"
+
+#: ../inc/boards/form-settings.php:68 ../inc/boards/form-settings.php:263
+#: ../inc/cores/front-form.php:8
+msgid "Post Image"
+msgstr "Inläggsbild"
+
+#: ../inc/boards/form-settings.php:72
+msgid "Show in form"
+msgstr "Visa i formulär "
+
+#: ../inc/boards/form-settings.php:78
+msgid "Post Image Required Message"
+msgstr "Inläggs Bild Krävs Medelande"
+
+#: ../inc/boards/form-settings.php:87 ../inc/boards/form-settings.php:288
+#: ../inc/cores/front-form.php:136
+msgid "Author Name"
+msgstr "Författarens Namn"
+
+#: ../inc/boards/form-settings.php:97
+msgid "Author Name Required Message"
+msgstr "Författarens Namn Krävs Medelande"
+
+#: ../inc/boards/form-settings.php:106 ../inc/boards/form-settings.php:297
+#: ../inc/cores/front-form.php:148
+msgid "Author URL"
+msgstr "Författarens Webbadress"
+
+#: ../inc/boards/form-settings.php:116
+msgid "Author URL Required Message"
+msgstr "Författarens Webbadress Krävs Medelande "
+
+#: ../inc/boards/form-settings.php:125 ../inc/boards/form-settings.php:306
+#: ../inc/cores/front-form.php:160
+msgid "Author Email"
+msgstr "Författarens E-post"
+
+#: ../inc/boards/form-settings.php:135
+msgid "Author Email Required Message"
+msgstr "Författarens E-post Krävs Medelande "
+
+#: ../inc/boards/form-settings.php:145 ../inc/boards/form-settings.php:272
+msgid "Post Category"
+msgstr "Inläggskategori"
+
+#: ../inc/boards/form-settings.php:155
+msgid "Post Category Required Message"
+msgstr "Inläggslategori Krävs Medelande "
+
+#: ../inc/boards/form-settings.php:162 ../inc/boards/form-settings.php:279
+msgid "Post Tags"
+msgstr "Inläggstaggar"
+
+#: ../inc/boards/form-settings.php:172
+msgid "Post Tags Required Message"
+msgstr "Inläggstaggar Krävs Medelande "
+
+#: ../inc/boards/form-settings.php:179
+msgid "Post Title and Post Content are mandatory."
+msgstr "Inläggsrubrik och Inläggsinehåll är obligatoriska."
+
+#: ../inc/boards/form-settings.php:187
+msgid "Post Categories"
+msgstr "Inläggskategorier"
+
+#: ../inc/boards/form-settings.php:206
+msgid ""
+"Choose any  only if you don't include to show the category selecting options "
+"in the form"
+msgstr ""
+"Visa något  bara om du inte visar kategorin att välja alternativ i "
+"formulären "
+
+#: ../inc/boards/form-settings.php:210
+msgid "Post Content Editor Type:"
+msgstr "Inläggsinnehåll Redaktörens Typ: "
+
+#: ../inc/boards/form-settings.php:221
+msgid "Editor Size"
+msgstr "Redaktörens Storlek"
+
+#: ../inc/boards/form-settings.php:224
+msgid ""
+"Please enter the size of editor in number of rows.Default number of rows is "
+"10"
+msgstr "Ange storleken på editor i antalet rader. Standardantalet rader är 10"
+
+#: ../inc/boards/form-settings.php:232
+msgid "Form Labels"
+msgstr "Formulär Etikett "
+
+#: ../inc/boards/form-settings.php:315
+msgid "Submit Button"
+msgstr "Lämna In Knapp"
+
+#: ../inc/boards/form-settings.php:322
+msgid ""
+"These field will only show up in frontend if you have checked these fields "
+"in Form Field Configurations secton above."
+msgstr ""
+"Dessa fält visas endast i frontend om du har markerat fälten i Formulärfält "
+"Konfiguration ovan. "
+
+#: ../inc/boards/general-settings.php:5
+msgid "Form Title"
+msgstr "Formulärtitel"
+
+#: ../inc/boards/general-settings.php:11
+msgid "Post Publish Status:"
+msgstr "Inläggsstatus:"
+
+#: ../inc/boards/general-settings.php:14
+msgid "Publish"
+msgstr "Publicera"
+
+#: ../inc/boards/general-settings.php:15
+msgid "Pending"
+msgstr "Väntande"
+
+#: ../inc/boards/general-settings.php:16
+msgid "Draft"
+msgstr "Utkast"
+
+#: ../inc/boards/general-settings.php:21
+msgid "Admin Notification:"
+msgstr "Administratörsmeddelande:"
+
+#: ../inc/boards/general-settings.php:25
+msgid ""
+"Check if you want admin to recieve notification email after submitting of a "
+"new post."
+msgstr ""
+"Kryssa i denna rutan om du vill ha avisering via epost när någon lagt upp "
+"innehåll."
+
+#: ../inc/boards/general-settings.php:30
+msgid "Allow Media Uploads:"
+msgstr "Tilllått Media uppladdningar:"
+
+#: ../inc/boards/general-settings.php:34
+msgid "Check if you want logged in users to upload allowed media files"
+msgstr ""
+"Kryssa i denna rutan om du vill att inloggade användare får ladda upp "
+"tillåtna media filer "
+
+#: ../inc/boards/general-settings.php:39
+msgid "Check Login"
+msgstr "Kolla Login"
+
+#: ../inc/boards/general-settings.php:43
+msgid "Check if you want admin login to submit a new post."
+msgstr ""
+"Kryssa i den här rutan om du vill att administrator inloggning ska lägga "
+"till ett nytt inlägg    "
+
+#: ../inc/boards/general-settings.php:48
+msgid "Login Message"
+msgstr "Inloggningsmeddelande"
+
+#: ../inc/boards/general-settings.php:51
+msgid ""
+"Message to be displayed if the user is not logged in and you have checked "
+"admin login option to submit the post."
+msgstr ""
+"Madelande som visas när användaren inte är inloggad och om du har kryssat i "
+"administration inloggining inställningen när ett inlägg uppläggs. "
+
+#: ../inc/boards/general-settings.php:55
+msgid "Login Link Text"
+msgstr "Login länktext"
+
+#: ../inc/boards/general-settings.php:58
+msgid ""
+"Text to be shown in login link  if the user is not logged in and you have "
+"checked admin login option to submit the post."
+msgstr ""
+"Text som visas i inloggningslänken om användaren inte är inloggad och du har "
+"kontrollerat administrator login inställningen att ladda upp ett inlägg."
+
+#: ../inc/boards/general-settings.php:62
+msgid "Assign Author"
+msgstr "Tilldela Författaren"
+
+#: ../inc/boards/general-settings.php:79
+msgid "Plugin Styles:"
+msgstr "Plugin Stilar: "
+
+#: ../inc/boards/general-settings.php:83
+msgid "Check if you want to use the plugin's basic styles in frontend form"
+msgstr ""
+"Kryssa i om du vill använda pluginets grundläggande stilar i frontend av "
+"formulären"
+
+#: ../inc/boards/general-settings.php:88
+msgid "Redirect URL"
+msgstr "Dirigera om webadress"
+
+#: ../inc/boards/general-settings.php:91
+msgid ""
+"URL to be redirected after successful post submission. If kept blank, it "
+"will be redirected to same page."
+msgstr ""
+"Webbadress ska dirigera om efter framgångsrik inläggs uppläggning.  Om rutan "
+"är ej kryssad, då blir den omdirigerad till samma sida."
+
+#: ../inc/boards/general-settings.php:96
+msgid "Post Submission Message"
+msgstr "Inlägg Upläggnings Medelande"
+
+#: ../inc/boards/general-settings.php:99
+msgid "Message displayed after successful post submission."
+msgstr "Meddelande som visas efter ett framgångsrika inlägg."
+
+#: ../inc/cores/front-form.php:9 ../inc/cores/front-form.php:190
+msgid "Submit Post"
+msgstr "Skicka"
+
+#: ../inc/cores/front-form.php:86
+msgid "Please upload image file type only."
+msgstr "Vänligen ladda upp bild filtyp bara."
+
+#: ../inc/cores/front-form.php:119
+msgid "Tags (Use comma to add multiple tags)"
+msgstr "Taggar (användning komma att lägga till flera taggar)"
+
+#: ../inc/cores/front-form.php:177
+msgid "Human Check"
+msgstr "Människo Test "
+
+#: ../inc/cores/front-form.php:181
+msgid "Enter Sum"
+msgstr "Ange Summan"
+
+#: ../inc/cores/save-post.php:20
+msgid "The entered sum is not correct"
+msgstr "Summan är inte korrekt."
+
+#: ../inc/cores/save-post.php:50
+msgid "Invalid File Type"
+msgstr "Ogiltig filtyp"
+
+#: ../inc/cores/save-post.php:179
+msgid "Hi there, Thank you for submitting a post."
+msgstr "Hej där, tack så mycket för att du la upp ett inlägg"
+
+#: ../inc/cores/save-settings.php:163
+msgid "Settings Saved Successfully."
+msgstr "Inställningar sparades."
+
+#: ../inc/cores/shortcode.php:30
+msgid "Login"
+msgstr "Logga in"

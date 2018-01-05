@@ -1,0 +1,100 @@
+/* Themify Customize Styling */
+body {	background-attachment: fixed;
+	font-family:Open Sans;	font-weight:300;
+
+	color: #4d4d4d; 
+}
+h1 {	
+	font-family:Open Sans;	font-weight:bold;
+	font-size:80px;
+ 
+}
+h2 {	
+	font-family:Open Sans;	font-weight:300;
+
+	color: #4d4d4d; 
+}
+#headerwrap {	background: none;
+	background-color: #021c30; 
+}
+#header {	background: none;
+	background-color: #021c30;
+	font-family:Marcellus SC;	font-weight:normal;
+
+	color: #ffffff; 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	background: none;
+	background-color: #021c30; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo {	
+	font-family:Open Sans;	font-weight:600;
+	font-size:28px;
+	text-transform:uppercase;
+	color: #ffffff; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+#main-nav {		position:relative;
+
+	top: 3px;
+	background-color: transparent; 
+}
+#main-nav a {	
+	font-family:Open Sans;	font-weight:300;
+	font-size:16px;
+ 
+}
+#main-nav a, #main-nav > li > a, .transparent-header #main-nav a {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #e6e6e6; 
+}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #e6e6e6; 
+}
+#main-nav-wrap #main-nav li:not(.themify-widget-menu) > ul, #main-nav .has-mega-sub-menu .mega-sub-menu, #main-nav .has-mega-column > .sub-menu {	background: none;
+	background-color: #021c30; 
+}
+#main-nav ul a, #main-nav .current_page_item ul a, #main-nav ul .current_page_item a, #main-nav .current-menu-item ul a, #main-nav ul .current-menu-item a, .fixed-header #main-nav ul a, #main-nav .has-mega-column > .sub-menu a {	
+	color: #ffffff; 
+}
+#main-nav ul a:hover, #main-nav .current_page_item ul a:hover, #main-nav ul .current_page_item a:hover, #main-nav .current-menu-item ul a:hover, #main-nav ul .current-menu-item a:hover, .fixed-header #main-nav ul a:hover {	
+	color: #e6e6e6; 
+}
+#sidebar a {	
+	color: #3b3b3b; 
+}
+#sidebar a:hover {	
+	color: #ffffff; 
+}
+#sidebar .widget {	
+	margin-bottom: 20px;
+	margin-left: 3px; 
+}
+#footerwrap {	background: none;
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+@media screen and (max-width: 1280px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }#headerwrap #mobile-menu.sidemenu-on { background: none;
+	background-color: #021c30; }#headerwrap #mobile-menu.sidemenu-on nav li { 
+	color: #ffffff; }#headerwrap #mobile-menu.sidemenu-on nav a:hover, #headerwrap #mobile-menu.sidemenu-on nav .current-menu-item > a { 
+	color: #b8aaaa; }

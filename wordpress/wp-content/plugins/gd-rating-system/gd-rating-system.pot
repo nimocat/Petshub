@@ -1,0 +1,2716 @@
+#: addons/comments/admin.php:19
+#: addons/comments/init.php:16
+msgid "Comments"
+msgstr ""
+
+#: addons/comments/admin.php:20
+msgid "Settings on this panel are for control over comments integration."
+msgstr ""
+
+#: addons/comments/admin.php:26
+#: addons/posts/admin.php:115
+msgid "Auto Embed"
+msgstr ""
+
+#: addons/comments/admin.php:27
+#: addons/posts/admin.php:124
+msgid "Location"
+msgstr ""
+
+#: addons/comments/admin.php:28
+#: addons/posts/admin.php:125
+#: addons/rich-snippets/admin.php:149
+#: core/grids/votes.php:147
+msgid "Method"
+msgstr ""
+
+#: addons/comments/admin.php:37
+#: addons/posts/admin.php:133
+msgid "Top"
+msgstr ""
+
+#: addons/comments/admin.php:38
+#: addons/posts/admin.php:134
+msgid "Bottom"
+msgstr ""
+
+#: addons/comments/admin.php:39
+#: addons/posts/admin.php:135
+msgid "Top and Bottom"
+msgstr ""
+
+#: addons/comments/admin.php:40
+#: addons/posts/admin.php:136
+#: addons/rich-snippets/admin.php:160
+#: core/internal.php:154
+msgid "Hide"
+msgstr ""
+
+#: addons/comments/init.php:25
+msgid "Easy to use direct rating integration for comments."
+msgstr ""
+
+#: addons/dynamic-load/init.php:16
+msgid "Dynamic Load"
+msgstr ""
+
+#: addons/dynamic-load/init.php:22
+msgid "Use AJAX to load active rating blocks."
+msgstr ""
+
+#: addons/feeds/admin.php:20
+#: addons/feeds/init.php:16
+msgid "Feeds"
+msgstr ""
+
+#: addons/feeds/admin.php:21
+msgid "Settings on this panel are for support of various feed types and ratings embedding."
+msgstr ""
+
+#: addons/feeds/admin.php:28
+msgid "RSS"
+msgstr ""
+
+#: addons/feeds/admin.php:29
+#: addons/feeds/admin.php:33
+#: addons/feeds/admin.php:37
+#: addons/feeds/admin.php:41
+#: core/admin/postback.php:38
+#: core/grids/votes.php:59
+msgid "Active"
+msgstr ""
+
+#: addons/feeds/admin.php:30
+#: addons/feeds/admin.php:34
+#: addons/feeds/admin.php:38
+#: addons/feeds/admin.php:42
+msgid "Hide Rating Block"
+msgstr ""
+
+#: addons/feeds/admin.php:32
+msgid "AMP: Accelerated Mobile Pages"
+msgstr ""
+
+#: addons/feeds/admin.php:36
+msgid "FIA: Facebook Instant Articles"
+msgstr ""
+
+#: addons/feeds/admin.php:40
+msgid "ANF: Apple News Format"
+msgstr ""
+
+#: addons/feeds/init.php:34
+msgid "Add feed friends rating into different feeds versions."
+msgstr ""
+
+#: addons/posts/admin.php:29
+msgid "Posts Integration"
+msgstr ""
+
+#: addons/posts/admin.php:36
+msgid "There are some limitations for using auto integration of ratings into posts."
+msgstr ""
+
+#: addons/posts/admin.php:38
+msgid "This addon adds rating block into single post, page or other post types content using 'the_content' filter. It works on singular pages only and only inside the main query loop."
+msgstr ""
+
+#: addons/posts/admin.php:39
+msgid "If your theme uses some non standard approach to display posts, this addon will most likely fail to add rating block into content."
+msgstr ""
+
+#: addons/posts/admin.php:40
+msgid "For post types added by third party plugins, this addon might not work if these plugins use some non standard method to display the content or use own query or templates system."
+msgstr ""
+
+#: addons/posts/admin.php:41
+msgid "This addon will not work with bbPress topics and replies, and bbPress post types are not displayed in this addon settings."
+msgstr ""
+
+#: addons/posts/admin.php:43
+msgid "There are different things you can do to add ratings if this addon is not working for your post types or theme."
+msgstr ""
+
+#: addons/posts/admin.php:45
+msgid "You can use shortcodes in the posts, pages or custom post types posts to display rating block in any location inside the content."
+msgstr ""
+
+#: addons/posts/admin.php:46
+msgid "You can use manual integration functions to add rating block directly into theme templates."
+msgstr ""
+
+#: addons/posts/admin.php:47
+msgid "To add ratings into bbPress topics or replies, use bbPress addon."
+msgstr ""
+
+#: addons/posts/admin.php:59
+msgid "Rating Embed"
+msgstr ""
+
+#: addons/posts/admin.php:108
+#: addons/posts/init.php:16
+msgid "Posts"
+msgstr ""
+
+#: addons/posts/admin.php:109
+msgid "Settings on this panel are for control over posts integration."
+msgstr ""
+
+#: addons/posts/init.php:29
+msgid "Easy to use direct rating integration for posts and pages."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:29
+#: addons/rich-snippets/admin.php:128
+#: addons/rich-snippets/init.php:16
+msgid "Rich Snippets"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:37
+msgid "Rich Snippets Links"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:44
+msgid "These are some of the rules related to use of rich snippets by Google."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:46
+msgid "There is no guarantee that Google will use rich snippets in the search results!"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:47
+msgid "Dpecification allows use of snippets only on single posts, pages and custom post type posts. You are not allowed to set snippets for archives, and this plugin will not generate rich snippets for anything other than singular content."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:48
+msgid "Specification requires that only one rating block is on one page, you can't have rich snippets for different rating methods on the same page."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:49
+msgid "When you make changes to the item scope parameters, make sure you test your page in Rich Snippets testing tool. Depending on the item scope you enter, additional parameters must be provided, but due to the nature of these you might need to provide custom code to expand data included for some item types you want to use."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:51
+msgid "Make sure you read additional information about using the Rich Snippets."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:53
+msgid "Many item scope schema types don't support use of review and rating elements. Make sure you check the Schema.org hierarchy to get all valid types."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:54
+msgid "Rich snippet will be generated only if there is at least one vote recorded for specified rating method."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:55
+msgid "You can override settings from this page on individual posts or pages edit pages."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:62
+msgid "Here are few important links for working with rich snippets."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:64
+msgid "Google Rich Snippets Testing Tool"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:65
+msgid "Schema.org full objects Hierarchy"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:72
+msgid "Rich Snippet"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:129
+msgid "Settings on this panel are for control over search engine rich snippets integration."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:136
+msgid "Generate Rich Snippets"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:137
+msgid "Additional Settings"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:138
+msgid "Single snippet per page"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:138
+msgid "Google specification requires that only one rating or review snippet is on a single page."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:139
+msgid "Snippet on singular pages only"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:139
+msgid "Google specification requires that rating or review is placed on content pages, not in archives."
+msgstr ""
+
+#: addons/rich-snippets/admin.php:148
+#: forms/meta/rich-snippets.php:2
+#: widgets/stars-rating-list.php:48
+msgid "Display"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:150
+#: forms/meta/rich-snippets.php:10
+msgid "Item Scope"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:158
+msgid "Use JSON-LD"
+msgstr ""
+
+#: addons/rich-snippets/admin.php:159
+msgid "Use Microdata"
+msgstr ""
+
+#: addons/rich-snippets/init.php:37
+msgid "Generate rich snippets used by Google for search engine results."
+msgstr ""
+
+#: addons/shortcake/init.php:16
+msgid "Shortcake"
+msgstr ""
+
+#: addons/shortcake/init.php:22
+msgid "Integration with Shortcake Shortcode UI plugin."
+msgstr ""
+
+#: addons/shortcake/load.php:18
+#: forms/panels/recalc.php:15
+#: methods/stars-rating/admin.php:26
+#: methods/stars-rating/admin.php:54
+#: methods/stars-rating/init.php:16
+#: rating/core.shortcodes.php:11
+msgid "Stars Rating"
+msgstr ""
+
+#: addons/shortcake/load.php:27
+#: rating/core.shortcodes.php:15
+msgid "Stars Rating - Auto Item"
+msgstr ""
+
+#: addons/shortcake/load.php:35
+msgid "Stars Rating - Items List"
+msgstr ""
+
+#: addons/shortcake/load.php:50
+#: addons/shortcake/load.php:76
+msgid "Rating object Entity and Type"
+msgstr ""
+
+#: addons/shortcake/load.php:57
+msgid "Rating object ID"
+msgstr ""
+
+#: addons/shortcake/load.php:61
+msgid "Entity and Type with ID here descirbe rating object."
+msgstr ""
+
+#: addons/shortcake/load.php:61
+#: addons/shortcake/load.php:68
+msgid "This ID must be integer higher than 0."
+msgstr ""
+
+#: addons/shortcake/load.php:64
+msgid "Rating Item ID"
+msgstr ""
+
+#: addons/shortcake/load.php:68
+msgid "If you now item ID for rating object, you can use it instead of Rating object entity, type and ID defined above."
+msgstr ""
+
+#: addons/shortcake/load.php:83
+msgid "Order By"
+msgstr ""
+
+#: addons/shortcake/load.php:90
+#: forms/widgets/stars-rating-list-content.php:26
+#: forms/widgets/stars-rating-list-content.php:35
+msgid "Order"
+msgstr ""
+
+#: addons/shortcake/load.php:97
+#: forms/widgets/stars-rating-list-content.php:9
+msgid "Limit"
+msgstr ""
+
+#: addons/shortcake/load.php:103
+msgid "Terms ID's (comma separated)"
+msgstr ""
+
+#: addons/shortcake/load.php:106
+msgid "For posts and custom post types."
+msgstr ""
+
+#: addons/shortcake/load.php:109
+msgid "Authors ID's (comma separated)"
+msgstr ""
+
+#: addons/shortcake/load.php:112
+msgid "For posts, pages and custom post types."
+msgstr ""
+
+#: addons/shortcake/load.php:115
+msgid "With minimal rating"
+msgstr ""
+
+#: addons/shortcake/load.php:121
+msgid "With minimal number of votes"
+msgstr ""
+
+#: addons/shortcake/load.php:132
+msgid "Additional rating block CSS classes (space separated)"
+msgstr ""
+
+#: addons/shortcake/load.php:137
+msgid "Shortcode wrapper CSS classes (space separated)"
+msgstr ""
+
+#: addons/shortcake/load.php:147
+#: forms/panels/recalc.php:30
+#: methods/stars-rating/admin.php:96
+msgid "Votes Distribution"
+msgstr ""
+
+#: addons/shortcake/load.php:154
+#: addons/shortcake/load.php:212
+#: forms/widgets/stars-rating-list-display.php:5
+#: methods/stars-rating/admin.php:84
+msgid "Template"
+msgstr ""
+
+#: addons/shortcake/load.php:161
+#: methods/stars-rating/admin.php:104
+msgid "Alignment"
+msgstr ""
+
+#: addons/shortcake/load.php:168
+#: addons/shortcake/load.php:219
+#: forms/widgets/stars-rating-list-display.php:21
+msgid "Style Type"
+msgstr ""
+
+#: addons/shortcake/load.php:175
+#: addons/shortcake/load.php:226
+#: forms/widgets/stars-rating-list-display.php:28
+#: methods/stars-rating/admin.php:86
+msgid "Image"
+msgstr ""
+
+#: addons/shortcake/load.php:182
+#: addons/shortcake/load.php:233
+#: methods/stars-rating/admin.php:87
+msgid "Size"
+msgstr ""
+
+#: addons/shortcake/load.php:186
+#: addons/shortcake/load.php:237
+msgid "Size in pixels for each star."
+msgstr ""
+
+#: addons/shortcake/load.php:189
+#: addons/shortcake/load.php:195
+#: addons/shortcake/load.php:201
+#: addons/shortcake/load.php:240
+#: addons/shortcake/load.php:246
+#: addons/shortcake/load.php:252
+msgid "Font Icon Colors"
+msgstr ""
+
+#: addons/shortcake/load.php:189
+#: addons/shortcake/load.php:240
+#: forms/widgets/stars-rating-list-display.php:42
+#: methods/stars-rating/admin.php:90
+msgid "Empty Stars"
+msgstr ""
+
+#: addons/shortcake/load.php:195
+#: addons/shortcake/load.php:246
+#: forms/widgets/stars-rating-list-display.php:46
+#: methods/stars-rating/admin.php:91
+msgid "Current Stars"
+msgstr ""
+
+#: addons/shortcake/load.php:201
+#: addons/shortcake/load.php:252
+#: methods/stars-rating/admin.php:92
+msgid "Active Stars"
+msgstr ""
+
+#: core/admin/ajax.php:38
+msgid "Transfer process is starting..."
+msgstr ""
+
+#: core/admin/ajax.php:39
+#: core/admin/ajax.php:112
+msgid "Total of %s rating objects found."
+msgstr ""
+
+#: core/admin/ajax.php:46
+msgid "Transfer process has been stopped."
+msgstr ""
+
+#: core/admin/ajax.php:53
+msgid "Transfer process has finished."
+msgstr ""
+
+#: core/admin/ajax.php:90
+#: core/admin/ajax.php:171
+msgid "%s of %s done (%s sec)."
+msgstr ""
+
+#: core/admin/ajax.php:121
+msgid "Process has completed."
+msgstr ""
+
+#: core/admin/getback.php:143
+msgid "Only administrators can use export features."
+msgstr ""
+
+#: core/admin/install.php:122
+msgid "Some columns are missing."
+msgstr ""
+
+#: core/admin/install.php:127
+msgid "Table missing."
+msgstr ""
+
+#: core/admin/shared.php:47
+msgid "Average"
+msgstr ""
+
+#: core/admin/shared.php:53
+msgid "Average Rating"
+msgstr ""
+
+#: core/admin/shared.php:54
+#: templates/gdrts--stars-rating--list--shortcode.php:9
+msgid "Votes"
+msgstr ""
+
+#: core/admin/shared.php:55
+#: core/grids/ratings.php:129
+#: core/grids/votes.php:104
+#: core/grids/votes.php:104
+msgid "Item ID"
+msgstr ""
+
+#: core/admin/shared.php:56
+msgid "Object ID"
+msgstr ""
+
+#: core/admin/shared.php:57
+#: core/grids/ratings.php:133
+msgid "Latest Vote"
+msgstr ""
+
+#: core/admin/shared.php:63
+msgid "Descending"
+msgstr ""
+
+#: core/admin/shared.php:64
+msgid "Ascending"
+msgstr ""
+
+#: core/admin/shared.php:96
+msgid "Normalized"
+msgstr ""
+
+#: core/admin/shared.php:97
+msgid "Exact"
+msgstr ""
+
+#: core/admin/shared.php:103
+msgid "100% - Full Star"
+msgstr ""
+
+#: core/admin/shared.php:104
+msgid "50% - Half Star"
+msgstr ""
+
+#: core/admin/shared.php:105
+msgid "25% - One Quarter Star"
+msgstr ""
+
+#: core/admin/shared.php:106
+msgid "20% - One Fifth Star"
+msgstr ""
+
+#: core/admin/shared.php:107
+msgid "10% - One Tenth Star"
+msgstr ""
+
+#: core/admin/shared.php:113
+msgid "Single vote only"
+msgstr ""
+
+#: core/admin/shared.php:114
+msgid "Single vote with revote"
+msgstr ""
+
+#: core/admin/shared.php:115
+msgid "Multiple votes"
+msgstr ""
+
+#: core/admin/shared.php:121
+msgid "No alignment"
+msgstr ""
+
+#: core/admin/shared.php:122
+msgid "Left"
+msgstr ""
+
+#: core/admin/shared.php:123
+msgid "Center"
+msgstr ""
+
+#: core/admin/shared.php:124
+msgid "Right"
+msgstr ""
+
+#: core/admin/shared.php:72
+#: methods/stars-rating/render.php:238
+msgid "star"
+msgid_plural "stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/grids/ratings.php:52
+#: core/grids/votes.php:58
+msgid "All"
+msgstr ""
+
+#: core/grids/ratings.php:53
+msgid "Rated"
+msgstr ""
+
+#: core/grids/ratings.php:54
+msgid "Not Rated"
+msgstr ""
+
+#: core/grids/ratings.php:61
+#: core/grids/votes.php:67
+msgid "All Time"
+msgstr ""
+
+#: core/grids/ratings.php:62
+#: core/grids/votes.php:68
+msgid "Last hour"
+msgstr ""
+
+#: core/grids/ratings.php:63
+#: core/grids/votes.php:69
+msgid "Last 4 hours"
+msgstr ""
+
+#: core/grids/ratings.php:64
+#: core/grids/votes.php:70
+msgid "Last 8 hours"
+msgstr ""
+
+#: core/grids/ratings.php:65
+#: core/grids/votes.php:71
+msgid "Last 12 hours"
+msgstr ""
+
+#: core/grids/ratings.php:66
+#: core/grids/votes.php:72
+msgid "Last day"
+msgstr ""
+
+#: core/grids/ratings.php:67
+#: core/grids/votes.php:73
+msgid "Last 2 days"
+msgstr ""
+
+#: core/grids/ratings.php:68
+#: core/grids/votes.php:74
+msgid "Last 3 day"
+msgstr ""
+
+#: core/grids/ratings.php:69
+#: core/grids/votes.php:75
+msgid "Last 5 day"
+msgstr ""
+
+#: core/grids/ratings.php:70
+#: core/grids/votes.php:76
+msgid "Last 7 day"
+msgstr ""
+
+#: core/grids/ratings.php:71
+#: core/grids/votes.php:77
+msgid "Last 30 days"
+msgstr ""
+
+#: core/grids/ratings.php:76
+#: core/grids/votes.php:86
+#: core/internal.php:90
+#: forms/widgets/shared-display.php:4
+#: forms/settings.php:13
+#: widgets/stars-rating-list.php:46
+msgid "Global"
+msgstr ""
+
+#: core/grids/ratings.php:77
+#: core/grids/votes.php:87
+msgid "All Entities"
+msgstr ""
+
+#: core/grids/ratings.php:90
+#: core/grids/votes.php:106
+#: forms/widgets/stars-rating-list-content.php:0
+msgid "Filter"
+msgstr ""
+
+#: core/grids/ratings.php:108
+#: core/grids/votes.php:124
+msgid "%s %s"
+msgstr ""
+
+#: core/grids/ratings.php:130
+msgid "Rating Type"
+msgstr ""
+
+#: core/grids/ratings.php:131
+msgid "ID"
+msgstr ""
+
+#: core/grids/ratings.php:132
+#: forms/tools.php:10
+msgid "Ratings"
+msgstr ""
+
+#: core/grids/ratings.php:161
+#: core/grids/ratings.php:228
+#: core/grids/types.php:56
+#: core/admin.php:227
+msgid "Delete"
+msgstr ""
+
+#: core/grids/ratings.php:162
+#: core/admin.php:230
+#: rating/font.default.php:32
+msgid "Clear"
+msgstr ""
+
+#: core/grids/ratings.php:163
+msgid "Clear Stars Ratings"
+msgstr ""
+
+#: core/grids/ratings.php:181
+msgid "clear"
+msgstr ""
+
+#: core/grids/ratings.php:184
+msgid "Empty"
+msgstr ""
+
+#: core/grids/ratings.php:193
+#: core/grids/ratings.php:214
+#: core/grids/votes.php:189
+#: core/grids/votes.php:223
+#: core/grids/votes.php:262
+#: core/grids/votes.php:283
+msgid "Log"
+msgstr ""
+
+#: core/grids/ratings.php:203
+#: core/grids/votes.php:199
+msgid "missing"
+msgstr ""
+
+#: core/grids/ratings.php:217
+msgid "Item not found"
+msgstr ""
+
+#: core/grids/ratings.php:224
+#: core/grids/votes.php:209
+msgid "View"
+msgstr ""
+
+#: core/grids/ratings.php:240
+msgid "No Votes"
+msgstr ""
+
+#: core/grids/types.php:37
+#: forms/entity.php:59
+msgid "Entity"
+msgstr ""
+
+#: core/grids/types.php:38
+#: forms/entity.php:64
+#: forms/entity.php:65
+msgid "Types"
+msgstr ""
+
+#: core/grids/types.php:49
+#: forms/entity.php:60
+#: forms/entity.php:65
+msgid "Name"
+msgstr ""
+
+#: core/grids/types.php:50
+#: forms/entity.php:61
+#: forms/entity.php:65
+msgid "Label"
+msgstr ""
+
+#: core/grids/types.php:53
+msgid "Edit"
+msgstr ""
+
+#: core/grids/types.php:73
+msgid "No types registered."
+msgstr ""
+
+#: core/grids/votes.php:60
+msgid "Inactive"
+msgstr ""
+
+#: core/grids/votes.php:81
+msgid "All Methods"
+msgstr ""
+
+#: core/grids/votes.php:105
+#: core/grids/votes.php:105
+msgid "User ID"
+msgstr ""
+
+#: core/grids/votes.php:145
+msgid "Log ID"
+msgstr ""
+
+#: core/grids/votes.php:146
+#: templates/gdrts--stars-rating--list--shortcode.php:8
+msgid "Item"
+msgstr ""
+
+#: core/grids/votes.php:148
+msgid "Action"
+msgstr ""
+
+#: core/grids/votes.php:149
+#: methods/stars-rating/admin.php:74
+msgid "Vote"
+msgstr ""
+
+#: core/grids/votes.php:150
+msgid "User"
+msgstr ""
+
+#: core/grids/votes.php:151
+msgid "IP"
+msgstr ""
+
+#: core/grids/votes.php:152
+msgid "Logged"
+msgstr ""
+
+#: core/grids/votes.php:171
+msgid "Delete vote"
+msgstr ""
+
+#: core/grids/votes.php:175
+msgid "Remove from log"
+msgstr ""
+
+#: core/grids/votes.php:245
+msgid "Remove from Log"
+msgstr ""
+
+#: core/grids/votes.php:249
+msgid "Delete Vote"
+msgstr ""
+
+#: core/admin.php:70
+msgid "You don't have rights to control these settings"
+msgstr ""
+
+#: core/admin.php:32
+msgid "Upgrade to GD Rating System Pro"
+msgstr ""
+
+#: core/admin.php:53
+msgid "GD Rating System"
+msgstr ""
+
+#: core/admin.php:88
+#: core/admin.php:102
+msgid "Rows"
+msgstr ""
+
+#: core/admin.php:143
+msgid "GD Rating System is activated and it needs to finish installation."
+msgstr ""
+
+#: core/admin.php:144
+msgid "Click Here"
+msgstr ""
+
+#: core/admin.php:151
+msgid "Overview"
+msgstr ""
+
+#: core/admin.php:152
+#: forms/about.php:29
+msgid "About"
+msgstr ""
+
+#: core/admin.php:153
+#: forms/settings.php:61
+msgid "Settings"
+msgstr ""
+
+#: core/admin.php:154
+#: forms/rule.php:57
+#: forms/rules.php:58
+msgid "Rules"
+msgstr ""
+
+#: core/admin.php:155
+#: core/admin.php:331
+#: forms/types.php:12
+msgid "Rating Types"
+msgstr ""
+
+#: core/admin.php:156
+msgid "Ratings Items"
+msgstr ""
+
+#: core/admin.php:157
+#: core/admin.php:352
+#: core/internal.php:59
+#: core/internal.php:99
+msgid "Votes Log"
+msgstr ""
+
+#: core/admin.php:158
+#: core/internal.php:102
+#: forms/transfer.php:35
+msgid "Transfer Data"
+msgstr ""
+
+#: core/admin.php:159
+#: forms/information.php:27
+msgid "Information"
+msgstr ""
+
+#: core/admin.php:160
+#: forms/tools.php:45
+msgid "Tools"
+msgstr ""
+
+#: core/admin.php:225
+#: forms/setup/database.php:22
+msgid "OK"
+msgstr ""
+
+#: core/admin.php:226
+msgid "Cancel"
+msgstr ""
+
+#: core/admin.php:228
+msgid "Select"
+msgstr ""
+
+#: core/admin.php:229
+#: core/admin.php:272
+#: forms/entity.php:65
+#: forms/tools.php:28
+msgid "Remove"
+msgstr ""
+
+#: core/admin.php:231
+#: core/admin.php:276
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: core/admin.php:232
+msgid "Please Wait..."
+msgstr ""
+
+#: core/admin.php:233
+msgid "Nothing is selected, process will not start."
+msgstr ""
+
+#: core/admin.php:234
+msgid "Stop Process"
+msgstr ""
+
+#: core/admin.php:273
+msgid "Preview"
+msgstr ""
+
+#: core/admin.php:274
+msgid "Select Image"
+msgstr ""
+
+#: core/admin.php:275
+msgid "Use Selected Image"
+msgstr ""
+
+#: core/admin.php:277
+msgid "Image not selected."
+msgstr ""
+
+#: core/admin.php:321
+msgid "Here are few important pointers about this panel."
+msgstr ""
+
+#: core/admin.php:324
+msgid "All registered rating entities and types are listed here for overview purposes."
+msgstr ""
+
+#: core/admin.php:325
+msgid "You can't modify rating entities and types registered with code."
+msgstr ""
+
+#: core/admin.php:340
+msgid "Here are few important pointers about this panel. Make sure you understand the limitations and basic rules for using this panel."
+msgstr ""
+
+#: core/admin.php:343
+msgid "Deleting votes from the log will recalculate object ratings. If you delete one vote, plugin will take previous vote by the user for the object, if available. This way it is undoing the revoting."
+msgstr ""
+
+#: core/admin.php:344
+msgid "It is not recommended to use 'Remove from Log' option because it will just remove log entry, it will not recaulcaulte object rating. If you don't understand this option, do not use it. This option is disabled by default, and it can be enabled from plugin settings."
+msgstr ""
+
+#: core/admin.php:345
+msgid "If log takes too long to load, disable GEO Location flags for votes IP's from plugin settings."
+msgstr ""
+
+#: core/admin.php:346
+msgid "Do not mess with votes log in database directly, or you might delete something that will cause problems to the way plugin works."
+msgstr ""
+
+#: core/internal.php:33
+#: forms/settings.php:39
+msgid "Rating Methods"
+msgstr ""
+
+#: core/internal.php:34
+#: forms/rules.php:18
+msgid "Addons"
+msgstr ""
+
+#: core/internal.php:60
+msgid "Save User Agent"
+msgstr ""
+
+#: core/internal.php:60
+msgid "User agent string can take a lot of space in the database, and they represent user browser or application used to vote."
+msgstr ""
+
+#: core/internal.php:62
+msgid "Anonymous Ratings"
+msgstr ""
+
+#: core/internal.php:63
+msgid "Verification"
+msgstr ""
+
+#: core/internal.php:63
+msgid "If the user voting is visitor (not logged in), there are different methods to verify if visitor can vote."
+msgstr ""
+
+#: core/internal.php:64
+msgid "IP Validation"
+msgstr ""
+
+#: core/internal.php:64
+msgid "If logged user and visitor (not logged in) share IP, this option determines if visitor can vote."
+msgstr ""
+
+#: core/internal.php:64
+msgid "Allow visitor to have same IP as logged user"
+msgstr ""
+
+#: core/internal.php:66
+msgid "AJAX Requests"
+msgstr ""
+
+#: core/internal.php:67
+msgid "Set no cache header"
+msgstr ""
+
+#: core/internal.php:69
+msgid "Calculations"
+msgstr ""
+
+#: core/internal.php:70
+msgid "Decimal rounding"
+msgstr ""
+
+#: core/internal.php:74
+msgid "Nonce Protection"
+msgstr ""
+
+#: core/internal.php:75
+msgid "Use Nonce Protection"
+msgstr ""
+
+#: core/internal.php:75
+msgid "Each AJAX rating request will be protected by Nonce for additional security. But, if you use cache plugins, Nonce check will fail if the cached pages are too old."
+msgstr ""
+
+#: core/internal.php:79
+msgid "Debug Info"
+msgstr ""
+
+#: core/internal.php:80
+msgid "Add into rating block"
+msgstr ""
+
+#: core/internal.php:80
+msgid "This will include various useful information into each rating block for debug purposes."
+msgstr ""
+
+#: core/internal.php:82
+msgid "Files"
+msgstr ""
+
+#: core/internal.php:83
+msgid "Load CSS and JS"
+msgstr ""
+
+#: core/internal.php:83
+msgid "If set to 'Force load sources', plugin will load source files. If set to 'Auto load', plugin will load minified files, or source files, based on the SCRIPT_DEBUG value from WP Config."
+msgstr ""
+
+#: core/internal.php:85
+msgid "JavaScript"
+msgstr ""
+
+#: core/internal.php:86
+msgid "AJAX Errors"
+msgstr ""
+
+#: core/internal.php:86
+msgid "Control how the AJAX errors are handled."
+msgstr ""
+
+#: core/internal.php:91
+#: core/internal.php:95
+msgid "Cache Time to Live"
+msgstr ""
+
+#: core/internal.php:91
+#: core/internal.php:95
+msgid "Time (in seconds) for the cache entry to remain in cache before expiration."
+msgstr ""
+
+#: core/internal.php:93
+msgid "Main Query System"
+msgstr ""
+
+#: core/internal.php:94
+#: core/internal.php:111
+#: core/internal.php:115
+#: forms/panels/about.php:6
+#: forms/rule.php:78
+#: methods/stars-rating/admin.php:42
+msgid "Status"
+msgstr ""
+
+#: core/internal.php:94
+msgid "Each main period query result will be stored to cache."
+msgstr ""
+
+#: core/internal.php:94
+msgid "Enable Cache"
+msgstr ""
+
+#: core/internal.php:100
+msgid "Show Remove from Log"
+msgstr ""
+
+#: core/internal.php:100
+msgid "Remove from log option is used for raw removal of votes from log, and it doesn't affect the rating object agregated results. If you don't understand how this works, do not use this option."
+msgstr ""
+
+#: core/internal.php:103
+#: core/internal.php:106
+msgid "Records per Call"
+msgstr ""
+
+#: core/internal.php:103
+#: core/internal.php:106
+msgid "Number of records to process with each call."
+msgstr ""
+
+#: core/internal.php:105
+msgid "Recalculation"
+msgstr ""
+
+#: core/internal.php:110
+#: core/internal.php:111
+#: core/internal.php:115
+msgid "Disable Voting"
+msgstr ""
+
+#: core/internal.php:111
+#: core/internal.php:115
+msgid "This option will disable all voting."
+msgstr ""
+
+#: core/internal.php:112
+#: core/internal.php:116
+msgid "Message"
+msgstr ""
+
+#: core/internal.php:112
+#: core/internal.php:116
+msgid "If you want, you can set the message to be displayed with rating blocks if the voting is disabled."
+msgstr ""
+
+#: core/internal.php:114
+msgid "Maintenance Mode"
+msgstr ""
+
+#: core/internal.php:118
+msgid "Background Maintenance Job"
+msgstr ""
+
+#: core/internal.php:119
+msgid "Hour of the day to run"
+msgstr ""
+
+#: core/internal.php:119
+msgid "Maintenance job will run once a day at the specified hour. Set the time of day when you have smallest number of visitors (usually night time). Based on the server time."
+msgstr ""
+
+#: core/internal.php:120
+msgid "Stars Changed Recalculation"
+msgstr ""
+
+#: core/internal.php:120
+msgid "If you make changes to the number of stars for stars rating or review methods, enable this option to recalculate ratings during daily maintenance. This option will auto disable after it is done. It will be auto activated if number of stars change is detected."
+msgstr ""
+
+#: core/internal.php:138
+msgid "One decimal"
+msgstr ""
+
+#: core/internal.php:139
+msgid "Two decimals"
+msgstr ""
+
+#: core/internal.php:145
+msgid "IP or Cookie"
+msgstr ""
+
+#: core/internal.php:146
+msgid "IP and Cookie"
+msgstr ""
+
+#: core/internal.php:147
+msgid "IP Only"
+msgstr ""
+
+#: core/internal.php:148
+msgid "Cookie Only"
+msgstr ""
+
+#: core/internal.php:155
+msgid "Log to Console"
+msgstr ""
+
+#: core/internal.php:156
+msgid "Show Alert"
+msgstr ""
+
+#: core/internal.php:162
+msgid "Auto load sources or minified"
+msgstr ""
+
+#: core/internal.php:163
+msgid "Force load sources"
+msgstr ""
+
+#: forms/dialogs/log.php:1
+#: forms/dialogs/log.php:8
+#: forms/dialogs/log.php:15
+#: forms/dialogs/log.php:22
+#: forms/dialogs/ratings.php:1
+#: forms/dialogs/ratings.php:8
+#: forms/dialogs/ratings.php:15
+#: forms/dialogs/ratings.php:22
+#: forms/dialogs/rules.php:1
+#: forms/dialogs/types.php:1
+msgid "Are you sure?"
+msgstr ""
+
+#: forms/dialogs/log.php:3
+msgid "All selected log entries (votes) will be removed from log. Rating object rating using votes removed from log will be recalculated to take into accout log entries removal."
+msgstr ""
+
+#: forms/dialogs/log.php:4
+#: forms/dialogs/log.php:11
+#: forms/dialogs/log.php:18
+#: forms/dialogs/log.php:25
+#: forms/dialogs/ratings.php:4
+#: forms/dialogs/ratings.php:11
+#: forms/dialogs/ratings.php:18
+#: forms/dialogs/ratings.php:25
+#: forms/dialogs/rules.php:3
+#: forms/dialogs/types.php:4
+msgid "Are you sure you want to proceed? This operation is not reversable!"
+msgstr ""
+
+#: forms/dialogs/log.php:10
+msgid "All selected log entries (votes) will be removed from log. Rating object rating will not be affected."
+msgstr ""
+
+#: forms/dialogs/log.php:17
+msgid "All selected log entry (vote) will be removed from log. Rating object rating using vote removed from log will be recalculated to take into accout log entry removal."
+msgstr ""
+
+#: forms/dialogs/log.php:24
+msgid "Selected log entry (vote) will be removed from log. Rating object rating will not be affected."
+msgstr ""
+
+#: forms/dialogs/ratings.php:3
+msgid "All selected rating objects will be removed from database, and all log entries associated with them will be also removed."
+msgstr ""
+
+#: forms/dialogs/ratings.php:10
+msgid "All selected rating objects will be reseted, and all log entries associated with them will be removed from database."
+msgstr ""
+
+#: forms/dialogs/ratings.php:17
+msgid "Selected rating object will be removed from database, and all associated log entries will be also removed."
+msgstr ""
+
+#: forms/dialogs/ratings.php:24
+msgid "Rating data for this method will be reseted, and all log entries associated with them will be removed from database."
+msgstr ""
+
+#: forms/dialogs/types.php:3
+msgid "Entity will be removed from the system and not available for use anymore. Any data associated with it will remain in the database."
+msgstr ""
+
+#: forms/meta/post.php:8
+msgid "Nothing to show here."
+msgstr ""
+
+#: forms/meta/posts-integration.php:2
+msgid "Display Rating Block"
+msgstr ""
+
+#: forms/meta/posts-integration.php:6
+#: forms/meta/rich-snippets.php:6
+msgid "Rating Method"
+msgstr ""
+
+#: forms/meta/posts-integration.php:3
+#: forms/meta/posts-integration.php:7
+#: forms/meta/rich-snippets.php:3
+#: forms/meta/rich-snippets.php:7
+msgid "Default"
+msgstr ""
+
+#: forms/meta/rich-snippets.php:12
+msgid "Leave empty to use default value from the Rich Snippet settings."
+msgstr ""
+
+#: forms/panels/about.php:4
+#: forms/panels/changelog.php:1
+#: forms/panels/changelog.php:147
+#: forms/front.php:23
+msgid "Version"
+msgstr ""
+
+#: forms/panels/about.php:5
+msgid "Codename"
+msgstr ""
+
+#: forms/panels/about.php:7
+#: forms/front.php:18
+msgid "Edition"
+msgstr ""
+
+#: forms/panels/about.php:8
+msgid "Build"
+msgstr ""
+
+#: forms/panels/about.php:9
+msgid "Date"
+msgstr ""
+
+#: forms/panels/about.php:13
+msgid "First released"
+msgstr ""
+
+#: forms/panels/about.php:22
+msgid "On Dev4Press"
+msgstr ""
+
+#: forms/panels/dev4press.php:1
+msgid "Plugins"
+msgstr ""
+
+#: forms/panels/dev4press.php:22
+msgid "Plugins with Addons"
+msgstr ""
+
+#: forms/panels/export.php:3
+#: forms/panels/import.php:1
+#: forms/panels/recalc.php:2
+#: forms/panels/recalc.php:48
+#: forms/panels/remove.php:1
+#: forms/shared/transfer-process.php:1
+#: forms/transfer/gd-star-rating.php:4
+#: forms/transfer/kk-star-ratings.php:4
+#: forms/transfer/wp-postratings.php:4
+#: forms/transfer/yet-another-stars-rating.php:4
+msgid "Important"
+msgstr ""
+
+#: forms/panels/export.php:5
+msgid "With this tool you export all plugin settings into plain text file (PHP serialized content). Do not modify export file, any change you make can make it unusable."
+msgstr ""
+
+#: forms/panels/import.php:3
+msgid "With this tool you import all plugin settings from plain text file made using the Export tool. If you made changes to this file, it is very likely that import will fail."
+msgstr ""
+
+#: forms/panels/import.php:8
+msgid "Import File"
+msgstr ""
+
+#: forms/panels/import.php:10
+msgid "Select file you want to import"
+msgstr ""
+
+#: forms/panels/recalc.php:4
+msgid "Recalculation tools will take existing log data and recalculate each object ratings based on the log."
+msgstr ""
+
+#: forms/panels/recalc.php:6
+msgid "If the log entries are not complete, this will affect the final ratings results."
+msgstr ""
+
+#: forms/panels/recalc.php:7
+msgid "Once the process start, voting on the website will be disabled to avoid problems with data changing during the process."
+msgstr ""
+
+#: forms/panels/recalc.php:8
+msgid "Recalculation page will show the progress, make sure not to close the page while the process is working."
+msgstr ""
+
+#: forms/panels/recalc.php:9
+msgid "Process is not reversible, and it is highly recommended to create database backup before proceeding with this tool."
+msgstr ""
+
+#: forms/panels/recalc.php:20
+#: methods/stars-rating/admin.php:71
+#: methods/stars-rating/render.php:34
+#: methods/stars-rating/render.php:382
+#: templates/gdrts--stars-rating--list--shortcode.php:10
+msgid "Rating"
+msgstr ""
+
+#: forms/panels/recalc.php:24
+msgid "Recalculate average rating"
+msgstr ""
+
+#: forms/panels/recalc.php:34
+msgid "Recalculate votes distribution"
+msgstr ""
+
+#: forms/panels/recalc.php:36
+msgid "It is highly recommended to use both options for recalculation, or you will end up with potential discrapancy in results if you use votes distribution with average ratings."
+msgstr ""
+
+#: forms/panels/recalc.php:50
+msgid "Recalculation is in progress."
+msgstr ""
+
+#: forms/panels/recalc.php:52
+msgid "Do not close this page, it will stop the process. If that happens, rating maintenance mode will remain active."
+msgstr ""
+
+#: forms/panels/recalc.php:53
+msgid "If the process stops responding for a long time (due to server related issues, or some other problem), visit Settings -> Advanced page to disable maintenance mode."
+msgstr ""
+
+#: forms/panels/recalc.php:59
+#: forms/shared/transfer-process.php:13
+msgid "Processing progress"
+msgstr ""
+
+#: forms/panels/remove.php:3
+msgid "This tool can remove plugin settings saved in the WordPress options table and all database tables added by the plugin."
+msgstr ""
+
+#: forms/panels/remove.php:4
+msgid "Deletion operations are not reversible, and it is highly recommended to create database backup before proceeding with this tool."
+msgstr ""
+
+#: forms/panels/remove.php:5
+msgid "If you choose to remove plugin settings, once that is done, all settings will be reinitialized to default values if you choose to leave plugin active."
+msgstr ""
+
+#: forms/panels/remove.php:10
+msgid "Remove plugin settings"
+msgstr ""
+
+#: forms/panels/remove.php:13
+msgid "All Plugin Settings"
+msgstr ""
+
+#: forms/panels/remove.php:19
+msgid "Remove database data and tables"
+msgstr ""
+
+#: forms/panels/remove.php:22
+msgid "Remove plugins database tables and all data in them"
+msgstr ""
+
+#: forms/panels/remove.php:25
+msgid "Remove all data from database tables"
+msgstr ""
+
+#: forms/panels/remove.php:28
+msgid "Database tables that will be affected"
+msgstr ""
+
+#: forms/panels/remove.php:39
+msgid "Disable Plugin"
+msgstr ""
+
+#: forms/panels/remove.php:42
+msgid "Disable plugin"
+msgstr ""
+
+#: forms/panels/resources.php:1
+msgid "Font Icons"
+msgstr ""
+
+#: forms/panels/resources.php:11
+msgid "Images"
+msgstr ""
+
+#: forms/panels/templates.php:55
+msgid "Ratings List"
+msgstr ""
+
+#: forms/panels/templates.php:63
+msgid "Ratings Block"
+msgstr ""
+
+#: forms/setup/cache.php:0
+msgid "Cache Cleanup"
+msgstr ""
+
+#: forms/setup/cache.php:5
+msgid "Plugin cache is flushed."
+msgstr ""
+
+#: forms/setup/database.php:0
+msgid "Additional database tables"
+msgstr ""
+
+#: forms/setup/database.php:8
+msgid "Database Upgrade Notices"
+msgstr ""
+
+#: forms/setup/database.php:12
+msgid "Database Tables Check"
+msgstr ""
+
+#: forms/setup/database.php:20
+msgid "ERROR"
+msgstr ""
+
+#: forms/setup/settings.php:0
+msgid "Plugin Settings"
+msgstr ""
+
+#: forms/setup/settings.php:8
+msgid "Plugin settings are updated."
+msgstr ""
+
+#: forms/setup/templates.php:0
+msgid "Rating templates"
+msgstr ""
+
+#: forms/setup/templates.php:5
+msgid "Templates list saved."
+msgstr ""
+
+#: forms/shared/top.php:25
+msgid "Settings are saved."
+msgstr ""
+
+#: forms/shared/top.php:28
+msgid "Rule removal operation completed."
+msgstr ""
+
+#: forms/shared/top.php:31
+msgid "Rule update operation completed."
+msgstr ""
+
+#: forms/shared/top.php:34
+msgid "Entity removal operation completed."
+msgstr ""
+
+#: forms/shared/top.php:37
+msgid "Import operation completed."
+msgstr ""
+
+#: forms/shared/top.php:40
+msgid "Invalid transfer configuration. Transfer failed."
+msgstr ""
+
+#: forms/shared/top.php:44
+msgid "Data transfer completed."
+msgstr ""
+
+#: forms/shared/top.php:47
+msgid "Nothing done."
+msgstr ""
+
+#: forms/shared/top.php:50
+msgid "Nothing removed."
+msgstr ""
+
+#: forms/shared/top.php:53
+msgid "Removal operation completed."
+msgstr ""
+
+#: forms/shared/transfer-process.php:3
+msgid "Data transfer is in progress."
+msgstr ""
+
+#: forms/shared/transfer-process.php:5
+msgid "Do not close this page, it will interupt the transfer process."
+msgstr ""
+
+#: forms/shared/transfer-process.php:6
+msgid "Use Stop Process button to stop the transfer. After you do that, please wait for the progress message that the process has stopped."
+msgstr ""
+
+#: forms/shared/transfer-process.php:7
+msgid "If you used Log based transfer, you can continue with the transfer later, and plugin will skip data that was previously transferred."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:6
+msgid "This tool can import rating data from GD Star Rating plugin. Due to the vastly different strucutre of database tables between these plugins, there are some limitations to the import process."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:8
+msgid "This tool can transfer posts, pages and comments ratings and number of votes along with votes log data."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:9
+#: forms/transfer/kk-star-ratings.php:10
+#: forms/transfer/wp-postratings.php:9
+#: forms/transfer/yet-another-stars-rating.php:9
+msgid "Imported data will be marked with special import flag and will be skipped later if you decide to use this tool again."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:10
+msgid "GD Star Rating settings, individual posts and comments rules or trend data can't be transfered or used in any way."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:11
+msgid "Data for multi star rating can't be transfered at this time, since GD Rating System plugin doesn't have this rating method."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:12
+msgid "For import process to work, all GD Star Rating database tables must be present."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:13
+msgid "If there is data missing, or if it can't be matched correctly, the transfer might be incomplete."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:14
+msgid "Old GD Star Rating plugin database tables will not be modified in any way or deleted during this import process."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:16
+msgid "To make transfer faster, please follow these rules."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:18
+msgid "To improve the speed of transfer, convert GD Star Rating tables from MyISAM to InnoDB Engine."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:19
+msgid "Make sure to run each rating method import individually. Transfering multiple rating methods at once, can slow down the process."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:35
+#: forms/transfer/wp-postratings.php:29
+#: forms/transfer/yet-another-stars-rating.php:29
+msgid "Import not possible"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:37
+#: forms/transfer/yet-another-stars-rating.php:31
+msgid "Required database tables not found. Import process can't proceed."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:48
+#: forms/transfer/kk-star-ratings.php:19
+#: forms/transfer/wp-postratings.php:43
+#: forms/transfer/yet-another-stars-rating.php:42
+msgid "Import: Stars Rating"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:54
+#: forms/transfer/kk-star-ratings.php:25
+#: forms/transfer/wp-postratings.php:49
+#: forms/transfer/yet-another-stars-rating.php:48
+#: forms/transfer/yet-another-stars-rating.php:85
+#: forms/tools.php:24
+#: forms/transfer.php:9
+#: forms/transfer.php:13
+#: forms/transfer.php:17
+#: forms/transfer.php:21
+msgid "Import"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:58
+#: forms/transfer/kk-star-ratings.php:29
+#: forms/transfer/wp-postratings.php:53
+#: forms/transfer/yet-another-stars-rating.php:52
+#: forms/transfer/yet-another-stars-rating.php:89
+msgid "Enabled"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:64
+#: forms/transfer/kk-star-ratings.php:35
+#: forms/transfer/wp-postratings.php:59
+msgid "Max Ratings"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:68
+msgid "Set this to the maximum rating value you used with GD Star Rating plugin for stars rating."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:69
+#: forms/transfer/kk-star-ratings.php:40
+#: forms/transfer/wp-postratings.php:64
+msgid "When imported, ratings will be recalculated based on this value and currently set number of stars in GD Rating System."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:70
+#: forms/transfer/kk-star-ratings.php:41
+#: forms/transfer/wp-postratings.php:65
+msgid "If you want to keep same max rating, make sure to adjust the GD Rating System settings for this rating method before the transfer."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:76
+#: forms/transfer/wp-postratings.php:71
+#: forms/transfer/yet-another-stars-rating.php:58
+msgid "How to import"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:80
+#: forms/transfer/wp-postratings.php:75
+#: forms/transfer/yet-another-stars-rating.php:62
+msgid "Rating based on ratings log only"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:81
+#: forms/transfer/wp-postratings.php:76
+#: forms/transfer/yet-another-stars-rating.php:63
+msgid "Rating results only"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:81
+#: forms/transfer/wp-postratings.php:76
+#: forms/transfer/yet-another-stars-rating.php:63
+msgid "Not recommended"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:83
+#: forms/transfer/wp-postratings.php:78
+#: forms/transfer/yet-another-stars-rating.php:65
+msgid "Rating log might contain incomplete list of ratings compared to rating results, but these ratings include more information and can be edited or deleted later."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:84
+#: forms/transfer/wp-postratings.php:79
+#: forms/transfer/yet-another-stars-rating.php:66
+msgid "If you import rating results only, you will not have votes distribution information since rating results are aggregated. To get votes distribution you must use log based import."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:91
+#: forms/transfer/kk-star-ratings.php:49
+#: forms/transfer/wp-postratings.php:86
+#: forms/transfer/yet-another-stars-rating.php:73
+#: forms/transfer/yet-another-stars-rating.php:97
+msgid "Rating method is not active."
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:97
+msgid "Import: Star Reviews"
+msgstr ""
+
+#: forms/transfer/gd-star-rating.php:105
+msgid "Import: Thumb Ratings"
+msgstr ""
+
+#: forms/transfer/kk-star-ratings.php:6
+#: forms/transfer/wp-postratings.php:6
+msgid "This tool can import rating data from WP PostRatings plugin. There are some important things you need to know about import process."
+msgstr ""
+
+#: forms/transfer/kk-star-ratings.php:8
+msgid "This tool can transfer posts ratings and number of votes. KK Star Ratings plugin doesn't have votes log, so you will only get rating results added, they can't be individually modified later, because KK Star Ratings only keeps overall ratings."
+msgstr ""
+
+#: forms/transfer/kk-star-ratings.php:9
+msgid "KK Star Ratings includes rating results only, you will not have votes distribution information since rating results are aggregated."
+msgstr ""
+
+#: forms/transfer/kk-star-ratings.php:11
+#: forms/transfer/wp-postratings.php:11
+#: forms/transfer/yet-another-stars-rating.php:11
+msgid "This tool will skip transfer for missing posts or pages. If you have ratings for posts or pages you deleted, rating for such posts will be skipped."
+msgstr ""
+
+#: forms/transfer/kk-star-ratings.php:12
+msgid "KK Star Ratings allowed for chaging number of rating stars, but it was not recalculating previous ratings if you made changes to number of stars. GD Rating Sytem will perform import based on max rating value you can specify in the transfer settings below."
+msgstr ""
+
+#: forms/transfer/kk-star-ratings.php:13
+msgid "KK Star Ratings values in postmeta database table will not be modified in any way or deleted during this import process."
+msgstr ""
+
+#: forms/transfer/kk-star-ratings.php:39
+msgid "Set this to the maximum rating value you used with KK STar Ratings plugin for stars rating."
+msgstr ""
+
+#: forms/transfer/wp-postratings.php:8
+msgid "This tool can transfer posts ratings and number of votes along with votes log data."
+msgstr ""
+
+#: forms/transfer/wp-postratings.php:10
+msgid "For import process to work, WP PostRatings database table 'wp_ratings' must be present."
+msgstr ""
+
+#: forms/transfer/wp-postratings.php:12
+msgid "WP PostRatings allowed for chaging number of rating stars, but it was not recalculating previous ratings if you made changes to number of stars. GD Rating Sytem will perform import based on max rating value you can specify in the transfer settings below."
+msgstr ""
+
+#: forms/transfer/wp-postratings.php:13
+msgid "WP PostRatings plugin database table will not be modified in any way or deleted during this import process."
+msgstr ""
+
+#: forms/transfer/wp-postratings.php:31
+msgid "Required database table not found. Import process can't proceed."
+msgstr ""
+
+#: forms/transfer/wp-postratings.php:63
+msgid "Set this to the maximum rating value you used with WP PostRaings plugin for stars rating."
+msgstr ""
+
+#: forms/transfer/yet-another-stars-rating.php:6
+msgid "This tool can import rating data from Yet Another Stars Rating plugin. There are some important things you need to know about import process."
+msgstr ""
+
+#: forms/transfer/yet-another-stars-rating.php:8
+msgid "This tool can transfer posts ratings and number of votes, author reviews along with votes log data."
+msgstr ""
+
+#: forms/transfer/yet-another-stars-rating.php:10
+msgid "For import process to work, Yet Another Stars Rating database tables 'wp_yasr_log' and 'wp_yasr_votes' must be present."
+msgstr ""
+
+#: forms/transfer/yet-another-stars-rating.php:12
+msgid "Yet Another Stars Rating plugin allows ratings for maximum value of 5, and that value will be used during import and recalculated if needed."
+msgstr ""
+
+#: forms/transfer/yet-another-stars-rating.php:13
+msgid "Yet Another Stars Rating plugin database tables will not be modified in any way or deleted during this import process."
+msgstr ""
+
+#: forms/transfer/yet-another-stars-rating.php:79
+msgid "Import: Overall / Author Ratings"
+msgstr ""
+
+#: forms/widgets/shared-display.php:16
+msgid "Visibility"
+msgstr ""
+
+#: forms/widgets/shared-display.php:21
+msgid "Display To"
+msgstr ""
+
+#: forms/widgets/shared-display.php:25
+msgid "Visibility Hook"
+msgstr ""
+
+#: forms/widgets/shared-display.php:31
+#: forms/widgets/stars-rating-list-display.php:9
+msgid "Additional CSS Class"
+msgstr ""
+
+#: forms/widgets/shared-display.php:5
+msgid "Everyone"
+msgstr ""
+
+#: forms/widgets/shared-display.php:5
+msgid "Only Visitors"
+msgstr ""
+
+#: forms/widgets/shared-display.php:5
+msgid "All Users"
+msgstr ""
+
+#: forms/widgets/shared-display.php:6
+#: methods/stars-rating/admin.php:81
+msgid "User Roles"
+msgstr ""
+
+#: forms/widgets/shared-global.php:0
+msgid "Basic"
+msgstr ""
+
+#: forms/widgets/shared-global.php:5
+msgid "Title"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:0
+msgid "Before and After Content"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:5
+msgid "Before"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:11
+msgid "After"
+msgstr ""
+
+#: forms/widgets/stars-rating-list-content.php:5
+#: methods/stars-rating/admin.php:85
+msgid "Type"
+msgstr ""
+
+#: forms/widgets/stars-rating-list-content.php:15
+msgid "Minimum Rating"
+msgstr ""
+
+#: forms/widgets/stars-rating-list-content.php:19
+msgid "Minimum Votes"
+msgstr ""
+
+#: forms/widgets/stars-rating-list-content.php:31
+msgid "Order by"
+msgstr ""
+
+#: forms/widgets/stars-rating-list-display.php:0
+msgid "Template and style"
+msgstr ""
+
+#: forms/widgets/stars-rating-list-display.php:16
+msgid "Custom icon"
+msgstr ""
+
+#: forms/widgets/stars-rating-list-display.php:24
+msgid "Size (px)"
+msgstr ""
+
+#: forms/widgets/stars-rating-list-display.php:37
+msgid "Custom font icon colors"
+msgstr ""
+
+#: forms/about.php:39
+#: forms/about.php:9
+msgid "Changelog"
+msgstr ""
+
+#: forms/about.php:40
+#: forms/about.php:12
+msgid "Translations"
+msgstr ""
+
+#: forms/about.php:41
+#: forms/about.php:15
+msgid "Resources"
+msgstr ""
+
+#: forms/about.php:6
+msgid "About Plugin"
+msgstr ""
+
+#: forms/about.php:7
+msgid "Get more information about this plugin."
+msgstr ""
+
+#: forms/about.php:10
+msgid "Check out full changelog for this plugin."
+msgstr ""
+
+#: forms/about.php:13
+msgid "List of translations included for this plugin."
+msgstr ""
+
+#: forms/about.php:16
+msgid "Acknowledgement of various resources used in this plugin."
+msgstr ""
+
+#: forms/about.php:18
+msgid "Dev4Press"
+msgstr ""
+
+#: forms/about.php:19
+msgid "Check out other Dev4Press products."
+msgstr ""
+
+#: forms/entity.php:28
+msgid "Entity Editor"
+msgstr ""
+
+#: forms/entity.php:31
+msgid "From this panel you can edit custom entities and types belonging to it."
+msgstr ""
+
+#: forms/entity.php:34
+#: forms/entity.php:77
+msgid "Save Entity"
+msgstr ""
+
+#: forms/entity.php:37
+#: forms/rule.php:67
+#: forms/settings.php:74
+msgid "Return to top"
+msgstr ""
+
+#: forms/entity.php:62
+msgid "Icon"
+msgstr ""
+
+#: forms/entity.php:65
+msgid "Add New Type"
+msgstr ""
+
+#: forms/front.php:33
+msgid "Knowledge Base and Support Forums"
+msgstr ""
+
+#: forms/front.php:63
+msgid "Open"
+msgstr ""
+
+#: forms/front.php:35
+msgid "To learn more about the plugin, check out plugin %s articles and FAQ. To get additional help, you can use %s."
+msgstr ""
+
+#: forms/front.php:36
+msgid "knowledge base"
+msgstr ""
+
+#: forms/front.php:37
+msgid "support forum"
+msgstr ""
+
+#: forms/information.php:57
+msgid "Information Panel"
+msgstr ""
+
+#: forms/information.php:6
+#: forms/tools.php:6
+msgid "Tools Index"
+msgstr ""
+
+#: forms/information.php:7
+msgid "Show additional information related to plugin use."
+msgstr ""
+
+#: forms/information.php:9
+msgid "Templates List"
+msgstr ""
+
+#: forms/information.php:11
+msgid "List all available templates for each rating method."
+msgstr ""
+
+#: forms/install.php:17
+msgid "Installation"
+msgstr ""
+
+#: forms/install.php:20
+msgid "Before you continue, make sure plugin installation was successful."
+msgstr ""
+
+#: forms/install.php:36
+#: forms/update.php:36
+msgid "All Done"
+msgstr ""
+
+#: forms/install.php:39
+msgid "Installation completed."
+msgstr ""
+
+#: forms/install.php:42
+#: forms/update.php:42
+msgid "Click here to continue."
+msgstr ""
+
+#: forms/rule.php:61
+msgid "These settings will be used before default settings. You can temporarally disable this rule override or you can remove them."
+msgstr ""
+
+#: forms/rule.php:64
+#: forms/rule.php:120
+#: forms/settings.php:71
+#: forms/settings.php:130
+msgid "Save Settings"
+msgstr ""
+
+#: forms/rule.php:73
+msgid "Rule Control"
+msgstr ""
+
+#: forms/rule.php:84
+msgid "Rule will remain in the database, but it will not be used if it is not enabled."
+msgstr ""
+
+#: forms/rule.php:93
+msgid "Remove this rule"
+msgstr ""
+
+#: forms/rule.php:36
+#: forms/rules.php:43
+msgid "for"
+msgstr ""
+
+#: forms/rules.php:61
+msgid "You can create override rules for every rating content type registered with the plugin. Overrides can be added for rating methods and available addons."
+msgstr ""
+
+#: forms/rules.php:67
+msgid "Add new Rule"
+msgstr ""
+
+#: forms/rules.php:76
+msgid "Item Type"
+msgstr ""
+
+#: forms/rules.php:84
+msgid "Object Type"
+msgstr ""
+
+#: forms/rules.php:96
+msgid "Override"
+msgstr ""
+
+#: forms/rules.php:108
+msgid "Current Rules"
+msgstr ""
+
+#: forms/rules.php:113
+msgid "You don't have any custom rating rules created."
+msgstr ""
+
+#: forms/rules.php:29
+msgid "Methods"
+msgstr ""
+
+#: forms/rules.php:127
+msgid "edit"
+msgstr ""
+
+#: forms/rules.php:130
+msgid "disable"
+msgstr ""
+
+#: forms/rules.php:132
+msgid "enable"
+msgstr ""
+
+#: forms/rules.php:135
+msgid "delete"
+msgstr ""
+
+#: forms/settings.php:105
+msgid "Settings Panel"
+msgstr ""
+
+#: forms/settings.php:6
+msgid "Settings Index"
+msgstr ""
+
+#: forms/settings.php:7
+msgid "All plugin settings are split into panels, and you access each starting from the right."
+msgstr ""
+
+#: forms/settings.php:9
+msgid "Extensions"
+msgstr ""
+
+#: forms/settings.php:10
+msgid "Basic Settings"
+msgstr ""
+
+#: forms/settings.php:11
+msgid "From this panel you can disable and enable individual plugin addons and rating methods."
+msgstr ""
+
+#: forms/settings.php:14
+msgid "From this panel you control general plugin settings."
+msgstr ""
+
+#: forms/settings.php:16
+msgid "Security"
+msgstr ""
+
+#: forms/settings.php:17
+msgid "From this panel you control security related plugin settings."
+msgstr ""
+
+#: forms/settings.php:19
+msgid "Debug"
+msgstr ""
+
+#: forms/settings.php:20
+msgid "From this panel you control debugger related plugin settings."
+msgstr ""
+
+#: forms/settings.php:22
+msgid "Cache"
+msgstr ""
+
+#: forms/settings.php:23
+msgid "From this panel you control cache related plugin settings."
+msgstr ""
+
+#: forms/settings.php:25
+msgid "Administration"
+msgstr ""
+
+#: forms/settings.php:26
+msgid "From this panel you control administration related settings."
+msgstr ""
+
+#: forms/settings.php:28
+#: methods/stars-rating/admin.php:103
+msgid "Advanced"
+msgstr ""
+
+#: forms/settings.php:29
+msgid "From this panel you control advanced plugin settings."
+msgstr ""
+
+#: forms/settings.php:44
+msgid "Rating Addons"
+msgstr ""
+
+#: forms/tools.php:83
+msgid "Tools Panel"
+msgstr ""
+
+#: forms/tools.php:7
+msgid "All plugin tools are split into several panels, and you access each starting from the right."
+msgstr ""
+
+#: forms/tools.php:9
+msgid "Recheck and Update"
+msgstr ""
+
+#: forms/tools.php:12
+msgid "Recheck plugin database tables, check for new templates and clean cache."
+msgstr ""
+
+#: forms/tools.php:14
+msgid "Recalculate Data"
+msgstr ""
+
+#: forms/tools.php:15
+msgid "Recalculate"
+msgstr ""
+
+#: forms/tools.php:16
+msgid "Recalculate various data used by the plugin based on the votes log."
+msgstr ""
+
+#: forms/tools.php:18
+msgid "Export Settings"
+msgstr ""
+
+#: forms/tools.php:19
+msgid "Maintenance"
+msgstr ""
+
+#: forms/tools.php:20
+msgid "Export"
+msgstr ""
+
+#: forms/tools.php:21
+msgid "Export all plugin settings into file."
+msgstr ""
+
+#: forms/tools.php:23
+msgid "Import Settings"
+msgstr ""
+
+#: forms/tools.php:25
+msgid "Import all plugin settings from export file."
+msgstr ""
+
+#: forms/tools.php:27
+msgid "Reset / Remove"
+msgstr ""
+
+#: forms/tools.php:29
+msgid "Remove selected plugin settings, database tables and optionally disable plugin."
+msgstr ""
+
+#: forms/transfer.php:50
+msgid "This feature is in Beta stage, and there is no guarantee that transfer will work as expected. More testing is needed."
+msgstr ""
+
+#: forms/transfer.php:69
+msgid "Transfer Panel"
+msgstr ""
+
+#: forms/transfer.php:6
+msgid "Transfer Data Index"
+msgstr ""
+
+#: forms/transfer.php:7
+msgid "All transfer tools are split into several panels, and you access each starting from the right."
+msgstr ""
+
+#: forms/transfer.php:10
+#: forms/transfer.php:14
+#: forms/transfer.php:18
+#: forms/transfer.php:22
+msgid "Transfer"
+msgstr ""
+
+#: forms/transfer.php:11
+msgid "Import data from GD Star Rating plugin."
+msgstr ""
+
+#: forms/transfer.php:15
+msgid "Import data from WP PostRatings plugin."
+msgstr ""
+
+#: forms/transfer.php:19
+msgid "Import data from Yet Another Stars Rating plugin."
+msgstr ""
+
+#: forms/transfer.php:23
+msgid "Import data from KK Star Ratings plugin."
+msgstr ""
+
+#: forms/types.php:15
+msgid "Manage rating entities and types."
+msgstr ""
+
+#: forms/types.php:18
+msgid "Add New Entity"
+msgstr ""
+
+#: forms/update.php:17
+msgid "Update"
+msgstr ""
+
+#: forms/update.php:20
+msgid "Before you continue, make sure plugin was successfully updated."
+msgstr ""
+
+#: forms/update.php:39
+msgid "Update completed."
+msgstr ""
+
+#: methods/stars-rating/admin.php:43
+msgid "out of"
+msgstr ""
+
+#: methods/stars-rating/admin.php:55
+msgid "Settings on this panel are for global control over Stars Rating integration. Each rating entity type can have own settings to override default ones."
+msgstr ""
+
+#: methods/stars-rating/admin.php:72
+msgid "Stars"
+msgstr ""
+
+#: methods/stars-rating/admin.php:73
+msgid "Resolution"
+msgstr ""
+
+#: methods/stars-rating/admin.php:73
+msgid "Determines minimal part of the star user is allowed to rate with."
+msgstr ""
+
+#: methods/stars-rating/admin.php:74
+msgid "Control how many times user can vote."
+msgstr ""
+
+#: methods/stars-rating/admin.php:75
+msgid "Vote Limit"
+msgstr ""
+
+#: methods/stars-rating/admin.php:75
+msgid "Limit number of attemps per item. If the Vote is set to Multiple votes, this will limit number of votes. If the Vote is set to Revote, this will limit number of revote attempts."
+msgstr ""
+
+#: methods/stars-rating/admin.php:77
+msgid "Users allowed to vote"
+msgstr ""
+
+#: methods/stars-rating/admin.php:78
+msgid "Author"
+msgstr ""
+
+#: methods/stars-rating/admin.php:78
+msgid "This will be used only if author for the rating item can be determined (posts, comments)."
+msgstr ""
+
+#: methods/stars-rating/admin.php:79
+msgid "Super Admin"
+msgstr ""
+
+#: methods/stars-rating/admin.php:80
+msgid "Visitors"
+msgstr ""
+
+#: methods/stars-rating/admin.php:80
+msgid "Visitors are not logged in."
+msgstr ""
+
+#: methods/stars-rating/admin.php:83
+msgid "Style"
+msgstr ""
+
+#: methods/stars-rating/admin.php:89
+msgid "Font Icons Colors"
+msgstr ""
+
+#: methods/stars-rating/admin.php:94
+#: widgets/stars-rating-list.php:49
+msgid "Extra"
+msgstr ""
+
+#: methods/stars-rating/admin.php:95
+msgid "Responsive"
+msgstr ""
+
+#: methods/stars-rating/admin.php:95
+msgid "Plugin will attempt to detect available space for rating stars and make them smaller to fit."
+msgstr ""
+
+#: methods/stars-rating/admin.php:96
+msgid "For distribution display, it is best to use full star rating resolution. If you don't use full star resolution, normalized display will use ceil rounding of votes to full stars for display purposes only."
+msgstr ""
+
+#: methods/stars-rating/admin.php:97
+msgid "Rating for Display"
+msgstr ""
+
+#: methods/stars-rating/admin.php:98
+msgid "CSS Class"
+msgstr ""
+
+#: methods/stars-rating/admin.php:98
+msgid "One or more additional CSS classes to add to the rating block."
+msgstr ""
+
+#: methods/stars-rating/admin.php:100
+#: methods/stars-rating/admin.php:101
+msgid "Labels"
+msgstr ""
+
+#: methods/stars-rating/admin.php:101
+msgid "Each label corresponds to one star. If you use more stars than you have labels, plugin will generate labels automatically based on star number."
+msgstr ""
+
+#: methods/stars-rating/admin.php:101
+msgid "Add New Label"
+msgstr ""
+
+#: methods/stars-rating/admin.php:104
+msgid "This adds alignement class to the block, but will work only if you set block's inner wrapper element width. You need to adjust alignment styling through your theme, you can use alignment class added by the plugin to add styling."
+msgstr ""
+
+#: methods/stars-rating/admin.php:27
+#: methods/stars-rating/render.php:246
+msgid "vote"
+msgid_plural "votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: methods/stars-rating/init.php:46
+msgid "Poor"
+msgstr ""
+
+#: methods/stars-rating/init.php:47
+msgid "Bad"
+msgstr ""
+
+#: methods/stars-rating/init.php:48
+msgid "Good"
+msgstr ""
+
+#: methods/stars-rating/init.php:49
+msgid "Great"
+msgstr ""
+
+#: methods/stars-rating/init.php:50
+msgid "Excellent"
+msgstr ""
+
+#: methods/stars-rating/init.php:55
+msgid "Classic, stars based rating method."
+msgstr ""
+
+#: methods/stars-rating/load.php:346
+msgid "Maximum value don't match the rule."
+msgstr ""
+
+#: methods/stars-rating/load.php:350
+msgid "Vote value out of rule bounds."
+msgstr ""
+
+#: methods/stars-rating/load.php:362
+#: methods/stars-rating/load.php:386
+msgid "You have reached the limit to number of vote attempts."
+msgstr ""
+
+#: methods/stars-rating/load.php:394
+msgid "You already voted."
+msgstr ""
+
+#: methods/stars-rating/load.php:100
+msgid "%s Star"
+msgid_plural "%s Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: methods/stars-rating/render.php:85
+msgid "You have already voted"
+msgstr ""
+
+#: methods/stars-rating/render.php:88
+msgid "You voted"
+msgstr ""
+
+#: methods/stars-rating/render.php:91
+msgid "Your previous vote was"
+msgstr ""
+
+#: methods/stars-rating/render.php:96
+msgid "ago"
+msgstr ""
+
+#: methods/stars-rating/render.php:150
+msgid "You have not voted yet."
+msgstr ""
+
+#: methods/stars-rating/render.php:334
+msgid "Rate this item"
+msgstr ""
+
+#: methods/stars-rating/render.php:346
+msgid "Submit Rating"
+msgstr ""
+
+#: methods/stars-rating/render.php:49
+#: methods/stars-rating/render.php:397
+msgid "From %s vote."
+msgid_plural "From %s votes."
+msgstr[0] ""
+msgstr[1] ""
+
+#: methods/stars-rating/render.php:129
+msgid "You can change your vote %s more time."
+msgid_plural "You can change your vote %s more times."
+msgstr[0] ""
+msgstr[1] ""
+
+#: methods/stars-rating/render.php:142
+msgid "You can vote %s more time."
+msgid_plural "You can vote %s more times."
+msgstr[0] ""
+msgstr[1] ""
+
+#: rating/base.classes.php:245
+#: templates/gdrts--dynamic-load--single--default.php:7
+msgid "Please wait..."
+msgstr ""
+
+#: rating/base.data.php:7
+msgid "Star (512px)"
+msgstr ""
+
+#: rating/base.data.php:8
+msgid "Oxygen Star (256px)"
+msgstr ""
+
+#: rating/base.data.php:14
+msgid "Image Based"
+msgstr ""
+
+#: rating/base.functions.php:22
+msgid "User ID is required, and it has to be for valid registered user."
+msgstr ""
+
+#: rating/base.functions.php:290
+msgid "All %s Types"
+msgstr ""
+
+#: rating/base.render.php:36
+msgid " and %s more..."
+msgstr ""
+
+#: rating/core.ajax.php:21
+msgid "Invalid Request."
+msgstr ""
+
+#: rating/core.ajax.php:36
+msgid "Invalid item for rating."
+msgstr ""
+
+#: rating/core.ajax.php:82
+msgid "Unspecified Rating Problem."
+msgstr ""
+
+#: rating/core.db.php:338
+msgid "Method is invalid"
+msgstr ""
+
+#: rating/core.item.php:246
+msgid "%s on %s"
+msgstr ""
+
+#: rating/core.shortcodes.php:19
+msgid "Stars Ratings List"
+msgstr ""
+
+#: rating/font.default.php:11
+msgid "Default Font Icon"
+msgstr ""
+
+#: rating/font.default.php:14
+msgid "Star"
+msgstr ""
+
+#: rating/font.default.php:15
+msgid "Asterisk"
+msgstr ""
+
+#: rating/font.default.php:16
+msgid "Heart"
+msgstr ""
+
+#: rating/font.default.php:17
+msgid "Bell"
+msgstr ""
+
+#: rating/font.default.php:18
+msgid "Square"
+msgstr ""
+
+#: rating/font.default.php:19
+msgid "Circle"
+msgstr ""
+
+#: rating/font.default.php:20
+msgid "Gear"
+msgstr ""
+
+#: rating/font.default.php:21
+msgid "Trophy"
+msgstr ""
+
+#: rating/font.default.php:22
+msgid "Snowflake"
+msgstr ""
+
+#: rating/font.default.php:23
+msgid "Thumb"
+msgstr ""
+
+#: rating/font.default.php:24
+msgid "Thumb Alt"
+msgstr ""
+
+#: rating/font.default.php:25
+msgid "Thumb Down"
+msgstr ""
+
+#: rating/font.default.php:26
+msgid "Thumb Down Alt"
+msgstr ""
+
+#: rating/font.default.php:27
+msgid "Smile"
+msgstr ""
+
+#: rating/font.default.php:28
+msgid "Frown"
+msgstr ""
+
+#: rating/font.default.php:29
+msgid "Plus"
+msgstr ""
+
+#: rating/font.default.php:30
+msgid "Minus"
+msgstr ""
+
+#: rating/font.default.php:31
+msgid "Spinner"
+msgstr ""
+
+#: rating/font.default.php:33
+msgid "Check"
+msgstr ""
+
+#: templates/gdrts--stars-rating--list--shortcode.php:39
+#: templates/gdrts--stars-rating--list--widget.php:40
+msgid "No items found."
+msgstr ""
+
+#: templates/gdrts--stars-rating--single--default.php:15
+#: templates/gdrts--stars-rating--single--expanded.php:26
+#: templates/gdrts--stars-rating--single--feed.php:13
+#: templates/gdrts--stars-rating--single--light.php:15
+msgid "No votes yet."
+msgstr ""
+
+#: templates/gdrts--stars-rating--single--default.php:40
+#: templates/gdrts--stars-rating--single--expanded.php:50
+#: templates/gdrts--stars-rating--single--light.php:28
+msgid "Thanks for your vote!"
+msgstr ""
+
+#: templates/gdrts--stars-rating--single--expanded.php:19
+#: templates/gdrts--stars-rating--single--expanded.php:19
+msgid "Show votes."
+msgstr ""
+
+#: templates/gdrts--stars-rating--single--expanded.php:19
+msgid "Hide votes."
+msgstr ""
+
+#: widgets/stars-rating-list.php:27
+msgid "Show Stars Rating list."
+msgstr ""
+
+#: widgets/stars-rating-list.php:28
+msgid "Stars Rating List"
+msgstr ""
+
+#: widgets/stars-rating-list.php:47
+msgid "Content"
+msgstr ""
+

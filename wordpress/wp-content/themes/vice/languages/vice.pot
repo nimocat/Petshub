@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vice\n"
+"POT-Creation-Date: 2017-09-07 16:42+0530\n"
+"PO-Revision-Date: 2017-09-07 16:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: functions/custom_control/class-dummy-import-control.php:9
+msgid "Activate Homepage"
+msgstr ""
+
+#: functions/custom_control/class-dummy-import-control.php:12
+msgid ""
+"Welcome! Thank you for choosing the Vice theme. Use our homepage to make the "
+"most out of it. For instructions, follow the button."
+msgstr ""
+
+#: functions/custom_control/class-dummy-import-control.php:13
+msgid "Getting started"
+msgstr ""
+
+#: home.php:22
+msgid "By"
+msgstr ""
+
+#: home.php:23
+msgid "Posted"
+msgstr ""
+
+#: home.php:28
+msgid "In"
+msgstr ""
+
+#: home.php:32
+msgid "Read More"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "vice"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/vice-wordpress-page/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A Business theme ideal for creating sites for corporate, creative "
+"businesses, small businesses, startups, portfolios, restaurants, online "
+"agencies, firms, freelancers, real estate agencies, travel, photography, "
+"recipes, design, art, law and architect firms. Vice is a child theme of the "
+"Appointment theme, and has several sections such as slider, services, widget "
+"area, etc. Vice offers a beautifully designed masonry blog layout. For more "
+"details, visit this link https://wordpress.org/themes/appointment/. We hope "
+"you will find the Vice theme useful."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr ""

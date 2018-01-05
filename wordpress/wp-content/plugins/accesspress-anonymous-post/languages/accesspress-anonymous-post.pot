@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Anonymous Post\n"
+"POT-Creation-Date: 2015-07-12 10:09+0545\n"
+"PO-Revision-Date: 2015-07-12 10:10+0545\n"
+"Last-Translator: \n"
+"Language-Team: Access Keys <support@accesspressthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../accesspress-anonymous-post.php:104 ../inc/cores/front-form.php:11
+#: ../inc/cores/save-post.php:29 ../inc/cores/save-post.php:36
+#: ../inc/cores/save-post.php:37
+msgid "This field is required"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:105
+msgid "Sum is not correct."
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:112
+msgid "AccessPress Anonymoust Post Settings"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:112
+msgid "AccessPress Anonymous Post"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:140 ../inc/cores/front-form.php:5
+msgid "Anonymous Post"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:144 ../accesspress-anonymous-post.php:378
+#: ../inc/cores/shortcode.php:22
+msgid "Please login to submit the post."
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:295
+msgid "Hello there,"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:296
+msgid "A new post has been submitted via AccessPress Anonymous Post plugin in "
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:296
+msgid " Please find details below:"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:317
+msgid "To take action (approve/reject)- please go here:"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:320
+msgid "Thank You"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:321
+msgid "New Post Submission - via AccessPress Anonymous Post"
+msgstr ""
+
+#: ../accesspress-anonymous-post.php:407
+msgid "Default Settings Restored Successfully."
+msgstr ""
+
+#: ../inc/settings.php:19
+msgid "Follow us for new updates"
+msgstr ""
+
+#: ../inc/settings.php:30
+msgid "AccessPress Anonymous Post Settings"
+msgstr ""
+
+#: ../inc/settings.php:41 ../inc/boards/general-settings.php:2
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/settings.php:42
+msgid "Form Settings"
+msgstr ""
+
+#: ../inc/settings.php:43 ../inc/boards/captcha-settings.php:2
+msgid "Captcha Settings"
+msgstr ""
+
+#: ../inc/settings.php:44
+msgid "How to use"
+msgstr ""
+
+#: ../inc/settings.php:45 ../inc/boards/upgrade.php:2
+msgid "Upgrade"
+msgstr ""
+
+#: ../inc/settings.php:46
+msgid "About"
+msgstr ""
+
+#: ../inc/settings.php:106
+msgid "Are you sure you want to restore default settings?"
+msgstr ""
+
+#: ../inc/boards/about.php:2
+msgid "About Us"
+msgstr ""
+
+#: ../inc/boards/captcha-settings.php:6
+msgid "Show Mathmatical Captcha"
+msgstr ""
+
+#: ../inc/boards/captcha-settings.php:11
+msgid "Mathmatical Captcha Label"
+msgstr ""
+
+#: ../inc/boards/captcha-settings.php:17
+msgid "Mathmatical Captcha Error Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:3
+msgid "Form field configurations"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:10 ../inc/boards/form-settings.php:236
+#: ../inc/cores/front-form.php:6
+msgid "Post Title"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:14 ../inc/boards/form-settings.php:34
+#: ../inc/boards/form-settings.php:53 ../inc/boards/form-settings.php:91
+#: ../inc/boards/form-settings.php:110 ../inc/boards/form-settings.php:129
+#: ../inc/boards/form-settings.php:149 ../inc/boards/form-settings.php:166
+msgid "Show on form"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:17 ../inc/boards/form-settings.php:37
+#: ../inc/boards/form-settings.php:56 ../inc/boards/form-settings.php:75
+#: ../inc/boards/form-settings.php:94 ../inc/boards/form-settings.php:113
+#: ../inc/boards/form-settings.php:132 ../inc/boards/form-settings.php:152
+#: ../inc/boards/form-settings.php:169
+msgid "Required"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:21
+msgid "Post Title Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:30 ../inc/boards/form-settings.php:245
+#: ../inc/cores/front-form.php:7
+msgid "Post Content"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:40
+msgid "Post Content Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:49 ../inc/boards/form-settings.php:254
+#: ../inc/cores/front-form.php:68
+msgid "Post Excerpt"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:59
+msgid "Excerpt Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:68 ../inc/boards/form-settings.php:263
+#: ../inc/cores/front-form.php:8
+msgid "Post Image"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:72
+msgid "Show in form"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:78
+msgid "Post Image Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:87 ../inc/boards/form-settings.php:288
+#: ../inc/cores/front-form.php:136
+msgid "Author Name"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:97
+msgid "Author Name Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:106 ../inc/boards/form-settings.php:297
+#: ../inc/cores/front-form.php:148
+msgid "Author URL"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:116
+msgid "Author URL Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:125 ../inc/boards/form-settings.php:306
+#: ../inc/cores/front-form.php:160
+msgid "Author Email"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:135
+msgid "Author Email Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:145 ../inc/boards/form-settings.php:272
+msgid "Post Category"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:155
+msgid "Post Category Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:162 ../inc/boards/form-settings.php:279
+msgid "Post Tags"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:172
+msgid "Post Tags Required Message"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:179
+msgid "Post Title and Post Content are mandatory."
+msgstr ""
+
+#: ../inc/boards/form-settings.php:187
+msgid "Post Categories"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:206
+msgid ""
+"Choose any  only if you don't include to show the category selecting options "
+"in the form"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:210
+msgid "Post Content Editor Type:"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:221
+msgid "Editor Size"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:224
+msgid ""
+"Please enter the size of editor in number of rows.Default number of rows is "
+"10"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:232
+msgid "Form Labels"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:315
+msgid "Submit Button"
+msgstr ""
+
+#: ../inc/boards/form-settings.php:322
+msgid ""
+"These field will only show up in frontend if you have checked these fields "
+"in Form Field Configurations secton above."
+msgstr ""
+
+#: ../inc/boards/general-settings.php:5
+msgid "Form Title"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:11
+msgid "Post Publish Status:"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:14
+msgid "Publish"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:15
+msgid "Pending"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:16
+msgid "Draft"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:21
+msgid "Admin Notification:"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:25
+msgid ""
+"Check if you want admin to recieve notification email after submitting of a "
+"new post."
+msgstr ""
+
+#: ../inc/boards/general-settings.php:30
+msgid "Allow Media Uploads:"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:34
+msgid "Check if you want logged in users to upload allowed media files"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:39
+msgid "Check Login"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:43
+msgid "Check if you want admin login to submit a new post."
+msgstr ""
+
+#: ../inc/boards/general-settings.php:48
+msgid "Login Message"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:51
+msgid ""
+"Message to be displayed if the user is not logged in and you have checked "
+"admin login option to submit the post."
+msgstr ""
+
+#: ../inc/boards/general-settings.php:55
+msgid "Login Link Text"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:58
+msgid ""
+"Text to be shown in login link  if the user is not logged in and you have "
+"checked admin login option to submit the post."
+msgstr ""
+
+#: ../inc/boards/general-settings.php:62
+msgid "Assign Author"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:79
+msgid "Plugin Styles:"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:83
+msgid "Check if you want to use the plugin's basic styles in frontend form"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:88
+msgid "Redirect URL"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:91
+msgid ""
+"URL to be redirected after successful post submission. If kept blank, it "
+"will be redirected to same page."
+msgstr ""
+
+#: ../inc/boards/general-settings.php:96
+msgid "Post Submission Message"
+msgstr ""
+
+#: ../inc/boards/general-settings.php:99
+msgid "Message displayed after successful post submission."
+msgstr ""
+
+#: ../inc/cores/front-form.php:9 ../inc/cores/front-form.php:190
+msgid "Submit Post"
+msgstr ""
+
+#: ../inc/cores/front-form.php:86
+msgid "Please upload image file type only."
+msgstr ""
+
+#: ../inc/cores/front-form.php:119
+msgid "Tags (Use comma to add multiple tags)"
+msgstr ""
+
+#: ../inc/cores/front-form.php:177
+msgid "Human Check"
+msgstr ""
+
+#: ../inc/cores/front-form.php:181
+msgid "Enter Sum"
+msgstr ""
+
+#: ../inc/cores/save-post.php:20
+msgid "The entered sum is not correct"
+msgstr ""
+
+#: ../inc/cores/save-post.php:50
+msgid "Invalid File Type"
+msgstr ""
+
+#: ../inc/cores/save-post.php:179
+msgid "Hi there, Thank you for submitting a post."
+msgstr ""
+
+#: ../inc/cores/save-settings.php:163
+msgid "Settings Saved Successfully."
+msgstr ""
+
+#: ../inc/cores/shortcode.php:30
+msgid "Login"
+msgstr ""

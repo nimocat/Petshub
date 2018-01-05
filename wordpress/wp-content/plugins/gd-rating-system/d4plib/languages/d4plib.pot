@@ -1,0 +1,140 @@
+#: admin/d4p.functions.php:226
+#: admin/d4p.functions.php:293
+#: admin/d4p.settings.php:505
+#: admin/d4p.settings.php:540
+msgid "Check All"
+msgstr ""
+
+#: admin/d4p.functions.php:227
+#: admin/d4p.functions.php:294
+#: admin/d4p.settings.php:506
+#: admin/d4p.settings.php:541
+msgid "Uncheck All"
+msgstr ""
+
+#: admin/d4p.settings.php:303
+msgid "Add Image"
+msgstr ""
+
+#: admin/d4p.settings.php:307
+msgid "No images selected."
+msgstr ""
+
+#: admin/d4p.settings.php:317
+msgid "Remove"
+msgstr ""
+
+#: admin/d4p.settings.php:318
+msgid "Preview"
+msgstr ""
+
+#: admin/d4p.settings.php:331
+msgid "Select Image"
+msgstr ""
+
+#: admin/d4p.settings.php:332
+msgid "Show Image"
+msgstr ""
+
+#: admin/d4p.settings.php:333
+msgid "Clear Image"
+msgstr ""
+
+#: admin/d4p.settings.php:336
+msgid "Image not selected."
+msgstr ""
+
+#: admin/d4p.settings.php:647
+msgid "Add New Value"
+msgstr ""
+
+#: classes/d4p.geoip.php:84
+msgid "Localhost IP's can't be geolocated."
+msgstr ""
+
+#: classes/d4p.geoip.php:135
+msgid "Localhost"
+msgstr ""
+
+#: classes/d4p.geoip.php:139
+msgid "IP can't be geolocated."
+msgstr ""
+
+#: plugin/d4p.admin.php:113
+msgid "Home Page"
+msgstr ""
+
+#: plugin/d4p.admin.php:114
+msgid "Knowledge Base"
+msgstr ""
+
+#: plugin/d4p.admin.php:115
+msgid "Support Forum"
+msgstr ""
+
+#: plugin/d4p.admin.php:125
+msgid "Getting Help"
+msgstr ""
+
+#: plugin/d4p.admin.php:126
+msgid "To get help with this plugin, you can start with Knowledge Base list of frequently asked questions and articles. If you have any questions, or you want to report a bug, or you have a suggestion, you can use support forum. All important links for this are on the right side of this help dialog."
+msgstr ""
+
+#: d4p.debug.php:50
+msgid "SQL Queries"
+msgstr ""
+
+#: d4p.debug.php:53
+msgid "Total Page Time"
+msgstr ""
+
+#: d4p.debug.php:54
+msgid "seconds"
+msgstr ""
+
+#: d4p.debug.php:58
+msgid "PHP Memory Peak"
+msgstr ""
+
+#: d4p.debug.php:64
+msgid "PHP Memory Final"
+msgstr ""
+
+#: d4p.debug.php:116
+msgid "Request"
+msgstr ""
+
+#: d4p.debug.php:117
+#: d4p.debug.php:120
+#: d4p.debug.php:123
+msgid "None"
+msgstr ""
+
+#: d4p.debug.php:119
+msgid "Matched Rewrite Rule"
+msgstr ""
+
+#: d4p.debug.php:122
+msgid "Matched Rewrite Query"
+msgstr ""
+
+#: d4p.debug.php:125
+msgid "Loaded Template"
+msgstr ""
+
+#: d4p.wp.php:87
+msgid "Clear"
+msgstr ""
+
+#: d4p.wp.php:88
+msgid "Default"
+msgstr ""
+
+#: d4p.wp.php:89
+msgid "Select Color"
+msgstr ""
+
+#: d4p.wp.php:90
+msgid "Current Color"
+msgstr ""
+

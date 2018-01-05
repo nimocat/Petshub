@@ -1,0 +1,27 @@
+.inpost_gallery_info_popup {
+    position: fixed;
+    top: 47%;
+    left: 44%;
+    z-index: 1001;
+    display: none;
+    overflow: hidden;
+    padding: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,.6);
+    -webkit-box-shadow:
+        inset 0 0 0 1px rgba(0,0,0,.6),
+        inset 0 0 0 2px rgba(255,255,255,.2);
+    -moz-box-shadow:
+        inset 0 0 0 1px rgba(0,0,0,.6),
+        inset 0 0 0 2px rgba(255,255,255,.2);
+    box-shadow:
+        inset 0 0 0 1px rgba(0,0,0,.6),
+        inset 0 0 0 2px rgba(255,255,255,.2);
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Arial',sans-serif;
+    z-index: 99999;
+    line-height: 26px;
+}

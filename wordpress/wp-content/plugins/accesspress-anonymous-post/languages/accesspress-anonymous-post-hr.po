@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Anonymous Post v2.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-27 01:29+0100\n"
+"Last-Translator: Sanjin Barac <update.soft.sanjin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: hr\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ anonymous-post
+#. translators: plugin header field 'Name'
+#: accesspress-anonymous-post.php:0 accesspress-anonymous-post.php:112
+#: inc/boards/about.php:26 inc/boards/about.php:33
+#: inc/cores/front-form.php:196 inc/settings.php:15
+msgid "AccessPress Anonymous Post"
+msgstr "AccessPress Anonymous Post"
+
+# @ anonymous-post
+#. translators: plugin header field 'PluginURI'
+#: accesspress-anonymous-post.php:0
+msgid ""
+"http://accesspressthemes.com/wordpress-plugins/accesspress-anonymous-post/"
+msgstr ""
+"http://accesspressthemes.com/wordpress-plugins/accesspress-anonymous-post/"
+
+# @ anonymous-post
+#. translators: plugin header field 'Description'
+#: accesspress-anonymous-post.php:0
+msgid ""
+"A plugin that provides the ability to publish post from frontend with or "
+"without login anonymously using a simple html5 form from anywhere of the "
+"site with the help of shortcode and handful of backend settings."
+msgstr ""
+"Plugin omogućava slanje objava s prednje strane sa ili bez prijave anonimno "
+"pomoću jednostavnog HTML5 obrasca od bilo gdje na stranici uz pomoć "
+"shortcode i pregršt postavki u pozadini."
+
+# @ anonymous-post
+#. translators: plugin header field 'Author'
+#: accesspress-anonymous-post.php:0
+msgid "AccessPress Themes"
+msgstr "AccessPress Theme"
+
+# @ anonymous-post
+#. translators: plugin header field 'AuthorURI'
+#: accesspress-anonymous-post.php:0
+msgid "http://accesspressthemes.com/"
+msgstr "http://accesspressthemes.com/"
+
+# @ anonymous-post
+#. translators: plugin header field 'Version'
+#: accesspress-anonymous-post.php:0
+msgid "2.1.6"
+msgstr "2.1.6"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:104 inc/cores/front-form.php:11
+#: inc/cores/save-post.php:28 inc/cores/save-post.php:35
+#: inc/cores/save-post.php:36
+msgid "This field is required"
+msgstr "Ovo polje je obavezno"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:105
+msgid "Sum is not correct."
+msgstr "Zbroj nije točan."
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:112
+msgid "AccessPress Anonymoust Post Settings"
+msgstr "AccessPress Anonymoust Post Postavke"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:295
+msgid "Hello there,"
+msgstr "Pozdrav,"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:296
+msgid "A new post has been submitted via AccessPress Anonymous Post plugin in "
+msgstr "Podnesen je novi post putem AccessPress Anonymous Post plugina u"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:296
+msgid " Please find details below:"
+msgstr "Detalje ćete naći ispod:"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:317
+msgid "To take action (approve/reject)- please go here:"
+msgstr "Da poduzmete mjere (odobravanje / odbijanje) - molimo idite ovdje:"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:320
+msgid "Thank You"
+msgstr "Hvala"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:321
+msgid "New Post Submission - via AccessPress Anonymous Post"
+msgstr "Podnošenje nove objave - kroz AccessPress Anonymous Post"
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:378 inc/cores/shortcode.php:22
+msgid "Please login to submit the post."
+msgstr "Molimo, prijavite se za slanje objave."
+
+# @ anonymous-post
+#: accesspress-anonymous-post.php:407
+msgid "Default Settings Restored Successfully."
+msgstr "Default postavke su ponovo postavljene uspješno."
+
+# @ anonymous-post
+#: inc/boards/about.php:2
+msgid "About Us"
+msgstr "O nama"
+
+# @ anonymous-post
+#: inc/boards/captcha-settings.php:2 inc/settings.php:43
+msgid "Captcha Settings"
+msgstr "Captcha Postavke"
+
+# @ anonymous-post
+#: inc/boards/captcha-settings.php:6
+msgid "Show Mathmatical Captcha"
+msgstr "Prikaži matematički Captcha"
+
+# @ anonymous-post
+#: inc/boards/captcha-settings.php:11
+msgid "Mathmatical Captcha Label"
+msgstr "Oznaka matematičke Captche"
+
+# @ anonymous-post
+#: inc/boards/captcha-settings.php:17
+msgid "Mathmatical Captcha Error Message"
+msgstr "Poruka greške za matematičku Captcha"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:3
+msgid "Form field configurations"
+msgstr "Konfiguracija polja u obrascu"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:10 inc/boards/form-settings.php:236
+#: inc/cores/front-form.php:6
+msgid "Post Title"
+msgstr "Naslov Objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:14 inc/boards/form-settings.php:34
+#: inc/boards/form-settings.php:53 inc/boards/form-settings.php:91
+#: inc/boards/form-settings.php:110 inc/boards/form-settings.php:129
+#: inc/boards/form-settings.php:149 inc/boards/form-settings.php:166
+msgid "Show on form"
+msgstr "Prikaži na obrascu"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:17 inc/boards/form-settings.php:37
+#: inc/boards/form-settings.php:56 inc/boards/form-settings.php:75
+#: inc/boards/form-settings.php:94 inc/boards/form-settings.php:113
+#: inc/boards/form-settings.php:132 inc/boards/form-settings.php:152
+#: inc/boards/form-settings.php:169
+msgid "Required"
+msgstr "Obavezno"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:21
+msgid "Post Title Required Message"
+msgstr "Pokuka o obaveznom naslovu objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:30 inc/boards/form-settings.php:245
+#: inc/cores/front-form.php:7
+msgid "Post Content"
+msgstr "Sadržaj Objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:40
+msgid "Post Content Required Message"
+msgstr "Poruka o obaveznom sadržaju objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:49 inc/boards/form-settings.php:254
+#: inc/cores/front-form.php:68
+msgid "Post Excerpt"
+msgstr "Sažetak objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:59
+msgid "Excerpt Required Message"
+msgstr "Obavezan sažetak objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:68 inc/boards/form-settings.php:263
+#: inc/cores/front-form.php:8
+msgid "Post Image"
+msgstr "Slika za objavu"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:72
+msgid "Show in form"
+msgstr "Prikaži u obrascu"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:78
+msgid "Post Image Required Message"
+msgstr "Poruka o obaveznoj slici za objavu"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:87 inc/boards/form-settings.php:288
+#: inc/cores/front-form.php:136
+msgid "Author Name"
+msgstr "Ime Autora"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:97
+msgid "Author Name Required Message"
+msgstr "Poruka o obaveznom imenu autora"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:106 inc/boards/form-settings.php:297
+#: inc/cores/front-form.php:148
+msgid "Author URL"
+msgstr "URL autora"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:116
+msgid "Author URL Required Message"
+msgstr "Poruka o obaveznom URL autora"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:125 inc/boards/form-settings.php:306
+#: inc/cores/front-form.php:160
+msgid "Author Email"
+msgstr "Email Autora"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:135
+msgid "Author Email Required Message"
+msgstr "Poruka o obaveznoj email adresi autora"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:145 inc/boards/form-settings.php:272
+msgid "Post Category"
+msgstr "Kategorija Objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:155
+msgid "Post Category Required Message"
+msgstr "Poruka o obaveznoj kategoriji objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:162 inc/boards/form-settings.php:279
+msgid "Post Tags"
+msgstr "Oznake Objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:172
+msgid "Post Tags Required Message"
+msgstr "Poruka o obaveznim oznakama objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:179
+msgid "Post Title and Post Content are mandatory."
+msgstr "Naslov Objave i Sadržaj Objave su obavezni"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:187
+msgid "Post Categories"
+msgstr "Kategorije Objave"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:206
+msgid ""
+"Choose any  only if you don't include to show the category selecting options "
+"in the form"
+msgstr ""
+"Odaberite bilo koju samo ako ne želite pokazati opciju s odabirom u obrascu"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:210
+msgid "Post Content Editor Type:"
+msgstr "Vrsta uređivača sadržaja objave:"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:221
+msgid "Editor Size"
+msgstr "Veličina uređivača"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:224
+msgid ""
+"Please enter the size of editor in number of rows.Default number of rows is "
+"10"
+msgstr ""
+"Molimo unesite veličinu uređivača u brojevima redaka. Zadani broj redova je "
+"10"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:232
+msgid "Form Labels"
+msgstr "Etikete obrasca"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:315
+msgid "Submit Button"
+msgstr "Dugme Pošalji"
+
+# @ anonymous-post
+#: inc/boards/form-settings.php:322
+msgid ""
+"These field will only show up in frontend if you have checked these fields "
+"in Form Field Configurations secton above."
+msgstr ""
+"Ova polja će se prikazati samo na prednjoj strani ako ste uključili ova "
+"polja iznad u odjeljku Konfiguracija Polja Obrasca."
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:2 inc/settings.php:41
+msgid "General Settings"
+msgstr "Opće Postavke"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:5
+msgid "Form Title"
+msgstr "Naslov Obrasca"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:11
+msgid "Post Publish Status:"
+msgstr "Status Objavljivanja"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:14
+msgid "Publish"
+msgstr "Objavljeno"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:15
+msgid "Pending"
+msgstr "Na čekanju"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:16
+msgid "Draft"
+msgstr "Skica"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:21
+msgid "Admin Notification:"
+msgstr "Obavijest Administratora:"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:25
+msgid ""
+"Check if you want admin to recieve notification email after submitting of a "
+"new post."
+msgstr ""
+"Potvrdite ako želite da admin primi email obavijest nakon podnošenja novog "
+"posta."
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:30
+msgid "Allow Media Uploads:"
+msgstr "Dopušteni Mediji za učitati:"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:34
+msgid "Check if you want logged in users to upload allowed media files"
+msgstr ""
+"Potvrdite ako želite da prijavljeni korisnici mogu učitati dopuštene "
+"medijske datoteke"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:39
+msgid "Check Login"
+msgstr "Potvrdi Prijavu"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:43
+msgid "Check if you want admin login to submit a new post."
+msgstr "Potvrdite ako želite da se admin prijavi za slanje nove objave."
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:48
+msgid "Login Message"
+msgstr "Poruka za prijavu"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:51
+msgid ""
+"Message to be displayed if the user is not logged in and you have checked "
+"admin login option to submit the post."
+msgstr ""
+"Poruka za prikazati ako korisnik nije prijavljen a vi ste uključili opciju "
+"za prijavu admina da pošalje objavu."
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:55
+msgid "Login Link Text"
+msgstr "Tekst link za prijavu"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:58
+msgid ""
+"Text to be shown in login link  if the user is not logged in and you have "
+"checked admin login option to submit the post."
+msgstr ""
+"Tekst koji će se prikazati u linku za prijavu ako korisnik nije prijavljen a "
+"vi imate uključenu opciju za prijavu admina da pošalje objavu."
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:62
+msgid "Assign Author"
+msgstr "Dodijeli Autora"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:79
+msgid "Plugin Styles:"
+msgstr "Stil plugina:"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:83
+msgid "Check if you want to use the plugin's basic styles in frontend form"
+msgstr ""
+"Potvrdite ako želite koristiti osnovni stil plugina u obrascu na prednjoj "
+"strani"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:88
+msgid "Redirect URL"
+msgstr "URL za preusmjerenje"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:91
+msgid ""
+"URL to be redirected after successful post submission. If kept blank, it "
+"will be redirected to same page."
+msgstr ""
+"URL na koju će se preusmjeriti nakon uspješnog slanja objave. Ako je prazno, "
+"preusmjerenje je na istu stranicu."
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:96
+msgid "Post Submission Message"
+msgstr "Poruka o podnošenju objave"
+
+# @ anonymous-post
+#: inc/boards/general-settings.php:99
+msgid "Message displayed after successful post submission."
+msgstr "Poruka prikazana nakon uspješnog slanja objave."
+
+# @ anonymous-post
+#: inc/boards/upgrade.php:2 inc/settings.php:45
+msgid "Upgrade"
+msgstr "Nadogradnja"
+
+# @ anonymous-post
+#: inc/cores/front-form.php:5
+msgid "Anonymous Post"
+msgstr "Anonymous Post"
+
+# @ anonymous-post
+#: inc/cores/front-form.php:9 inc/cores/front-form.php:190
+msgid "Submit Post"
+msgstr "Pošalji Objavu"
+
+# @ anonymous-post
+#: inc/cores/front-form.php:119
+msgid "Tags (Use comma to add multiple tags)"
+msgstr "Oznake (Koristite zarez ako dodajete više oznaka)"
+
+# @ anonymous-post
+#: inc/cores/front-form.php:177
+msgid "Human Check"
+msgstr "Ljudska Provjera"
+
+# @ anonymous-post
+#: inc/cores/front-form.php:181
+msgid "Enter Sum"
+msgstr "Unesite zbroj"
+
+# @ anonymous-post
+#: inc/cores/front-form.php:196
+msgid "Form created using: "
+msgstr "Obrazac je kreiran pomoću:"
+
+# @ anonymous-post
+#: inc/cores/save-post.php:19
+msgid "The entered sum is not correct"
+msgstr "Unešeni zbroj nije točan"
+
+# @ anonymous-post
+#: inc/cores/save-post.php:49
+msgid "Invalid File Type"
+msgstr "Nevažeća vrsta datoteke"
+
+# @ anonymous-post
+#: inc/cores/save-post.php:173
+msgid "Hi there, Thank you for submitting a post."
+msgstr "Poštovani, zahvaljujemo na slanju objave."
+
+# @ anonymous-post
+#: inc/cores/shortcode.php:30
+msgid "Login"
+msgstr "Prijava"
+
+# @ anonymous-post
+#: inc/settings.php:19
+msgid "Follow us for new updates"
+msgstr "Slijedite nas za nova ažuriranja"
+
+# @ anonymous-post
+#: inc/settings.php:30
+msgid "AccessPress Anonymous Post Settings"
+msgstr "AccessPress Anonymous Post postavke"
+
+# @ anonymous-post
+#: inc/settings.php:42
+msgid "Form Settings"
+msgstr "Postavke Obrasca"
+
+# @ anonymous-post
+#: inc/settings.php:44
+msgid "How to use"
+msgstr "Kako koristiti"
+
+# @ anonymous-post
+#: inc/settings.php:46
+msgid "About"
+msgstr "O nama"
+
+# @ anonymous-post
+#: inc/settings.php:106
+msgid "Are you sure you want to restore default settings?"
+msgstr "Jeste li sigurni da želite vratiti default postavke?"

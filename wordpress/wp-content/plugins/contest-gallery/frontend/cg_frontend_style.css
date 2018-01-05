@@ -1,0 +1,14 @@
+.thumbFrame{
+overflow:hidden !important;
+position:relative !important;
+}
+
+.thumbImg{
+position: absolute !important;
+max-width:none !important;
+}
+
+.show{
+overflow:hidden !important;
+position:relative !important;
+}

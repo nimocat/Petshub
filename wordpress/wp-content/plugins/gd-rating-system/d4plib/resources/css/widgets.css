@@ -1,0 +1,218 @@
+.d4plib-widget {
+    border-bottom: 1px solid #dfdfdf;
+    margin: 0 0 15px;
+    min-width: 498px;
+}
+
+.d4plib-widget h4 {
+    background: #666666;
+    border-radius: 3px;
+    color: #fefefe;
+    font-size: 1.1em;
+    margin: 15px 0 5px;
+    padding: 5px 7px;
+}
+
+.d4plib-widget td h4 {
+    margin-top: 0;
+}
+
+.d4plib-widget table {
+    margin: 0 0 10px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.d4plib-widget table label {
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 23px;
+}
+
+.d4plib-widget table input[type="text"] {
+    width: 100%;
+    line-height: 22px;
+    height: 30px;
+}
+
+.d4plib-widget table select {
+    width: 100%;
+    height: 30px;
+}
+
+.d4plib-widget table select[multiple] {
+    height: 86px;
+}
+
+.d4plib-widget table textarea {
+    width: 100%;
+    min-width: 100%;
+    min-height: 200px;
+}
+
+.d4plib-widget table textarea.half-height {
+    min-height: 86px;
+}
+
+.d4plib-widget table p {
+    margin: 0;
+    line-height: 21.5px;
+}
+
+.d4plib-widget table em {
+    display: block;
+    margin: 5px 0 0;
+}
+
+.d4plib-widget table em.solo-content {
+    margin: 0;
+}
+
+.d4plib-widget table td {
+    vertical-align: top;
+    padding-bottom: 5px;
+}
+
+.d4plib-widget table .cell-right,
+.d4plib-widget table .cell-left {
+    width: 49%;
+}
+
+.d4plib-widget table .cell-left {
+    padding-right: 1%;
+}
+
+.d4plib-widget table .cell-right {
+    padding-left: 1%;
+}
+
+.d4plib-widget-tabs {
+    border-bottom: 1px solid #dfdfdf;
+    display: block;
+    margin: 15px 0;
+    padding: 0 0 0 15px;
+}
+
+.d4plib-widget-tabs .d4plib-widget-tab {
+    color: #666;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    position: relative;
+    bottom: -1px;
+    margin: 0 5px 0 0;
+    line-height: 22px;
+    font-size: 12px;
+}
+
+.d4plib-widget-tabs .d4plib-widget-tab:hover {
+    background-color: #eee;
+}
+
+.d4plib-widget-tabs .d4plib-widget-tab:focus {
+    box-shadow: none;
+    background-color: #eee;
+}
+
+.d4plib-widget-tabs .d4plib-widget-tab.d4plib-tab-active {
+    border: 1px solid #ddd;
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom-color: #fff;
+    cursor: default;
+    color: #333;
+}
+
+.d4plib-widget-tabs .d4plib-widget-tab.d4plib-tab-active:hover {
+    background-color: transparent;
+    border-bottom-color: #fff;
+}
+
+.d4plib-widget-tabs-content .d4plib-tab-content {
+    display: none;
+}
+
+.d4plib-widget-tabs-content .d4plib-tab-content ul {
+    margin: 0;
+    list-style: none;
+}
+
+.d4plib-widget-tabs-content .d4plib-tab-content.d4plib-content-active {
+    display: block;
+}
+
+.d4plib-widget-tabs-content .d4plib-checkbox-list label {
+    font-weight: normal;
+}
+
+.d4plib-widget-tabs-content .d4plib-checkbox-list input[type="checkbox"], 
+.d4plib-widget-tabs-content .d4plib-checkbox-list input[type="radio"] {
+    margin-bottom: -3px;
+}
+
+.d4plib-widget .wp-color-result {
+    height: 28px;
+    margin: 0 6px 0 0;
+}
+
+.d4plib-widget .wp-color-result:after {
+    line-height: 28px;
+}
+
+.d4plib-widget .wp-picker-container .wp-picker-input-wrap input.wp-picker-clear {
+    height: 30px;
+    line-height: 28px;
+}
+
+.d4plib-widget .wp-picker-container .iris-picker {
+    width: 235px !important;
+}
+
+.d4plib-widget .wp-picker-container .iris-border .iris-picker-inner {
+    bottom: 7px;
+    left: 7px;
+    right: 7px;
+    top: 7px;
+}
+
+.d4plib-widget .wp-picker-container .iris-border .iris-palette-container {
+    bottom: 7px;
+    left: 7px;
+}
+
+.d4plib-widget .wp-picker-container .iris-picker .iris-square {
+    margin-right: 10px;
+}
+
+.d4plib-widget .d4p-wrapper-hierarchy {
+    margin: 0;
+}
+
+.d4plib-widget .d4p-wrapper-hierarchy li {
+    margin: 2px 0;
+}
+
+.d4plib-widget .d4p-wrapper-hierarchy li label {
+    font-weight: normal;
+}
+
+.d4plib-widget .d4p-wrapper-hierarchy ul.children {
+    margin-left: 12px;
+}
+
+.d4plib-widget .d4p-content-wrapper {
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    max-height: 160px;
+    overflow: auto;
+}
+
+.d4plib-widget .d4p-check-uncheck {
+    font-size: .9em;
+    padding: 0 0 5px;
+    margin: 0 0 5px;
+    border-bottom: 1px dotted #cccccc;
+}

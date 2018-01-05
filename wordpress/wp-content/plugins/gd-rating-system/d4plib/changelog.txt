@@ -1,0 +1,54 @@
+=== Dev4Press Library ===
+== Changelog ==
+
+= Version 2.2.1 - 2017.12.01 =
+* Updated: Improvements to WPDB wrapper class
+* Updated: Improvements to datetime class
+
+= Version 2.2 - 2017.11.08 =
+* New: Refactored names of various classes
+* New: Improved organization of the library
+* New: Simple CSS grid layout
+* New: Setup Wizard resources
+* New: Shared about page template for plugins
+
+= Version 2.1.2 - 2017.10.06 =
+* Updated: Minor changes to the Settings rendering
+* Updated: Few other minor updates to functions
+* Updated: POT Translation file
+
+= Version 2.1.1 - 2017.09.05 =
+* Updated: Request handling for GEOIP objects
+* Fixed: Request processing for GEOIP objects
+
+= Version 2.1 - 2017.08.15 =
+* Added: Dedicated Object Cache class
+
+= Version 2.0.6 - 2017.08.12 =
+* Added: Cache Core class
+* Added: Function to cache posts by ID
+
+= Version 2.0.5 - 2017.08.02 =
+* Added: function to render hierarchical checkboxes control
+* Added: styling for the hierarchical checkboxes for widgets
+* Added: function to format URL for campaign
+* Added: admin related file with the walkers classes
+
+= Version 2.0.4 - 2017.07.04 =
+* Added: GeoIP class
+
+= Version 2.0.3 - 2017.06.27 =
+* Added: settings object type for slug with slashes
+* Removed: pretty print library to new library
+
+= Version 2.0.2 - 2017.06.17 =
+* Updated: some core classes renamed
+* Updated: several minor changes
+
+= Version 2.0.1 - 2017.05.27 =
+* New: added readme and changelog files 
+* Updated: styling for responsive checkboxes
+
+= Version 2.0 - 2017.05.18 =
+* New: switched to Git
+* Removed: units librarie

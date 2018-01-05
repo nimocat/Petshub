@@ -1,0 +1,118 @@
+.ui-state-highlight{
+	background-color: rgb(255, 248, 172);
+	height:  191px;
+	width:  800px;
+	margin: 0 auto;
+	margin-bottom: 6px;
+}
+.tabcontents .ui-sortable-handle{
+	display:block;
+}
+.ui-sortable-handle{
+	display:none;
+}
+
+#cg_pics_per_site{
+	margin: 0 0 0 20px;
+	padding: 0 0 0 0;
+}
+
+.highlightedSortable{
+	background-color: #ffa9a9 !important;
+}
+
+.ui-datepicker-calendar .ui-state-highlight{
+	display: none;
+}
+
+#sortable .cg_comment_icons_div{
+	width: 18px;
+	display: inline;
+}
+
+#sortable .cg_comment_icons_div img{
+	position:absolute;
+}
+#sortable .cg_comment_icons_div img:first-child{
+	margin-right: 18px;
+}
+#sortable .cg_comment_icons_div img:nth-child(2){
+	margin-top: 32px;
+}
+
+#sortable .cg_title_icon{
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+	opacity: 0.7;
+}
+
+#sortable .cg_description_icon{
+	width: 18px;
+	height: 20px;
+	cursor: pointer;
+	opacity: 0.7;
+}
+
+#sortable .cg_excerpt_icon{
+	width: 22px;
+	height: 20px;
+	cursor: pointer;
+	opacity: 0.7;
+}
+
+#ausgabe1 textarea{
+	overflow-x: hidden;
+}
+
+#ausgabe1 .ui-sortable-handle{
+	display: block;
+}
+
+#cg_create_upload_add_field{
+	margin-top: 3px;
+	vertical-align: bottom;
+}
+
+
+#cg_options_sortable .cg_options_order,#cg_options_sortable .cg_options_order_change_order{
+	display: inline;
+}
+#cg_options_sortable .cg_options_order{
+	font-size: 18px;
+	margin-right: 30px;
+}
+#cg_options_sortable .cg_options_order_change_order i{
+	cursor: pointer;
+	border: solid #595959;
+	border-width: 0 7px 7px 0;
+	display: inline-block;
+	padding: 7px;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	margin-bottom: 0px;
+}
+#cg_options_sortable .cg_options_order_change_order.cg_move_view_to_top i{
+	cursor: pointer;
+	border: solid #595959;
+	border-width: 0 7px 7px 0;
+	display: inline-block;
+	padding: 7px;
+	transform: rotate(225deg);
+	-webkit-transform: rotate(225deg);
+	position: absolute;
+	margin-left: -21px;
+	margin-top: -15px;
+}
+#cg_options_sortable .cg_options_sortableContainer:nth-child(2) .cg_move_view_to_bottom i {
+	margin-bottom: -18px;
+}
+#cg_options_sortable .cg_options_sortableContainer:nth-child(3) .cg_move_view_to_top i {
+	margin-top: 0px;
+}
+#cg_options_sortable .cg_options_sortableContainer:nth-child(3) .cg_options_order{
+	margin-right: 55px;
+}
+.cg_hide{
+	display: none !important;
+}

@@ -1,0 +1,2 @@
+=== GD Rating System ===
+== List of included languages ==

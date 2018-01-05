@@ -1,0 +1,76 @@
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月23日 下午4:09: admin: $wppa_opt[wppa_maint_ignore_cron] is not a setting
+{b}url{/b}: /wp-admin/plugin-install.php?tab=plugin-information&plugin=wp-photo-album-plus&
+#0  wppa_log() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:402]
+#1  wppa_switch() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-cron.php:126]
+#2  wppa_schedule_cleanup() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-setup.php:656]
+#3  wppa_setup()
+#4  call_user_func_array() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:286]
+#5  WP_Hook->apply_filters() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:310]
+#6  WP_Hook->do_action() called at [/virtualhost/KZYJSs7t8F3/wp-includes/plugin.php:453]
+#7  do_action() called at [/virtualhost/KZYJSs7t8F3/wp-settings.php:450]
+#8  require_once(/virtualhost/KZYJSs7t8F3/wp-settings.php) called at [/virtualhost/KZYJSs7t8F3/wp-config.php:96]
+#9  require_once(/virtualhost/KZYJSs7t8F3/wp-config.php) called at [/virtualhost/KZYJSs7t8F3/wp-load.php:37]
+#10 require_once(/virtualhost/KZYJSs7t8F3/wp-load.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/admin.php:31]
+#11 require_once(/virtualhost/KZYJSs7t8F3/wp-admin/admin.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/plugin-install.php:15]
+
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月23日 下午4:09: admin: $wppa_opt[wppa_photo_shortcode_enabled] is not a setting
+{b}url{/b}: /wp-admin/plugin-install.php?tab=plugin-information&plugin=wp-photo-album-plus&
+#0  wppa_log() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:402]
+#1  wppa_switch() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-tinymce-photo.php:16]
+#2  wppa_tinymce_photo_action_init()
+#3  call_user_func_array() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:286]
+#4  WP_Hook->apply_filters() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:310]
+#5  WP_Hook->do_action() called at [/virtualhost/KZYJSs7t8F3/wp-includes/plugin.php:453]
+#6  do_action() called at [/virtualhost/KZYJSs7t8F3/wp-settings.php:450]
+#7  require_once(/virtualhost/KZYJSs7t8F3/wp-settings.php) called at [/virtualhost/KZYJSs7t8F3/wp-config.php:96]
+#8  require_once(/virtualhost/KZYJSs7t8F3/wp-config.php) called at [/virtualhost/KZYJSs7t8F3/wp-load.php:37]
+#9  require_once(/virtualhost/KZYJSs7t8F3/wp-load.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/admin.php:31]
+#10 require_once(/virtualhost/KZYJSs7t8F3/wp-admin/admin.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/plugin-install.php:15]
+
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月23日 下午4:09: admin: $wppa_opt[wppa_grant_an_album] is not a setting
+{b}url{/b}: /wp-admin/plugin-install.php?tab=plugin-information&plugin=wp-photo-album-plus&
+#0  wppa_log() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:402]
+#1  wppa_switch() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-setup.php:1957]
+#2  wppa_grant_albums() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-common-functions.php:54]
+#3  wppa_initialize_runtime()
+#4  call_user_func_array() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:286]
+#5  WP_Hook->apply_filters() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:310]
+#6  WP_Hook->do_action() called at [/virtualhost/KZYJSs7t8F3/wp-includes/plugin.php:453]
+#7  do_action() called at [/virtualhost/KZYJSs7t8F3/wp-settings.php:450]
+#8  require_once(/virtualhost/KZYJSs7t8F3/wp-settings.php) called at [/virtualhost/KZYJSs7t8F3/wp-config.php:96]
+#9  require_once(/virtualhost/KZYJSs7t8F3/wp-config.php) called at [/virtualhost/KZYJSs7t8F3/wp-load.php:37]
+#10 require_once(/virtualhost/KZYJSs7t8F3/wp-load.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/admin.php:31]
+#11 require_once(/virtualhost/KZYJSs7t8F3/wp-admin/admin.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/plugin-install.php:15]
+
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月23日 下午4:09: admin: $wppa_opt[wppa_moderate_bulk] is not a setting
+{b}url{/b}: /wp-admin/plugin-install.php?tab=plugin-information&plugin=wp-photo-album-plus&
+#0  wppa_log() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:402]
+#1  wppa_switch() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-admin.php:66]
+#2  wppa_add_admin()
+#3  call_user_func_array() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:286]
+#4  WP_Hook->apply_filters() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:310]
+#5  WP_Hook->do_action() called at [/virtualhost/KZYJSs7t8F3/wp-includes/plugin.php:453]
+#6  do_action() called at [/virtualhost/KZYJSs7t8F3/wp-admin/includes/menu.php:149]
+#7  require_once(/virtualhost/KZYJSs7t8F3/wp-admin/includes/menu.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/menu.php:286]
+#8  require(/virtualhost/KZYJSs7t8F3/wp-admin/menu.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/admin.php:140]
+#9  require_once(/virtualhost/KZYJSs7t8F3/wp-admin/admin.php) called at [/virtualhost/KZYJSs7t8F3/wp-admin/plugin-install.php:15]
+
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月23日 下午4:09: admin: $wppa_opt[wppa_photo_shortcode_enabled] is not a setting
+{b}url{/b}: /wp-admin/plugin-install.php?tab=plugin-information&plugin=wp-photo-album-plus&
+#0  wppa_log() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-utils.php:402]
+#1  wppa_switch() called at [/virtualhost/KZYJSs7t8F3/wp-content/plugins/wp-photo-album-plus/wppa-tinymce-photo.php:49]
+#2  wppa_inject_2_js()
+#3  call_user_func_array() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:286]
+#4  WP_Hook->apply_filters() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:310]
+#5  WP_Hook->do_action() called at [/virtualhost/KZYJSs7t8F3/wp-includes/plugin.php:453]
+#6  do_action() called at [/virtualhost/KZYJSs7t8F3/wp-admin/includes/template.php:1662]
+#7  iframe_header() called at [/virtualhost/KZYJSs7t8F3/wp-admin/includes/plugin-install.php:522]
+#8  install_plugin_information()
+#9  call_user_func_array() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:286]
+#10 WP_Hook->apply_filters() called at [/virtualhost/KZYJSs7t8F3/wp-includes/class-wp-hook.php:310]
+#11 WP_Hook->do_action() called at [/virtualhost/KZYJSs7t8F3/wp-includes/plugin.php:453]
+
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月30日 下午10:02: 101.226.33.202: Could not save session 1763
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月30日 下午10:02: 101.226.33.202: Could not save session 1763
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月30日 下午10:02: 101.226.33.225: Could not save session 1764
+{b}{span style="color:orange;" }Dbg{/span}{/b}: on:2017年12月30日 下午10:02: 101.226.33.225: Could not save session 1764

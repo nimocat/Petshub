@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contest Gallery\n"
+"POT-Creation-Date: 2017-12-29 02:55+0100\n"
+"PO-Revision-Date: 2017-12-29 02:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: frontend/check-language.php:3
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: frontend/check-language.php:4
+msgid "Comments"
+msgstr "Comentarios"
+
+#: frontend/check-language.php:5
+msgid "Vote first"
+msgstr "Votar primero"
+
+#: frontend/check-language.php:6
+msgid "Thumb view"
+msgstr "Thumb ver más"
+
+#: frontend/check-language.php:7
+msgid "Height view"
+msgstr "Vista de la altura"
+
+#: frontend/check-language.php:8
+msgid "Row view"
+msgstr "Vista de la fila"
+
+#: frontend/check-language.php:9
+msgid "Random"
+msgstr "Aleatorio"
+
+#: frontend/check-language.php:10
+msgid "Date descend"
+msgstr "Fecha de descenso"
+
+#: frontend/check-language.php:11
+msgid "Date ascend"
+msgstr "Fecha de ascenso"
+
+#: frontend/check-language.php:12
+msgid "Comments descend"
+msgstr "Comentarios bajar"
+
+#: frontend/check-language.php:13
+msgid "Comments ascend"
+msgstr "Comentarios asc"
+
+#: frontend/check-language.php:14
+msgid "Rating descend"
+msgstr "Puntuación descendente"
+
+#: frontend/check-language.php:15
+msgid "Rating ascend"
+msgstr "Puntuación ascend"
+
+#: frontend/check-language.php:16
+msgid "Full size"
+msgstr "Tamaño completo"
+
+#: frontend/check-language.php:17
+msgid "Picture comments"
+msgstr "Comentarios de la imagen"
+
+#: frontend/check-language.php:18
+msgid "Your comment"
+msgstr "Tu comentario"
+
+#: frontend/check-language.php:19
+msgid "Name"
+msgstr "Nombre"
+
+#: frontend/check-language.php:20
+msgid "Comment"
+msgstr "Comentario"
+
+#: frontend/check-language.php:21
+msgid "I am not a robot"
+msgstr "No soy un robot"
+
+#: frontend/check-language.php:22
+msgid "Send"
+msgstr "Enviar"
+
+#: frontend/check-language.php:23
+msgid "The name field must contain two characters or more"
+msgstr "El campo de nombre debe contener dos caracteres o más"
+
+#: frontend/check-language.php:24
+msgid "The comment field must contain three characters or more"
+msgstr "El campo de comentario debe contener tres caracteres o más"
+
+#: frontend/check-language.php:25
+msgid "Plz check the checkbox to prove that you are not a robot"
+msgstr ""
+"Plz marque la casilla de verificación para probar que usted no es un robot"
+
+#: frontend/check-language.php:26
+msgid "Thank you for your comment"
+msgstr "Gracias por tu comentario"
+
+#: frontend/check-language.php:27
+msgid "You have already voted for this picture"
+msgstr "Ya has votado por esta foto"
+
+#: frontend/check-language.php:28
+msgid "You have already used all your votes"
+msgstr "Ya has utilizado todos tus votos"
+
+#: frontend/check-language.php:29
+msgid "Only registered users are able to vote"
+msgstr "Solo los usuarios registrados pueden votar"
+
+#: frontend/check-language.php:30
+msgid "Back to gallery"
+msgstr "Volver a la galería"
+
+#: frontend/check-language.php:31
+msgid "This file type is not allowed"
+msgstr "Este tipo de archivo no está permitido"
+
+#: frontend/check-language.php:32
+msgid "The selected file is too large, max allowed size"
+msgstr ""
+"El archivo seleccionado es demasiado grande, el tamaño máximo permitido"
+
+#: frontend/check-language.php:33
+msgid "The resolution of this image is"
+msgstr "La resolución de esta imagen es"
+
+#: frontend/check-language.php:35
+msgid "Maximum number of images for one upload is"
+msgstr "El número máximo de imágenes para una subida es"
+
+#: frontend/check-language.php:36
+msgid "Minimum number of images for one upload is"
+msgstr "El número mínimo de imágenes para una subida es"
+
+#: frontend/check-language.php:38
+msgid "Maximum allowed resolution for JPG is"
+msgstr "La resolución máxima permitida para JPG es"
+
+#: frontend/check-language.php:39
+msgid "Maximum allowed width for JPG is"
+msgstr "El ancho máximo permitido para JPG es"
+
+#: frontend/check-language.php:40
+msgid "Maximum allowed height for JPG is"
+msgstr "La altura máxima permitida para JPG es"
+
+#: frontend/check-language.php:42
+msgid "Maximum allowed resolution for PNG is"
+msgstr "La resolución máxima permitida para PNG es"
+
+#: frontend/check-language.php:43
+msgid "Maximum allowed width for PNG is"
+msgstr "El ancho máximo permitido para PNG es"
+
+#: frontend/check-language.php:44
+msgid "Maximum allowed height for PNG is"
+msgstr "La altura máxima permitida para PNG es"
+
+#: frontend/check-language.php:46
+msgid "Maximum allowed resolution for GIF is"
+msgstr "La resolución máxima permitida para GIF es"
+
+#: frontend/check-language.php:47
+msgid "Maximum allowed width for GIF is"
+msgstr "El ancho máximo permitido para GIF es"
+
+#: frontend/check-language.php:48
+msgid "Maximum allowed height for GIF is"
+msgstr "La altura máxima permitida para GIF es"
+
+#: frontend/check-language.php:50
+msgid "You have to check this agreement"
+msgstr "Usted tiene que comprobar este acuerdo"
+
+#: frontend/check-language.php:51
+msgid "This email is not valid"
+msgstr "Este correo electrónico no es válido"
+
+#: frontend/check-language.php:52
+msgid "Min amount of characters"
+msgstr "Cantidad mínima de caracteres"
+
+#: frontend/check-language.php:53
+msgid "Max amount of characters"
+msgstr "Cantidad máxima de caracteres"
+
+#: frontend/check-language.php:54
+msgid "Select your image"
+msgstr "Seleccione su imagen"
+
+#: frontend/check-language.php:55
+msgid "The photo contest is over"
+msgstr "El concurso fotográfico ha terminado"
+
+#: frontend/check-language.php:56
+msgid "Hold left mouse to see user info"
+msgstr ""
+"Mantenga pulsado el botón izquierdo del ratón para ver la información del "
+"usuario"
+
+#: frontend/check-language.php:58
+msgid "This email address is already registered"
+msgstr "Esta dirección de correo electrónico ya está registrada"
+
+#: frontend/check-language.php:59
+msgid "This username is already taken"
+msgstr "Este nombre de usuario ya está en uso"
+
+#: frontend/check-language.php:61
+msgid "Username or e-mail"
+msgstr "Nombre de usuario o correo electrónico"
+
+#: frontend/check-language.php:62
+msgid "Username or e-mail required"
+msgstr "Nombre de usuario o correo electrónico requerido"
+
+#: frontend/check-language.php:64
+msgid "Username or e-mail does not exist"
+msgstr "El nombre de usuario o correo electrónico no existe"
+
+#: frontend/check-language.php:66
+msgid "Password"
+msgstr "Contraseña"
+
+#: frontend/check-language.php:67
+msgid "Password required"
+msgstr "Se requiere contraseña"
+
+#: frontend/check-language.php:69
+msgid "Password is wrong"
+msgstr "La contraseña es incorrecta"
+
+#: frontend/check-language.php:71
+msgid "You are already logged in"
+msgstr "Ya se ha autentificado"
+
+#: frontend/check-language.php:73
+msgid "Please fill out"
+msgstr "Por favor complete"
+
+#: frontend/check-language.php:75
+msgid "Passwords do not match"
+msgstr "Las contraseñas no coinciden"
+
+#: frontend/check-language.php:77
+msgid "Upload"
+msgstr "Subir"
+
+#: frontend/check-language.php:78
+msgid "Register"
+msgstr "Para registrarse"
+
+#: frontend/check-language.php:79
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: frontend/check-language.php:81
+msgid "Please select"
+msgstr "Por favor selecciona"
+
+#: frontend/check-language.php:82
+msgid "You have not selected"
+msgstr "No has seleccionado"
+
+#: frontend/check-language.php:84
+msgid "Please confirm"
+msgstr "Por favor confirme"
+
+#: frontend/check-language.php:85
+msgid "Image is not activated"
+msgstr "La imagen no está activada"
+
+#: index.php:517
+msgid "Contest Gallery User"
+msgstr ""
+
+#: index.php:1917
+msgid "Account"
+msgstr ""
+
+#: index.php:1918
+msgid "Logout?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "Contest Gallery"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create a professional photo contest."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.contest-gallery.com/"
+msgstr ""

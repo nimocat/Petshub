@@ -1,0 +1,567 @@
+/*
+Theme Name: Themify Stack
+Theme URI: http://themify.me/
+Author: Themify
+Author URI: http://www.themify.me
+*/
+
+/*
+GENERAL GRID POST
+================================================ */
+.themify-portfolio-posts .loops-wrapper.grid2 .post,
+.themify-portfolio-posts .loops-wrapper.grid3 .post,
+.themify-portfolio-posts .loops-wrapper.grid4 .post {
+	margin: auto !important;
+}
+.themify-portfolio-posts .portfolio img {
+	max-width: 100%;
+	height: auto;
+}
+.disp-table {
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+.disp-row {
+	display: table-row;
+}
+.disp-cell {
+	width: 100%;
+	display: table-cell;
+}
+.disp-cell.valignmid {
+	vertical-align: middle;
+}
+
+/*
+GRID4 POST
+================================================ */
+.themify-portfolio-posts .loops-wrapper.grid4 .post {
+	width: 25%;
+	float: left;
+}
+.themify-portfolio-posts .loops-wrapper.grid4 .post-media {
+	min-height: 32px;
+}
+.themify-portfolio-posts .loops-wrapper.grid4 .post-meta-bottom {
+	font-size: .7em;
+}
+.themify-portfolio-posts .loops-wrapper.grid4 .post-meta-bottom .post-author img {
+	max-width: 30px
+}
+.themify-portfolio-posts .loops-wrapper.grid4 .post-title {
+	font-size: 1.3em;
+	margin: 0 0 .5em;
+}
+.themify-portfolio-posts .loops-wrapper.grid4 .post-icon {
+	font-size: 17px;
+}
+.themify-portfolio-posts .loops-wrapper.grid4 .post-category {
+	font-size: .85em;
+}
+
+.themify-portfolio-posts .loops-wrapper.grid4 .post-media {
+	min-height: 32px;
+}
+.themify-portfolio-posts .loops-wrapper.grid4 .post-meta-bottom {
+	font-size: .7em;
+}
+.themify-portfolio-posts .loops-wrapper.grid4 .post-meta-bottom .post-author img {
+	max-width: 30px
+}
+
+
+/*
+GRID3 POST
+================================================ */
+.themify-portfolio-posts .loops-wrapper.grid3 .post {
+	width: 33.33%;
+	float: left;
+}
+.themify-portfolio-posts .loops-wrapper.grid3 .post-title {
+	font-size: 1.5em;
+	margin: 0 0 .55em;
+}
+.themify-portfolio-posts .loops-wrapper.grid3 .post-meta-bottom {
+	font-size: .8em;
+}
+.themify-portfolio-posts .loops-wrapper.grid3 .post-meta-bottom .post-author img {
+	max-width: 40px
+}
+
+/*
+GRID2 POST
+================================================ */
+.themify-portfolio-posts .loops-wrapper.grid2 .post {
+	width: 50%;
+	float: left;
+}
+.themify-portfolio-posts .loops-wrapper.grid2 .post-title {
+	font-size: 2em;
+	margin: 0 0 .55em;	
+}
+
+/*
+GRID2-THUMB POST
+================================================ */
+.themify-portfolio-posts .loops-wrapper.grid2-thumb .post {
+	width: 48.4%;
+	margin-left: 3.2%;
+	float: left;
+}
+.themify-portfolio-posts .loops-wrapper.grid2-thumb .post-title {
+	font-size: 1.8em;
+}
+.themify-portfolio-posts .loops-wrapper.grid2-thumb .post-image {
+	width: 20%;
+	float: left;
+	margin: 0 1.6em 1.3em 0;
+}
+.themify-portfolio-posts .loops-wrapper.grid2-thumb .post-content {
+	overflow: hidden;
+	min-width: 120px;
+}
+
+/*
+CLEAR GRID FLOAT
+================================================ */
+.themify-portfolio-posts .loops-wrapper.grid4 .post:nth-of-type(4n+1),
+.themify-portfolio-posts .loops-wrapper.grid3 .post:nth-of-type(3n+1),
+.themify-portfolio-posts .loops-wrapper.grid2 .post:nth-of-type(2n+1),
+.themify-portfolio-posts .loops-wrapper.grid2-thumb .post:nth-of-type(2n+1) {
+	margin-left: 0;
+	clear: left;
+}
+
+/*
+LIST-THUMB-IMAGE POST
+================================================ */
+.themify-portfolio-posts .loops-wrapper.list-thumb-image .post {
+	clear: both; /* require for FF */
+}
+.themify-portfolio-posts .loops-wrapper.list-thumb-image .post-image {
+	width: 20%;
+	float: left;
+	margin: 0 1.4em 1em 0;
+}
+.themify-portfolio-posts .loops-wrapper.list-thumb-image .post-image img {
+	width: 100%;
+}
+.themify-portfolio-posts .loops-wrapper.list-thumb-image .post-content {
+	overflow: hidden;
+}
+
+/*
+LIST-LARGE-IMAGE POST
+================================================ */
+.themify-portfolio-posts .loops-wrapper.list-large-image .post-image {
+	max-width: 70%;
+	float: left;
+	margin: 0 2em 1.3em 0;
+}
+
+/************************************************************************************
+7.1 PORTFOLIO POST TYPE
+*************************************************************************************/
+/* post-filter */
+.themify-portfolio-posts .themify-portfolio-posts-filter {
+	text-align:center;
+	font-family: "Montserrat", sans-serif;
+	font-size: .875em;
+	margin: 2em 0;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity .5s ease-out;
+}
+.themify-portfolio-posts .themify-portfolio-posts-filter.filter-visible {
+	visibility: visible;
+	opacity: 1;
+}
+.themify-portfolio-posts .themify-portfolio-posts-filter li {
+	display: inline-block;
+	margin: 0 10px 15px;
+}
+.themify-portfolio-posts .themify-portfolio-posts-filter li a {
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.themify-portfolio-posts .themify-portfolio-posts-filter li.active a {
+	color: #fff;
+	position:relative;
+}
+.themify-portfolio-posts .themify-portfolio-posts-filter li.active a:after {
+	content: "\e646";
+	font-family: "themify";
+	left: 50%;
+	position: absolute;
+	top: 17px;
+	font-size: .6625em; /* 9/16 */
+	margin-left: -2px;
+}
+
+/* portfolio post-category */
+.themify-portfolio-posts .portfolio-post .post-category {
+	font-weight: 300;
+	margin-right: 0;
+	font-size: .9em;
+}
+
+/* portfolio post */
+.themify-portfolio-posts .loops-wrapper.portfolio .portfolio-post {
+	overflow: hidden; /* prevent image zoom outside the container */
+	margin: auto;
+}
+
+/* portfolio post meta */
+.themify-portfolio-posts .loops-wrapper.portfolio .post-meta-top {
+	padding: 0;
+	margin: 0 0 .3em;
+	text-transform: uppercase;
+	letter-spacing: .06em;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio .post-meta .post-category {
+	font-weight: 300;
+	font-family: "Roboto Condensed", sans-serif;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio .post-meta a {
+	text-decoration: none;
+}
+
+/* portfolio image hover */
+.themify-portfolio-posts .loops-wrapper.portfolio .post-image img {
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	transition: all .3s;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio .portfolio-post:hover img {
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+/* portfolio post title*/
+.themify-portfolio-posts .loops-wrapper.portfolio .post-title {
+	font-size: 2.3em;
+	margin: 0 0 .5em;
+	padding: 0;
+	letter-spacing: -.05em;
+}
+
+/* portfolio post-content */
+.themify-portfolio-posts .loops-wrapper.portfolio .post-content {
+	padding: 6%;
+	text-align: center;
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/* portfolio excerpt */
+.themify-portfolio-posts .loops-wrapper.portfolio .entry-content {
+	font-size: .9em;
+	line-height: 1.4em;
+}
+
+/*
+PORTFOLIO LIST-POST
+================================================ */
+/* protfolio list view */
+.themify-portfolio-posts .loops-wrapper.portfolio.list-post .portfolio-post {
+	width: 100%;
+	height: auto;
+	position: static;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio.list-post .post-image {
+	width: 50%;
+	float: left;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio.list-post .post-content {
+	width: 50%;
+	text-align: left;
+	float: left;
+}
+
+/*
+PORTFOLIO MASONRY
+================================================ */
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .portfolio-post {
+	position: relative;
+	overflow: hidden;
+	float: left;
+	margin: 0;
+}
+
+/* portfolio masonry size */
+.themify-portfolio-posts .loops-wrapper.portfolio .grid-sizer {
+	width: 25%;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .portfolio-post.size-large {
+	width: 50%;
+	height: 480px;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .portfolio-post.size-small {
+	width: 25%;
+	height: 240px;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .portfolio-post.size-small .post-title {
+	font-size: 1.6em;
+}
+
+/* portfolio masonry image */
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .post-image {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+	width: 50%;
+	height: 100%;
+}
+
+/* portfolio masonry post-content */
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .post-content {
+	width: 50%;
+	height: 100%;
+}
+
+/* portfolio masonry align post-image & post-content */
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .image-left .post-image {
+	float: left;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .image-right .post-image {
+	float: right;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .image-left .post-content {
+	float: right;
+}
+.themify-portfolio-posts .loops-wrapper.portfolio.masonry-layout .image-right .post-content {
+	float: left;
+}
+
+/* vertical-align-middle */
+.themify-portfolio-posts .disp-table {
+	display: table;
+	width:100%;
+	height:100%;
+}
+.themify-portfolio-posts .disp-row {
+	display: table-row;
+}
+.themify-portfolio-posts .disp-cell {
+	width: 100%;
+	display: table-cell; 
+}
+.themify-portfolio-posts .disp-cell.valignmid {
+	vertical-align: middle;
+}
+
+/*
+PORTFOLIO SINGLE
+================================================ */
+.themify-portfolio-single {
+	position: relative;
+}
+/* single portfolio post meta */
+.themify-portfolio-single .featured-area {
+	margin-top: 2em;
+}
+.themify-portfolio-single .post-content {
+	overflow: hidden;
+}
+.themify-portfolio-single .portfolio-post .post-meta-top {
+	margin: 0 0 .5em;
+	padding: 0;
+}
+
+/* project info */
+.themify-portfolio-single .project-meta {
+	width: 19%;
+	float: right;
+	margin-left: 5%;
+	margin-top: 90px;
+}
+.themify-portfolio-single .project-date,
+.themify-portfolio-single .project-client,
+.themify-portfolio-single .project-services {
+	border-top: 1px solid #686378;
+	padding: 1em .3em;
+	font-size: 1em;
+}
+.themify-portfolio-single .project-date strong,
+.themify-portfolio-single .project-client strong,
+.themify-portfolio-single .project-services strong {
+	display: block;
+	text-transform: uppercase;
+}
+.themify-portfolio-single .project-launch {
+	padding: 1em .3em;
+}
+.themify-portfolio-single .project-launch a {
+	font-size: 1em;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
+	color: #fff;
+	display: inline-block;
+	letter-spacing: .06em;
+	margin-bottom: 1em;
+	text-transform: uppercase;
+}
+.themify-portfolio-single .project-launch a:before {
+	content: '\e649';
+	border: 1px solid #fff;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+	display: inline-block;
+	font-family: 'themify';
+	font-style: normal;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 1.3em;
+	margin-right: 1.2em;
+	padding: .4em;
+	width: 13px;
+	height: 13px;
+}
+.themify-portfolio-single .post-title,
+.themify-portfolio-single .entry-meta,
+.themify-portfolio-single .entry-content {
+	clear: none !important;
+}
+
+/* Portfolio post nav */
+.themify-portfolio-post-nav .arrow:before {
+	font-size: 34px;
+}
+.themify-portfolio-post-nav .themify-portfolio-next .arrow:before {
+	left: 40px;
+	right: auto;
+}
+.themify-portfolio-post-nav .themify-portfolio-prev,
+.themify-portfolio-post-nav .themify-portfolio-next {
+	width: auto;
+	float: none;
+	display: inline;
+}
+.themify-portfolio-post-nav .themify-portfolio-next .arrow:before,
+.themify-portfolio-post-nav .themify-portfolio-prev .arrow:before {
+	display: inline-block;
+	font-family: 'FontAwesome';
+	font-style: normal;
+}
+.themify-portfolio-post-nav .themify-portfolio-prev .arrow:before {
+	content: "\f053";
+}
+.themify-portfolio-post-nav .themify-portfolio-next .arrow:before{
+	content: "\f054";
+}
+.themify-portfolio-single #content {
+	position: relative;
+}
+.themify-portfolio-post-nav {
+	position: absolute;
+	top: 4em;
+	right: 0;
+	width: 4em;
+	margin: 0;
+}
+
+/************************************************************************************
+7.2 MASONRY LAYOUT
+*************************************************************************************/
+/* masonry grid-sizer, gutter-sizer */
+.themify-portfolio-posts .masonry-enabled .grid4 .grid-sizer,
+.themify-portfolio-posts .masonry-done.portfolio .grid4 {
+	width: 25%;
+}
+.themify-portfolio-posts .masonry-enabled .grid3 .grid-sizer,
+.themify-portfolio-posts .masonry-done.portfolio .grid3 {
+	width: 33.33%;
+}
+.themify-portfolio-posts .masonry-enabled .grid2 .grid-sizer,
+.themify-portfolio-posts .masonry-done.portfolio .grid2 {
+	width: 50%;
+}
+.themify-portfolio-posts .masonry-enabled .gutter-sizer,
+.themify-portfolio-posts .masonry-done.portfolio .gutter-sizer{
+	width: 3.19%;
+}
+.themify-portfolio-posts .masonry-enabled .gutter-sizer,
+.themify-portfolio-posts .masonry-done.portfolio .gutter-sizer{
+	width: 0;
+}
+
+.themify-portfolio-posts figure.post-image {
+	margin: 0;
+}
+.themify-portfolio-posts figure.post-image img {
+	display: block;
+}
+.themify-portfolio-posts .loops-wrapper > .post {
+	padding-bottom: 0 !important;
+	margin-bottom: 0 !important;
+	border: 0 !important;
+}
+.themify-portfolio-posts .loops-wrapper .post-title a {
+	text-decoration: none !important;
+}
+.themify-portfolio-posts .grid2 figure.post-image,
+.themify-portfolio-posts .grid3 figure.post-image,
+.themify-portfolio-posts .grid4 figure.post-image {
+	float: left;
+}
+.themify-portfolio-posts .grid2 .post-content,
+.themify-portfolio-posts .grid3 .post-content,
+.themify-portfolio-posts .grid4 .post-content {
+	overflow: hidden;
+}
+
+.tpp-gallery-wrapper img {
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+}
+.tpp-gallery-wrapper .grid-sizer,
+.tpp-gallery-wrapper .item {
+	width: 33.333%;
+}
+.tpp-gallery-wrapper .item.has-caption {
+	overflow: hidden;
+}
+.tpp-gallery-wrapper span.gallery-caption {
+	position: absolute;
+	top: -100%;
+	left: 0;
+	width: 100%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	color: #fff;
+	text-align: center;
+	z-index: 999;
+	transition: .3s;
+}
+.tpp-gallery-wrapper .item:hover span.gallery-caption {
+	top: 50%;
+}
+
+.tpp-gallery-wrapper .item.has-caption:before {
+	content: "";
+	position: absolute;
+	top: 100%;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0,0,0, .5);
+	display: block;
+	z-index: 99;
+	transition: .3s;
+	pointer-events: none;
+}
+.tpp-gallery-wrapper .item.has-caption:hover:before {
+	top: 0;
+}

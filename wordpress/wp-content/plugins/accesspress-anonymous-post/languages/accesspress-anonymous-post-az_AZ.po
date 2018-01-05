@@ -1,0 +1,532 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Anonymous Post v2.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-06 05:04:10+0000\n"
+"Last-Translator: admin <admin@mail.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Azeri (Latin)\n"
+"X-Poedit-Country: AZERBAIJAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: accesspress-anonymous-post.php:0
+#: accesspress-anonymous-post.php:112
+#: inc/boards/about.php:26
+#: inc/boards/about.php:33
+#: inc/settings.php:15
+#@ anonymous-post
+msgid "AccessPress Anonymous Post"
+msgstr "AccessPress Anonymous Post"
+
+#. translators: plugin header field 'PluginURI'
+#: accesspress-anonymous-post.php:0
+#@ anonymous-post
+msgid "http://accesspressthemes.com/wordpress-plugins/accesspress-anonymous-post/"
+msgstr "http://accesspressthemes.com/wordpress-plugins/accesspress-anonymous-post/"
+
+#. translators: plugin header field 'Author'
+#: accesspress-anonymous-post.php:0
+#@ anonymous-post
+msgid "AccessPress Themes"
+msgstr "AccessPress Themes"
+
+#. translators: plugin header field 'AuthorURI'
+#: accesspress-anonymous-post.php:0
+#@ anonymous-post
+msgid "http://accesspressthemes.com/"
+msgstr "http://accesspressthemes.com/"
+
+#: accesspress-anonymous-post.php:104
+#: inc/cores/front-form.php:11
+#: inc/cores/save-post.php:29
+#: inc/cores/save-post.php:36
+#: inc/cores/save-post.php:37
+#@ anonymous-post
+msgid "This field is required"
+msgstr "Bu sahə boş buraxılmamalıdır."
+
+#: accesspress-anonymous-post.php:105
+#@ anonymous-post
+msgid "Sum is not correct."
+msgstr "Cəm doğru deyil."
+
+#: accesspress-anonymous-post.php:112
+#@ anonymous-post
+msgid "AccessPress Anonymoust Post Settings"
+msgstr "AccessPress Anonymoust Post tənzimləmələri"
+
+#: accesspress-anonymous-post.php:295
+#@ anonymous-post
+msgid "Hello there,"
+msgstr "Salam"
+
+#: accesspress-anonymous-post.php:296
+#@ anonymous-post
+msgid "A new post has been submitted via AccessPress Anonymous Post plugin in "
+msgstr "Yəni material AccessPress Anonymous Post plugini vasitəsilə göndərilmişdir"
+
+#: accesspress-anonymous-post.php:296
+#@ anonymous-post
+msgid " Please find details below:"
+msgstr "Detalları aşağlda axtarın:"
+
+#: accesspress-anonymous-post.php:317
+#@ anonymous-post
+msgid "To take action (approve/reject)- please go here:"
+msgstr "Əməliyyatları(rəddetmə / təsdiqləmə) buradan edin:"
+
+#: accesspress-anonymous-post.php:320
+#@ anonymous-post
+msgid "Thank You"
+msgstr "Təşəkkürlər."
+
+#: accesspress-anonymous-post.php:321
+#@ anonymous-post
+msgid "New Post Submission - via AccessPress Anonymous Post"
+msgstr "Yeni material göndərmə - AccessPress Anonymous Post vasitəsilə"
+
+#: accesspress-anonymous-post.php:378
+#: inc/cores/shortcode.php:22
+#@ anonymous-post
+msgid "Please login to submit the post."
+msgstr "Material göndərmək üçün daxil olun"
+
+#: accesspress-anonymous-post.php:407
+#@ anonymous-post
+msgid "Default Settings Restored Successfully."
+msgstr "Standart tənzimləmələr müvəffəqiyyətlə quruldu."
+
+#: inc/boards/about.php:2
+#@ anonymous-post
+msgid "About Us"
+msgstr "Haqqımızda"
+
+#: inc/boards/captcha-settings.php:2
+#: inc/settings.php:43
+#@ anonymous-post
+msgid "Captcha Settings"
+msgstr "Captcha tənzimləmələri"
+
+#: inc/boards/captcha-settings.php:6
+#@ anonymous-post
+msgid "Show Mathmatical Captcha"
+msgstr "Riyazi Captcha-nı göstər"
+
+#: inc/boards/captcha-settings.php:11
+#@ anonymous-post
+msgid "Mathmatical Captcha Label"
+msgstr "Riyazi Captcha başlığı"
+
+#: inc/boards/captcha-settings.php:17
+#@ anonymous-post
+msgid "Mathmatical Captcha Error Message"
+msgstr "Riyazi Captcha səhv mesajı"
+
+#: inc/boards/form-settings.php:3
+#@ anonymous-post
+msgid "Form field configurations"
+msgstr "Form sahəsinin konfiqurasiyaları"
+
+#: inc/boards/form-settings.php:10
+#: inc/boards/form-settings.php:236
+#: inc/cores/front-form.php:6
+#@ anonymous-post
+msgid "Post Title"
+msgstr "Material başlığı"
+
+#: inc/boards/form-settings.php:14
+#: inc/boards/form-settings.php:34
+#: inc/boards/form-settings.php:53
+#: inc/boards/form-settings.php:91
+#: inc/boards/form-settings.php:110
+#: inc/boards/form-settings.php:129
+#: inc/boards/form-settings.php:149
+#: inc/boards/form-settings.php:166
+#@ anonymous-post
+msgid "Show on form"
+msgstr "Formda göstər"
+
+#: inc/boards/form-settings.php:17
+#: inc/boards/form-settings.php:37
+#: inc/boards/form-settings.php:56
+#: inc/boards/form-settings.php:75
+#: inc/boards/form-settings.php:94
+#: inc/boards/form-settings.php:113
+#: inc/boards/form-settings.php:132
+#: inc/boards/form-settings.php:152
+#: inc/boards/form-settings.php:169
+#@ anonymous-post
+msgid "Required"
+msgstr "Tələb olunur"
+
+#: inc/boards/form-settings.php:21
+#@ anonymous-post
+msgid "Post Title Required Message"
+msgstr "Material başlığının tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:30
+#: inc/boards/form-settings.php:245
+#: inc/cores/front-form.php:7
+#@ anonymous-post
+msgid "Post Content"
+msgstr "Materialın mahiyyəti"
+
+#: inc/boards/form-settings.php:40
+#@ anonymous-post
+msgid "Post Content Required Message"
+msgstr "Materialın mahiyyətinin tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:49
+#: inc/boards/form-settings.php:254
+#: inc/cores/front-form.php:68
+#@ anonymous-post
+msgid "Post Excerpt"
+msgstr "Material çıxarışı"
+
+#: inc/boards/form-settings.php:59
+#@ anonymous-post
+msgid "Excerpt Required Message"
+msgstr "Material çıxarışının tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:68
+#: inc/boards/form-settings.php:263
+#: inc/cores/front-form.php:8
+#@ anonymous-post
+msgid "Post Image"
+msgstr "Material şəkli"
+
+#: inc/boards/form-settings.php:72
+#@ anonymous-post
+msgid "Show in form"
+msgstr "Formun içində göstər"
+
+#: inc/boards/form-settings.php:78
+#@ anonymous-post
+msgid "Post Image Required Message"
+msgstr "Material şəklinin tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:87
+#: inc/boards/form-settings.php:288
+#: inc/cores/front-form.php:136
+#@ anonymous-post
+msgid "Author Name"
+msgstr "Müəllifin adı"
+
+#: inc/boards/form-settings.php:97
+#@ anonymous-post
+msgid "Author Name Required Message"
+msgstr "Müəllifin adının tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:106
+#: inc/boards/form-settings.php:297
+#: inc/cores/front-form.php:148
+#@ anonymous-post
+msgid "Author URL"
+msgstr "Müəllifin URL adresi"
+
+#: inc/boards/form-settings.php:116
+#@ anonymous-post
+msgid "Author URL Required Message"
+msgstr "Müəllifin  URL adresinin tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:125
+#: inc/boards/form-settings.php:306
+#: inc/cores/front-form.php:160
+#@ anonymous-post
+msgid "Author Email"
+msgstr "Müəllifin mail adresi"
+
+#: inc/boards/form-settings.php:135
+#@ anonymous-post
+msgid "Author Email Required Message"
+msgstr "Müəllifin mail adresinin tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:145
+#: inc/boards/form-settings.php:272
+#@ anonymous-post
+msgid "Post Category"
+msgstr "Material kateqoriyası"
+
+#: inc/boards/form-settings.php:155
+#@ anonymous-post
+msgid "Post Category Required Message"
+msgstr "Material kateqoriyası tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:162
+#: inc/boards/form-settings.php:279
+#@ anonymous-post
+msgid "Post Tags"
+msgstr "Material teqləri"
+
+#: inc/boards/form-settings.php:172
+#@ anonymous-post
+msgid "Post Tags Required Message"
+msgstr "Material teqlərinin tələb olunma mesajı"
+
+#: inc/boards/form-settings.php:179
+#@ anonymous-post
+msgid "Post Title and Post Content are mandatory."
+msgstr "Material başlığı və material mahiyyəti mütləq olmalıdır."
+
+#: inc/boards/form-settings.php:187
+#@ anonymous-post
+msgid "Post Categories"
+msgstr "Material kateqoriyaları"
+
+#: inc/boards/form-settings.php:206
+#@ anonymous-post
+msgid "Choose any  only if you don't include to show the category selecting options in the form"
+msgstr "Materialın hansı kateqoriyada olacağını seçin"
+
+#: inc/boards/form-settings.php:210
+#@ anonymous-post
+msgid "Post Content Editor Type:"
+msgstr "Post kontent redaktoru tipi:"
+
+#: inc/boards/form-settings.php:221
+#@ anonymous-post
+msgid "Editor Size"
+msgstr "Redaktor ölçüsü"
+
+#: inc/boards/form-settings.php:224
+#@ anonymous-post
+msgid "Please enter the size of editor in number of rows.Default number of rows is 10"
+msgstr "Redaktorun sətir sayını daxil edin. Standart sətir sayı 10-dur."
+
+#: inc/boards/form-settings.php:232
+#@ anonymous-post
+msgid "Form Labels"
+msgstr "Form etiketləri"
+
+#: inc/boards/form-settings.php:315
+#@ anonymous-post
+msgid "Submit Button"
+msgstr "Göndərmə düyməsi"
+
+#: inc/boards/form-settings.php:322
+#@ anonymous-post
+msgid "These field will only show up in frontend if you have checked these fields in Form Field Configurations secton above."
+msgstr "Bu hissədə ancaq yuxarıdakı Form sahələrinin konfiqurasiyasında formda görünməsini qeyd etdiyiniz sahələr görünür."
+
+#: inc/boards/general-settings.php:2
+#: inc/settings.php:41
+#@ anonymous-post
+msgid "General Settings"
+msgstr "Əsas tənzimləmələr:"
+
+#: inc/boards/general-settings.php:5
+#@ anonymous-post
+msgid "Form Title"
+msgstr "Form başlığı"
+
+#: inc/boards/general-settings.php:11
+#@ anonymous-post
+msgid "Post Publish Status:"
+msgstr "Materialın yayınlanma statusu:"
+
+#: inc/boards/general-settings.php:14
+#@ anonymous-post
+msgid "Publish"
+msgstr "Yayınla"
+
+#: inc/boards/general-settings.php:15
+#@ anonymous-post
+msgid "Pending"
+msgstr "Təsdiq gözləyən"
+
+#: inc/boards/general-settings.php:16
+#@ anonymous-post
+msgid "Draft"
+msgstr "Qaralama"
+
+#: inc/boards/general-settings.php:21
+#@ anonymous-post
+msgid "Admin Notification:"
+msgstr "Admin bildirişi:"
+
+#: inc/boards/general-settings.php:25
+#@ anonymous-post
+msgid "Check if you want admin to recieve notification email after submitting of a new post."
+msgstr "Yeni material əlavə olunduqdan sonra adminin xəbərdaredici mail alması üçün işarə edin."
+
+#: inc/boards/general-settings.php:30
+#@ anonymous-post
+msgid "Allow Media Uploads:"
+msgstr "Media yükləmələrinə icazə:"
+
+#: inc/boards/general-settings.php:34
+#@ anonymous-post
+msgid "Check if you want logged in users to upload allowed media files"
+msgstr "Saytda qeydi olan istifadəçilərin icazə verilmiş media fayllarını yükləməsi üçün işarə edin"
+
+#: inc/boards/general-settings.php:39
+#@ anonymous-post
+msgid "Check Login"
+msgstr "Giriş yoxlaması"
+
+#: inc/boards/general-settings.php:43
+#@ anonymous-post
+msgid "Check if you want admin login to submit a new post."
+msgstr "Yeni materialı admin olaraq yerləşdirmək üçün işarə edin."
+
+#: inc/boards/general-settings.php:48
+#@ anonymous-post
+msgid "Login Message"
+msgstr "Daxil olma mesajı"
+
+#: inc/boards/general-settings.php:51
+#@ anonymous-post
+msgid "Message to be displayed if the user is not logged in and you have checked admin login option to submit the post."
+msgstr "Əgər istifadəçi hesabına daxil olmayıbsa və siz admin olaraq daxil olanda material yükləməni seçmisinizsə bu mesaj çıxacaq."
+
+#: inc/boards/general-settings.php:55
+#@ anonymous-post
+msgid "Login Link Text"
+msgstr "Daxil olma linkinin mətni"
+
+#: inc/boards/general-settings.php:58
+#@ anonymous-post
+msgid "Text to be shown in login link  if the user is not logged in and you have checked admin login option to submit the post."
+msgstr "Əgər istifadəçi hesabına daxil olmayıbsa və siz admin olaraq daxil olanda material yükləməni seçmisinizsə bu yazı daxil olma linkində görünür."
+
+#: inc/boards/general-settings.php:62
+#@ anonymous-post
+msgid "Assign Author"
+msgstr "Müəllif"
+
+#: inc/boards/general-settings.php:79
+#@ anonymous-post
+msgid "Plugin Styles:"
+msgstr "Plugin stilləri:"
+
+#: inc/boards/general-settings.php:83
+#@ anonymous-post
+msgid "Check if you want to use the plugin's basic styles in frontend form"
+msgstr "Saytda forma standart stil vermək üçün işarələyin"
+
+#: inc/boards/general-settings.php:88
+#@ anonymous-post
+msgid "Redirect URL"
+msgstr "Yönləndirmə URLi"
+
+#: inc/boards/general-settings.php:91
+#@ anonymous-post
+msgid "URL to be redirected after successful post submission. If kept blank, it will be redirected to same page."
+msgstr "Material müvəffəqiyyətlə göndərildikdən sonra səhifə URL adresinə yönəlir. URL qeyd olunmayıbsa cari səhifəyə qayıdır."
+
+#: inc/boards/general-settings.php:96
+#@ anonymous-post
+msgid "Post Submission Message"
+msgstr "Materialın göndərilmə mesajı"
+
+#: inc/boards/general-settings.php:99
+#@ anonymous-post
+msgid "Message displayed after successful post submission."
+msgstr "Material müvəffəqiyyətlə göndərildikdən sonra mesaj göstərilir."
+
+#: inc/boards/upgrade.php:2
+#: inc/settings.php:45
+#@ anonymous-post
+msgid "Upgrade"
+msgstr "Yüksəltmək"
+
+#: inc/cores/front-form.php:5
+#@ anonymous-post
+msgid "Anonymous Post"
+msgstr "Anonim material"
+
+#: inc/cores/front-form.php:9
+#: inc/cores/front-form.php:190
+#@ anonymous-post
+msgid "Submit Post"
+msgstr "Materialı göndər."
+
+#: inc/cores/front-form.php:119
+#@ anonymous-post
+msgid "Tags (Use comma to add multiple tags)"
+msgstr "Teqlər(bir neçə teq daxil etmək üçün aralarında | işarəsi qoyun)"
+
+#: inc/cores/front-form.php:177
+#@ anonymous-post
+msgid "Human Check"
+msgstr "Robota qarşı yoxlama"
+
+#: inc/cores/front-form.php:181
+#@ anonymous-post
+msgid "Enter Sum"
+msgstr "Cəmi daxil et."
+
+#: inc/cores/save-post.php:20
+#@ anonymous-post
+msgid "The entered sum is not correct"
+msgstr "Daxil olunan cəm doğru deyil."
+
+#: inc/cores/save-post.php:50
+#@ anonymous-post
+msgid "Invalid File Type"
+msgstr "Faylın tipi yalnışdır."
+
+#: inc/cores/save-post.php:178
+#@ anonymous-post
+msgid "Hi there, Thank you for submitting a post."
+msgstr "Salam, Material daxil etdiyiniz üçün çox sağolun."
+
+#: inc/cores/shortcode.php:30
+#@ anonymous-post
+msgid "Login"
+msgstr "Daxil ol"
+
+#: inc/settings.php:19
+#@ anonymous-post
+msgid "Follow us for new updates"
+msgstr "Yeniliklərlə əlaqədar bizi izləyin"
+
+#: inc/settings.php:30
+#@ anonymous-post
+msgid "AccessPress Anonymous Post Settings"
+msgstr "AccessPress Anonymous Post Nizamlamaları"
+
+#: inc/settings.php:42
+#@ anonymous-post
+msgid "Form Settings"
+msgstr "Form nizamlamaları"
+
+#: inc/settings.php:44
+#@ anonymous-post
+msgid "How to use"
+msgstr "İstifadə qaydası"
+
+#: inc/settings.php:46
+#@ anonymous-post
+msgid "About"
+msgstr "Haqqında"
+
+#: inc/settings.php:106
+#@ anonymous-post
+msgid "Are you sure you want to restore default settings?"
+msgstr "Standart tənzimləmələri bərpa etmək istəyirsiniz?"
+
+#. translators: plugin header field 'Description'
+#: accesspress-anonymous-post.php:0
+#@ anonymous-post
+msgid "A plugin that provides the ability to publish post from frontend with or without login anonymously using a simple html5 form from anywhere of the site with the help of shortcode and various backend settings."
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: accesspress-anonymous-post.php:0
+#@ anonymous-post
+msgid "2.2.1"
+msgstr ""
+

@@ -1,0 +1,60 @@
+# Translation of Themes - vice in Chinese (China)
+# This file is distributed under the same license as the Themes - vice package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-23 19:04:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - vice\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme ideal for creating sites for corporate, creative businesses, small businesses, startups, portfolios, restaurants, online agencies, firms, freelancers, real estate agencies, travel, photography, recipes, design, art, law and architect firms. Vice is a child theme of the Appointment theme, and has several sections such as slider, services, widget area, etc. Vice offers a beautifully designed masonry blog layout. For more details, visit this link https://wordpress.org/themes/appointment/. We hope you will find the Vice theme useful."
+msgstr "一个为企业，创意企业，小企业，创业公司，投资组合，餐馆，在线机构，公司，自由职业者，房地产代理，旅游，摄影，食谱，设计，艺术，法律和建筑事务所创建站点的理想商业主题。 Vice是Appointment的子主题，有幻灯，服务，小工具区等几个部分，Vice主题提供了精美的砌体结构的博客布局。 有关更多详细信息，请访问此链接https://cn.wordpress.org/themes/appointment/。 我们希望Vice主题对您有大的用处。"
+
+#. Theme Name of the plugin/theme
+msgid "vice"
+msgstr "Vice"
+
+#: home.php:28
+msgid "In"
+msgstr "在"
+
+#: home.php:23
+msgid "Posted"
+msgstr "发表于"
+
+#: home.php:22
+msgid "By"
+msgstr "作者"
+
+#: functions/custom_control/class-dummy-import-control.php:13
+msgid "Getting started"
+msgstr "开始设置"
+
+#: functions/custom_control/class-dummy-import-control.php:12
+msgid "Welcome! Thank you for choosing the Vice theme. Use our homepage to make the most out of it. For instructions, follow the button."
+msgstr "欢迎！ 感谢您选择Vice主题。为了充分利用这主题，请使用我们专门设计的主页。请按以下按钮进一步有关说明。"
+
+#: functions/custom_control/class-dummy-import-control.php:9
+msgid "Activate Homepage"
+msgstr "启用主页"
+
+#: home.php:32
+msgid "Read More"
+msgstr "阅读更多"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/vice-wordpress-page/"
+msgstr "https://webriti.com/vice-wordpress-page/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"

@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contest Gallery\n"
+"POT-Creation-Date: 2017-12-29 02:57+0100\n"
+"PO-Revision-Date: 2017-12-29 02:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: frontend/check-language.php:3
+msgid "Sort by"
+msgstr "Сортировать"
+
+#: frontend/check-language.php:4
+msgid "Comments"
+msgstr "Комментарии"
+
+#: frontend/check-language.php:5
+msgid "Vote first"
+msgstr "Твой голос"
+
+#: frontend/check-language.php:6
+msgid "Thumb view"
+msgstr "Вертикальный вид"
+
+#: frontend/check-language.php:7
+msgid "Height view"
+msgstr "Мозаика"
+
+#: frontend/check-language.php:8
+msgid "Row view"
+msgstr "Горизонтальный вид"
+
+#: frontend/check-language.php:9
+msgid "Random"
+msgstr "Случайный"
+
+#: frontend/check-language.php:10
+msgid "Date descend"
+msgstr "По дате, сначала последние"
+
+#: frontend/check-language.php:11
+msgid "Date ascend"
+msgstr "По дате, сначала первые"
+
+#: frontend/check-language.php:12
+msgid "Comments descend"
+msgstr "По комментариям, сначала последние"
+
+#: frontend/check-language.php:13
+msgid "Comments ascend"
+msgstr "По комментариям, сначала первые"
+
+#: frontend/check-language.php:14
+msgid "Rating descend"
+msgstr "По рейтингу, сначала больший"
+
+#: frontend/check-language.php:15
+msgid "Rating ascend"
+msgstr "По рейтингу, сначала меньший"
+
+#: frontend/check-language.php:16
+msgid "Full size"
+msgstr "Оригинальный размер"
+
+#: frontend/check-language.php:17
+msgid "Picture comments"
+msgstr "Комментарии к фотографии"
+
+#: frontend/check-language.php:18
+msgid "Your comment"
+msgstr "Твой комментарий"
+
+#: frontend/check-language.php:19
+msgid "Name"
+msgstr "Имя"
+
+#: frontend/check-language.php:20
+msgid "Comment"
+msgstr "Комментарий"
+
+#: frontend/check-language.php:21
+msgid "I am not a robot"
+msgstr "Я не бот"
+
+#: frontend/check-language.php:22
+msgid "Send"
+msgstr "Отправить"
+
+#: frontend/check-language.php:23
+msgid "The name field must contain two characters or more"
+msgstr "Имя должно быть больше, чем две буквы"
+
+#: frontend/check-language.php:24
+msgid "The comment field must contain three characters or more"
+msgstr "Комментарий должен быть больше, чем три буквы"
+
+#: frontend/check-language.php:25
+msgid "Plz check the checkbox to prove that you are not a robot"
+msgstr "Пожалуйста, проверьте отметку - чтобы показать, что Вы не робот"
+
+#: frontend/check-language.php:26
+msgid "Thank you for your comment"
+msgstr "Спасибо за ваш комментарий"
+
+#: frontend/check-language.php:27
+msgid "You have already voted for this picture"
+msgstr "Вы уже оценили этo фото"
+
+#: frontend/check-language.php:28
+msgid "You have already used all your votes"
+msgstr "Вы уже использовали все свои голоса"
+
+#: frontend/check-language.php:29
+msgid "Only registered users are able to vote"
+msgstr "Только зарегистрированные пользователи могут голосовать"
+
+#: frontend/check-language.php:30
+msgid "Back to gallery"
+msgstr "Вернуться к галерее"
+
+#: frontend/check-language.php:31
+msgid "This file type is not allowed"
+msgstr "Этот тип файла не допускается"
+
+#: frontend/check-language.php:32
+msgid "The selected file is too large, max allowed size"
+msgstr "Файл, который вы выбрали слишком большой. Макс допустимый размер"
+
+#: frontend/check-language.php:33
+msgid "The resolution of this image is"
+msgstr "Разрешение этого фото"
+
+#: frontend/check-language.php:35
+msgid "Maximum number of images for one upload is"
+msgstr "Максимальное количество фотографий для загрузки является"
+
+#: frontend/check-language.php:36
+msgid "Minimum number of images for one upload is"
+msgstr "Минимальное количество фотографий для загрузки является"
+
+#: frontend/check-language.php:38
+msgid "Maximum allowed resolution for JPG is"
+msgstr "Максимально допустимое разрешение для формата JPEG является"
+
+#: frontend/check-language.php:39
+msgid "Maximum allowed width for JPG is"
+msgstr "Максимально допустимое разрешение для ширини JPEG является"
+
+#: frontend/check-language.php:40
+msgid "Maximum allowed height for JPG is"
+msgstr "Максимально допустимое разрешение для высоти JPEG является"
+
+#: frontend/check-language.php:42
+msgid "Maximum allowed resolution for PNG is"
+msgstr "Максимально допустимое разрешение для PNG является"
+
+#: frontend/check-language.php:43
+msgid "Maximum allowed width for PNG is"
+msgstr "Максимально допустимое разрешение для ширини PNG является"
+
+#: frontend/check-language.php:44
+msgid "Maximum allowed height for PNG is"
+msgstr "Максимально допустимое разрешение для высоти PNG является"
+
+#: frontend/check-language.php:46
+msgid "Maximum allowed resolution for GIF is"
+msgstr "Максимально допустимое разрешение для GIF является"
+
+#: frontend/check-language.php:47
+msgid "Maximum allowed width for GIF is"
+msgstr "Максимально допустимое разрешение для ширини GIF является"
+
+#: frontend/check-language.php:48
+msgid "Maximum allowed height for GIF is"
+msgstr "Максимально допустимое разрешение для высоти GIF является"
+
+#: frontend/check-language.php:50
+msgid "You have to check this agreement"
+msgstr "Вы должны принять это соглашение"
+
+#: frontend/check-language.php:51
+msgid "This email is not valid"
+msgstr "Адрес электронной почты должен быть действительным"
+
+#: frontend/check-language.php:52
+msgid "Min amount of characters"
+msgstr "Минимальное количество символов"
+
+#: frontend/check-language.php:53
+msgid "Max amount of characters"
+msgstr "Максимально количество символов"
+
+#: frontend/check-language.php:54
+msgid "Select your image"
+msgstr "Не выбраны изображения"
+
+#: frontend/check-language.php:55
+msgid "The photo contest is over"
+msgstr "Фотоконкурс закончился"
+
+#: frontend/check-language.php:56
+msgid "Hold left mouse to see user info"
+msgstr "Держать левую кнопку мыши чтобы увидеть информации от пользователя"
+
+#: frontend/check-language.php:58
+msgid "This email address is already registered"
+msgstr "Этот адрес электронной почты уже зарегистрированn"
+
+#: frontend/check-language.php:59
+msgid "This username is already taken"
+msgstr "Это имя пользователя уже занято"
+
+#: frontend/check-language.php:61
+msgid "Username or e-mail"
+msgstr "Имя пользователя или эл. адрес"
+
+#: frontend/check-language.php:62
+msgid "Username or e-mail required"
+msgstr "Имя пользователя или эл. адрес необходимо"
+
+#: frontend/check-language.php:64
+msgid "Username or e-mail does not exist"
+msgstr "Имя пользователя или эл. адрес не существует"
+
+#: frontend/check-language.php:66
+msgid "Password"
+msgstr "Пароль"
+
+#: frontend/check-language.php:67
+msgid "Password required"
+msgstr "Пароль необходим"
+
+#: frontend/check-language.php:69
+msgid "Password is wrong"
+msgstr "Пароль неправильн"
+
+#: frontend/check-language.php:71
+msgid "You are already logged in"
+msgstr "Вы уже зарегистрированы"
+
+#: frontend/check-language.php:73
+msgid "Please fill out"
+msgstr "Пожалуйста заполните"
+
+#: frontend/check-language.php:75
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+#: frontend/check-language.php:77
+msgid "Upload"
+msgstr "Загрузить"
+
+#: frontend/check-language.php:78
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: frontend/check-language.php:79
+msgid "Login"
+msgstr "Авторизоваться"
+
+#: frontend/check-language.php:81
+msgid "Please select"
+msgstr "Пожалуйста выберите"
+
+#: frontend/check-language.php:82
+msgid "You have not selected"
+msgstr "Вы не выбрали"
+
+#: frontend/check-language.php:84
+msgid "Please confirm"
+msgstr "Пожалуйста, подтвердите"
+
+#: frontend/check-language.php:85
+msgid "Image is not activated"
+msgstr "Изображение не активировано"
+
+#: index.php:517
+msgid "Contest Gallery User"
+msgstr ""
+
+#: index.php:1917
+msgid "Account"
+msgstr ""
+
+#: index.php:1918
+msgid "Logout?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "Contest Gallery"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create a professional photo contest."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.contest-gallery.com/"
+msgstr ""

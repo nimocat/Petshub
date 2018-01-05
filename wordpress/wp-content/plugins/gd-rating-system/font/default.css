@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "gdrts-icons";
+  src:url("fonts/gdrts-icons.eot?v=1.3.0");
+  src:url("fonts/gdrts-icons.eot?#iefix&v=1.3.0") format("embedded-opentype"),
+    url("fonts/gdrts-icons.woff?v=1.3.0") format("woff"),
+    url("fonts/gdrts-icons.ttf?v=1.3.0") format("truetype"),
+    url("fonts/gdrts-icons.svg?v=1.3.0#gdrts-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="rtsicon-"],
+[class*=" rtsicon-"] {
+    display: inline-block;
+    font: normal normal normal 14px/1 "gdrts-icons";
+    font-size: inherit;
+    text-rendering: auto;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.rtsicon-star:before {
+  content: "\73";
+}
+.rtsicon-asterisk:before {
+  content: "\61";
+}
+.rtsicon-heart:before {
+  content: "\68";
+}
+.rtsicon-bell:before {
+  content: "\62";
+}
+.rtsicon-square:before {
+  content: "\71";
+}
+.rtsicon-circle:before {
+  content: "\63";
+}
+.rtsicon-gear:before {
+  content: "\67";
+}
+.rtsicon-trophy:before {
+  content: "\74";
+}
+.rtsicon-snowflake:before {
+  content: "\66";
+}
+.rtsicon-like:before {
+  content: "\6c";
+}
+.rtsicon-dislike:before {
+  content: "\64";
+}
+.rtsicon-like2:before {
+  content: "\6b";
+}
+.rtsicon-dislike2:before {
+  content: "\69";
+}
+.rtsicon-smile:before {
+  content: "\6d";
+}
+.rtsicon-frown:before {
+  content: "\72";
+}
+.rtsicon-plus:before {
+  content: "\2b";
+}
+.rtsicon-minus:before {
+  content: "\2d";
+}
+.rtsicon-spinner:before {
+  content: "\78";
+}
+.rtsicon-clear:before {
+  content: "\65";
+}
+.rtsicon-check:before {
+  content: "\6a";
+}
+
+.rtsicon-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+
+.rtsicon-va {
+    vertical-align: calc(-12%);
+}
+
+.rtsicon-spin {
+  -webkit-animation: rtsicon-spin 2s infinite linear;
+  animation: rtsicon-spin 2s infinite linear;
+}
+
+@keyframes rtsicon-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+
+/* Stars Rating */
+.gdrts-with-fonticon.gdrts-fonticon-font .gdrts-stars-empty {
+    font-family: "gdrts-icons";
+}
+
+.gdrts-badge-font.gdrts-fonticon-font .gdrts-badge-icon {
+    font-family: "gdrts-icons";
+}
+
+/* Thumbs Rating */
+.gdrts-thumbs-rating.gdrts-with-fonticon.gdrts-fonticon-font .gdrts-thumb-link .gdrts-thumb-symbol {
+    font-family: "gdrts-icons";
+}
+
+/* Like This */
+.gdrts-like-this.gdrts-with-fonticon.gdrts-fonticon-font .gdrts-like-link .gdrts-like-this-symbol {
+    font-family: "gdrts-icons";
+}

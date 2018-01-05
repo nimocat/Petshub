@@ -1,0 +1,544 @@
+#cg_slider_main_div{
+	height: 0px;
+	width: 0px;
+	display: none;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	width:80%;
+	height:100%;
+/*	-ms-touch-action: none;
+	touch-action: none;*/
+
+}
+
+#cg_slider_main_div #imgContainer{
+	font-family: arial;
+}
+
+#cg_slider_main_div #imgContainer .cg_img_box{
+	overflow: visible;
+	visibility: hidden;
+}
+
+
+#cg_slider_main_div #imgContainer .cg_slider_image_div{
+	clear: both;
+	background-color: black;
+}
+
+#cg_slider_main_div #imgContainer .cg_slider_image_div > img{
+	display: block;
+	margin: 0 auto;
+}
+
+
+#cg_slider_main_div .cg_user_input_container{
+	width: 100%;
+	margin-top:35px;
+	background-color: black;
+	opacity:0.8;
+	color: white;
+	position: absolute;
+}
+
+
+#cg_slider_main_div .cg_user_input{
+	top:0px;
+	word-break: break-all;
+	max-height: 35%;
+	overflow: hidden;
+	padding-top: 5px;
+	position: relative;
+	float: left;
+	cursor: pointer;
+	width: 100%;
+}
+
+#cg_slider_main_div #imgContainer .cg_slider_info_div .cg_user_input_fade_in_arrow_container{
+	width: 100%;
+	clear: both;
+	display: none;
+	cursor: pointer;
+}
+
+#cg_slider_main_div .cg_user_input_fade_in_arrow_container .cg_user_input_fade_in_arrow_div{
+	width: 36px;
+	margin: 0 auto;
+	padding: 5px;
+	cursor: pointer;
+	margin-bottom: 5px;
+}
+
+
+
+#cg_slider_main_div .cg_user_input .cg_user_input_fade_out_arrow_div{
+	width: 36px;
+	margin: 0 auto;
+	padding: 5px;
+	cursor: pointer;
+	margin-bottom: 5px;
+}
+
+
+
+#cg_slider_main_div .cg_user_input h4{
+	color:#fff;
+	font-size:18px;
+	padding: 0;
+	font-weight: bold;
+	margin: 0 30px 0 30px;
+}
+
+#cg_slider_main_div .cg_user_input p{
+	color:#fff;
+	font-size:16px;
+	padding: 0 0 15px 0;
+	margin: 0 30px 0 30px;
+}
+
+#cg_slider_main_div .cg_user_input p:last-child {
+	padding-bottom: 15px;
+}
+
+#cg_slider_main_div .cg_slider_rating_div{
+	display: inline;
+	-webkit-overflow-scrolling: touch;
+	color: #ffffff;
+	line-height: 100%;
+	height: 24px;
+	position: relative;
+	margin-left: 20px;
+	margin-top: 1px;
+
+}
+
+
+#cg_slider_main_div .cg_slider_rating_div .cg_slider_rating_div_star{
+	display:inline;
+	margin-right: 5px;
+}
+
+
+#cg_slider_main_div .cg_slider_rating_div img{
+	margin: 0px;
+	padding: 0px;
+	width: 21px;
+	height: 21px;
+	cursor: pointer;
+}
+
+#cg_slider_main_div .cg_slider_rating_div .cg_slider_rating_div_count{
+	font-weight: bold;
+	display:inline;
+	font-size:23px;
+	line-height: 23px;
+	height: 23px;
+	color:#fff;
+	margin-top: 1px;
+}
+
+#cg_slider_main_div #cg_slider_comment, #cg_slider_main_div #cg_slider_comment_name{
+	overflow:hidden;
+	padding: 0;
+	margin: 0;
+}
+
+#cg_slider_main_div .cg_slider_comments_div{
+	display: inline;
+	-webkit-overflow-scrolling: touch;
+	color: #ffffff;
+	cursor: default;
+	line-height: 100%;
+	height: 24px;
+	position: relative;
+	margin-top: 2px;
+}
+
+#cg_slider_main_div .cg_slider_comments_div .cg_slider_comments_div_icon{
+	display:inline;
+	margin-right: 5px;
+	pointer: cursor;
+}
+
+#cg_slider_main_div .cg_slider_comments_div .cg_slider_comments_div_icon img{
+	margin: 0px;
+	padding: 0px;
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+}
+
+#cg_slider_main_div .cg_slider_comments_div .cg_slider_comments_div_count{
+	font-weight: bold;
+	display:inline;
+	font-size:23px;
+	line-height: 23px;
+	height: 23px;
+	color:#fff;
+}
+
+#cg_slider_main_div .cg_hide_info_div_yes, #cg_slider_main_div .cg_hide_info_div_no{
+	display: none;
+	margin: 0;
+	position:relative;
+	padding-top:3px;
+	padding-bottom:3px;
+	font-size:18px;
+	clear: both;
+	cursor: pointer;
+}
+
+#cg_slider_main_div #imgContainer .cg_slider_facebook_div{
+	display: block;
+	-webkit-overflow-scrolling: touch;
+	height: 30px;
+	margin-top: 7px;
+	position: relative;
+	width: 200px;
+	overflow: hidden;
+	margin-left: 8px;
+}
+
+/*
+#cg_slider_main_div #imgContainer .cg_slider_facebook_div_next_line{
+	width:100%;
+	margin-bottom:10px;
+	margin-left:20px;
+	margin-top:70px;
+}
+*/
+
+#cg_slider_main_div #imgContainer .cg_slider_facebook_div iframe{
+	border: none;
+}
+
+
+
+
+
+#cg-carrousel-slider{
+	top:0;
+	right:0;
+	width: 20%;
+	height: 100%;
+	position:fixed;
+	cursor: pointer;
+	z-index:9000013;
+	background-color:#000;
+/*	display: table;*/
+}
+
+#cg-carrousel-slider div{
+	margin: 0;
+	padding: 0;
+	line-height: 0;
+}
+
+#cg-carrousel-slider #cg-carrousel-slider-content{
+	top: 0px;
+	height: 100%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	cursor: auto;
+	/*	display: table-cell;
+        vertical-align: middle;*/
+}
+
+
+
+/* For internet explorer */
+#cg-carrousel-slider #cg-carrousel-slider-content{
+	scrollbar-base-color: #000;
+	scrollbar-face-color: #000;
+	scrollbar-3dlight-color: #fff;
+	scrollbar-highlight-color: #fff;
+	scrollbar-track-color: #fff;
+	scrollbar-arrow-color: black;
+	scrollbar-shadow-color: #000;
+	scrollbar-dark-shadow-color: #000;
+}
+
+#cg-carrousel-slider #cg-carrousel-slider-content .cg-carrousel-img img{
+	cursor: pointer;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	width: 100%;
+}
+
+/* For other browsers */
+#cg-carrousel-slider #cg-carrousel-slider-content::-webkit-scrollbar{
+	width: 10px;
+}
+
+#cg-carrousel-slider #cg-carrousel-slider-content.hide_scrollbar::-webkit-scrollbar{
+	width: 0px;
+}
+
+#cg-carrousel-slider #cg-carrousel-slider-content::-webkit-scrollbar-track{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.4);
+}
+
+#cg-carrousel-slider #cg-carrousel-slider-content::-webkit-scrollbar-thumb{
+	background-color: white;
+	outline: 1px solid slategrey;
+}
+
+#cg-carrousel-slider #cg-carrousel-slider-top-button{
+	top:0;
+	margin: 0 auto;
+	height: 4%;
+	background-color:#000;
+	opacity: 0.8;
+	width: 50%;
+}
+
+#cg-carrousel-slider #cg-carrousel-slider-bottom-button{
+	bottom: 0;
+	margin: 0 auto;
+	height: 4%;
+	background-color:#000;
+	opacity: 0.9;
+	width: 50%;
+}
+
+
+#cg_slider_arrow_left{
+	display:none;
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:2%;
+	height:100%;
+	z-index:9000003 !important;
+	float:left;
+}
+
+#cg_slider_arrow_left img{
+	width:100%;
+	height:40px;
+	display:none;
+	position: absolute;
+	bottom:0;
+}
+
+
+#cg_slider_arrow_right{
+	bottom:0;
+	position:fixed;
+	display:none;
+	right:20%;
+	width:2%;
+	height:100%;
+	z-index:9000003 !important;
+	float:right;
+}
+
+#cg_slider_arrow_right img{
+	width:100%;
+	height:40px;
+	display:none;
+	position: absolute;
+	bottom:0;
+}
+
+#cg_slider_arrow_fade_out_slider_selection{
+	top:0;
+	position:fixed;
+	right:0%;
+	width:1%;
+	z-index:9000003 !important;
+	float:right;
+}
+
+#close_slider_button{
+	top: 0;
+	position: fixed;
+	display: none;
+	right: 20%;
+	z-index: 9000013;
+	cursor: pointer;
+	width: 25px;
+	height: 25px;
+	margin: 10px 50px 0 0;
+}
+
+#close_slider_button #close_slider_button_img{
+	display: inline;
+	display:none;
+}
+
+#cg_slider_full_size_view_icon_div{
+	top: 0;
+	position: fixed;
+	right: 20%;
+	z-index: 9000013;
+	cursor: pointer;
+	width: 25px;
+	height: 25px;
+	margin: 10px 5px 0 0;
+}
+
+#cg_slider_full_size_view_icon_div #cg_slider_full_size_view_icon_img{
+	display: inline;
+	display:none;
+	width: 25px;
+	height: 25px;
+}
+
+#cg_slider_exit_full_size_view_icon_div{
+	top: 0;
+	position: fixed;
+	right: 0%;
+	z-index: 9000013;
+	cursor: pointer;
+	width: 25px;
+	height: 25px;
+	margin: 10px 50px 0 0;
+	display: none;
+}
+
+#cg_slider_exit_full_size_view_icon_div #cg_slider_exit_full_size_view_icon_img{
+	display: inline;
+	display: none;
+	width: 25px;
+	height: 25px;
+}
+
+#cg_slider_download_full_size_icon_div{
+	top: 0;
+	position: fixed;
+	right: 20%;
+	z-index: 9000013;
+	cursor: pointer;
+	width: 25px;
+	height: 25px;
+	margin: 10px 90px 0 0;
+}
+
+#cg_slider_download_full_size_icon_div #cg_slider_download_full_size_icon_img{
+	display: inline;
+	display: none;
+	width: 25px;
+	height: 25px;
+}
+
+#close_slider_comments_button{
+	display:none;
+	height:25px;
+	width:25px;
+	margin-right:0px;
+	margin-top:25px;
+	float:right;
+	opacity: 0.9;
+	z-index:9000014 !important;/*Besonders hoher Wert muss hier sein, ansonsten könnte eine angeheftete Bar es verdecken*/
+	cursor: pointer;
+}
+
+#imgContainer .cg_img_box{
+	display:inline;
+	width:100%;
+	top:0;
+	overflow:hidden;
+	background-color:#000;
+	/*border-left:2px solid white !important;
+	border-right:2px solid white !important;*/
+	float:left;
+	z-index:9000002;
+}
+
+
+#imgContainer .cg_img_box .cg_slider_info_div{
+	width: 100%;
+	top: 0px;
+	background-color:#000;
+	padding: 10px 0 0 0;
+	position: relative;
+}
+
+#imgContainer .cg_img_box .cg_slider_info_div:after{
+	content: " ";
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+
+/*#imgContainer .cg_img_box .cg_slider_image{
+	visibility: hidden;
+}*/
+
+
+.cg_url_slider_div{
+	display:inline;
+	position:absolute;
+	z-index:9099000 !important;
+	float:left;
+	overflow:hidden;
+	bottom: 0;
+	color: #ffffff;
+	cursor: default;
+	padding: 4px;
+}
+
+#cg_comments_slider_div, #cgIdNotExists {
+	display:none;
+	position:fixed;
+	top:100px;
+	bottom:100px;
+	width:700px;
+	background-color:#313131;
+	z-index:9000023 !important;
+	opacity: 0.9;
+	overflow-x: hidden;
+}
+
+#cg_comments_slider_div, #cgIdNotExists #cgIdNotExistsMessage {
+	display: table;
+	margin: 0 auto;
+	margin-top: 40px;
+	font-weight: 400;
+	font-size: 18px;
+	color: white;
+}
+
+#cg_comments_slider_div input[type="checkbox"]{
+	height: 18px;
+	width: 16px;
+	margin: 0 5px 0 0;
+	padding: 0px;
+}
+
+#cg_overlay {
+	display:none;
+	position:static;/*WICHTIG!!!! Damit richtige Höhe auf mobile Geräten erkannt wird, trotz ausfahrender Tatstatur zum Beispiel */
+	overflow: visible;/*WICHTIG!!!! Damit richtige Höhe auf mobile Geräten erkannt wird, trotz ausfahrender Tatstatur zum Beispiel */
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+/*	background-color:#C1C1C1;*/
+	background-color:black;
+	opacity: 1;
+	z-index:9000000 !important;
+}
+
+#imgContainer {
+	left:0;
+	position:fixed;
+	opacity: 1;
+	background-color:#000;
+	/*padding:20px 20px 20px 20px;*/
+	/*padding-top:2% !important;*/
+	/*padding-bottom:2% !important;*/
+	top:0;
+	width:100%;
+	text-align:left;
+	overflow:hidden;
+	z-index:9000001 !important;
+	height:100%;
+	/*cursor: move;*/
+}

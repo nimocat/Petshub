@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contest Gallery\n"
+"POT-Creation-Date: 2017-12-29 02:59+0100\n"
+"PO-Revision-Date: 2017-12-29 02:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: frontend/check-language.php:3
+msgid "Sort by"
+msgstr "排列方式"
+
+#: frontend/check-language.php:4
+msgid "Comments"
+msgstr "評論"
+
+#: frontend/check-language.php:5
+msgid "Vote first"
+msgstr "先投票"
+
+#: frontend/check-language.php:6
+msgid "Thumb view"
+msgstr "縮略顯示"
+
+#: frontend/check-language.php:7
+msgid "Height view"
+msgstr "直行顯示"
+
+#: frontend/check-language.php:8
+msgid "Row view"
+msgstr "橫行顯示"
+
+#: frontend/check-language.php:9
+msgid "Random"
+msgstr "隨意"
+
+#: frontend/check-language.php:10
+msgid "Date descend"
+msgstr "日期下行"
+
+#: frontend/check-language.php:11
+msgid "Date ascend"
+msgstr "日期上行"
+
+#: frontend/check-language.php:12
+msgid "Comments descend"
+msgstr "評論下行"
+
+#: frontend/check-language.php:13
+msgid "Comments ascend"
+msgstr "評論上行"
+
+#: frontend/check-language.php:14
+msgid "Rating descend"
+msgstr "評級下行"
+
+#: frontend/check-language.php:15
+msgid "Rating ascend"
+msgstr "評級上行"
+
+#: frontend/check-language.php:16
+msgid "Full size"
+msgstr "全碼"
+
+#: frontend/check-language.php:17
+msgid "Picture comments"
+msgstr "圖像評論"
+
+#: frontend/check-language.php:18
+msgid "Your comment"
+msgstr "你的評論"
+
+#: frontend/check-language.php:19
+msgid "Name"
+msgstr "名稱"
+
+#: frontend/check-language.php:20
+msgid "Comment"
+msgstr "評論"
+
+#: frontend/check-language.php:21
+msgid "I am not a robot"
+msgstr "我不是機械人"
+
+#: frontend/check-language.php:22
+msgid "Send"
+msgstr "發送"
+
+#: frontend/check-language.php:23
+msgid "The name field must contain two characters or more"
+msgstr "名稱字段必須包含兩個或以上字符"
+
+#: frontend/check-language.php:24
+msgid "The comment field must contain three characters or more"
+msgstr "評論字段必須包含三個或以上字符"
+
+#: frontend/check-language.php:25
+msgid "Plz check the checkbox to prove that you are not a robot"
+msgstr "請在選框上填寫、證明你不是機"
+
+#: frontend/check-language.php:26
+msgid "Thank you for your comment"
+msgstr "謝謝你的評論"
+
+#: frontend/check-language.php:27
+msgid "You have already voted for this picture"
+msgstr "這張照片你已經評級了"
+
+#: frontend/check-language.php:28
+msgid "You have already used all your votes"
+msgstr "已用盡你能投的票"
+
+#: frontend/check-language.php:29
+msgid "Only registered users are able to vote"
+msgstr "只有註冊用戶才能投票"
+
+#: frontend/check-language.php:30
+msgid "Back to gallery"
+msgstr "回到展廊"
+
+#: frontend/check-language.php:31
+msgid "This file type is not allowed"
+msgstr "不能接受此文件類型"
+
+#: frontend/check-language.php:32
+msgid "The selected file is too large, max allowed size"
+msgstr "你選擇的文件過大、超越上限"
+
+#: frontend/check-language.php:33
+msgid "The resolution of this image is"
+msgstr "這個照片的解像度是"
+
+#: frontend/check-language.php:35
+msgid "Maximum number of images for one upload is"
+msgstr "一次上載照片最多的數量是"
+
+#: frontend/check-language.php:36
+msgid "Minimum number of images for one upload is"
+msgstr "一次上載照片最少的數量是"
+
+#: frontend/check-language.php:38
+msgid "Maximum allowed resolution for JPG is"
+msgstr "JPGs 最大容許解像度是"
+
+#: frontend/check-language.php:39
+msgid "Maximum allowed width for JPG is"
+msgstr "JPGs 可容許最寬是"
+
+#: frontend/check-language.php:40
+msgid "Maximum allowed height for JPG is"
+msgstr "JPGs 可容許最高是"
+
+#: frontend/check-language.php:42
+msgid "Maximum allowed resolution for PNG is"
+msgstr "PNGs 最大容許解像度是"
+
+#: frontend/check-language.php:43
+msgid "Maximum allowed width for PNG is"
+msgstr "PNGs 可容許最寬是"
+
+#: frontend/check-language.php:44
+msgid "Maximum allowed height for PNG is"
+msgstr "PNGs 可容許最高是"
+
+#: frontend/check-language.php:46
+msgid "Maximum allowed resolution for GIF is"
+msgstr "GIFs 最大容許解像度是"
+
+#: frontend/check-language.php:47
+msgid "Maximum allowed width for GIF is"
+msgstr "GIFs 可容許最寬是"
+
+#: frontend/check-language.php:48
+msgid "Maximum allowed height for GIF is"
+msgstr "GIFs 可容許最高是"
+
+#: frontend/check-language.php:50
+msgid "You have to check this agreement"
+msgstr "你須先查閱這同意書"
+
+#: frontend/check-language.php:51
+msgid "This email is not valid"
+msgstr "這電郵地址不合規格"
+
+#: frontend/check-language.php:52
+msgid "Min amount of characters"
+msgstr "最少字符數量"
+
+#: frontend/check-language.php:53
+msgid "Max amount of characters"
+msgstr "最多字符數量"
+
+#: frontend/check-language.php:54
+msgid "Select your image"
+msgstr "選擇你的圖像"
+
+#: frontend/check-language.php:55
+msgid "The photo contest is over"
+msgstr "照片比賽已結束"
+
+#: frontend/check-language.php:56
+msgid "Hold left mouse to see user info"
+msgstr "按住鼠標左鍵查看用戶信息"
+
+#: frontend/check-language.php:58
+msgid "This email address is already registered"
+msgstr "此電郵地址已被使用"
+
+#: frontend/check-language.php:59
+msgid "This username is already taken"
+msgstr "此用戶名已被使用"
+
+#: frontend/check-language.php:61
+msgid "Username or e-mail"
+msgstr "用戶名或電郵地址"
+
+#: frontend/check-language.php:62
+msgid "Username or e-mail required"
+msgstr "需要用戶名或電郵地址"
+
+#: frontend/check-language.php:64
+msgid "Username or e-mail does not exist"
+msgstr "用戶名或電郵地址不存在"
+
+#: frontend/check-language.php:66
+msgid "Password"
+msgstr "密碼"
+
+#: frontend/check-language.php:67
+msgid "Password required"
+msgstr "需要密碼"
+
+#: frontend/check-language.php:69
+msgid "Password is wrong"
+msgstr "錯誤的密碼"
+
+#: frontend/check-language.php:71
+msgid "You are already logged in"
+msgstr "您已經登入"
+
+#: frontend/check-language.php:73
+msgid "Please fill out"
+msgstr "請填寫"
+
+#: frontend/check-language.php:75
+msgid "Passwords do not match"
+msgstr "密碼不匹配"
+
+#: frontend/check-language.php:77
+msgid "Upload"
+msgstr "上傳"
+
+#: frontend/check-language.php:78
+msgid "Register"
+msgstr "註冊"
+
+#: frontend/check-language.php:79
+msgid "Login"
+msgstr "登錄"
+
+#: frontend/check-language.php:81
+msgid "Please select"
+msgstr "請選擇"
+
+#: frontend/check-language.php:82
+msgid "You have not selected"
+msgstr "你還沒有選擇"
+
+#: frontend/check-language.php:84
+msgid "Please confirm"
+msgstr "請確認"
+
+#: frontend/check-language.php:85
+msgid "Image is not activated"
+msgstr "圖像未被激活"
+
+#: index.php:517
+msgid "Contest Gallery User"
+msgstr ""
+
+#: index.php:1917
+msgid "Account"
+msgstr ""
+
+#: index.php:1918
+msgid "Logout?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "Contest Gallery"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create a professional photo contest."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.contest-gallery.com/"
+msgstr ""

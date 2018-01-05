@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Anonymous Post\n"
+"POT-Creation-Date: 2016-02-02 09:51+0100\n"
+"PO-Revision-Date: 2016-02-02 10:59+0100\n"
+"Language-Team: Access Keys <support@accesspressthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../accesspress-anonymous-post.php:104 ../inc/cores/front-form.php:11
+#: ../inc/cores/save-post.php:29 ../inc/cores/save-post.php:36
+#: ../inc/cores/save-post.php:37
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
+
+#: ../accesspress-anonymous-post.php:105
+msgid "Sum is not correct."
+msgstr "Som is niet correct"
+
+#: ../accesspress-anonymous-post.php:112
+msgid "AccessPress Anonymoust Post Settings"
+msgstr "AccessPress Anonymoust Post instellingen"
+
+#: ../accesspress-anonymous-post.php:112
+msgid "AccessPress Anonymous Post"
+msgstr "AccessPress Anonymous Post"
+
+#: ../accesspress-anonymous-post.php:140 ../inc/cores/front-form.php:5
+msgid "Anonymous Post"
+msgstr "Anonymous Post"
+
+#: ../accesspress-anonymous-post.php:144 ../accesspress-anonymous-post.php:378
+#: ../inc/cores/shortcode.php:22
+msgid "Please login to submit the post."
+msgstr "Login om het bericht te versturen"
+
+#: ../accesspress-anonymous-post.php:295
+msgid "Hello there,"
+msgstr "Hallo daar"
+
+#: ../accesspress-anonymous-post.php:296
+msgid "A new post has been submitted via AccessPress Anonymous Post plugin in "
+msgstr ""
+"Een nieuw bericht is verstuurd via de  AccessPress Anonymous Post plugin in"
+
+#: ../accesspress-anonymous-post.php:296
+msgid " Please find details below:"
+msgstr "Meer gedetailleerde informatie vindt u hieronder."
+
+#: ../accesspress-anonymous-post.php:317
+msgid "To take action (approve/reject)- please go here:"
+msgstr "Om actie te ondernemen (goedkeuren/afwijzen)- ga aub. hier naar toe."
+
+#: ../accesspress-anonymous-post.php:320
+msgid "Thank You"
+msgstr "Dank u"
+
+#: ../accesspress-anonymous-post.php:321
+msgid "New Post Submission - via AccessPress Anonymous Post"
+msgstr "Nieuw bericht aangemaakt - via AccessPress Anonymous Post"
+
+#: ../accesspress-anonymous-post.php:407
+msgid "Default Settings Restored Successfully."
+msgstr "Standaard instellingen zijn teruggezet"
+
+#: ../inc/settings.php:19
+msgid "Follow us for new updates"
+msgstr "Volg ons voor nieuwe updates"
+
+#: ../inc/settings.php:30
+msgid "AccessPress Anonymous Post Settings"
+msgstr "AccessPress Anonymous Post instellingen"
+
+#: ../inc/settings.php:41 ../inc/boards/general-settings.php:2
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: ../inc/settings.php:42
+msgid "Form Settings"
+msgstr "Formulier instellingen"
+
+#: ../inc/settings.php:43 ../inc/boards/captcha-settings.php:2
+msgid "Captcha Settings"
+msgstr "Captcha instellingen"
+
+#: ../inc/settings.php:44
+msgid "How to use"
+msgstr "Hoe dit te gebruiken"
+
+#: ../inc/settings.php:45 ../inc/boards/upgrade.php:2
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: ../inc/settings.php:46
+msgid "About"
+msgstr "Over"
+
+#: ../inc/settings.php:106
+msgid "Are you sure you want to restore default settings?"
+msgstr "Weet u zeker dat u de standaard instellingen wilt terugzetten"
+
+#: ../inc/boards/about.php:2
+msgid "About Us"
+msgstr "Over ons"
+
+#: ../inc/boards/captcha-settings.php:6
+msgid "Show Mathmatical Captcha"
+msgstr "Toon rekenkundige Captcha"
+
+#: ../inc/boards/captcha-settings.php:11
+msgid "Mathmatical Captcha Label"
+msgstr "Rekenkundig Captcha label"
+
+#: ../inc/boards/captcha-settings.php:17
+msgid "Mathmatical Captcha Error Message"
+msgstr "Rekenkundige Captcha foutmelding"
+
+#: ../inc/boards/form-settings.php:3
+msgid "Form field configurations"
+msgstr "Formulier veld configuratie"
+
+#: ../inc/boards/form-settings.php:10 ../inc/boards/form-settings.php:236
+#: ../inc/cores/front-form.php:6
+msgid "Post Title"
+msgstr "Bericht titel"
+
+#: ../inc/boards/form-settings.php:14 ../inc/boards/form-settings.php:34
+#: ../inc/boards/form-settings.php:53 ../inc/boards/form-settings.php:91
+#: ../inc/boards/form-settings.php:110 ../inc/boards/form-settings.php:129
+#: ../inc/boards/form-settings.php:149 ../inc/boards/form-settings.php:166
+msgid "Show on form"
+msgstr "Toon op formulier"
+
+#: ../inc/boards/form-settings.php:17 ../inc/boards/form-settings.php:37
+#: ../inc/boards/form-settings.php:56 ../inc/boards/form-settings.php:75
+#: ../inc/boards/form-settings.php:94 ../inc/boards/form-settings.php:113
+#: ../inc/boards/form-settings.php:132 ../inc/boards/form-settings.php:152
+#: ../inc/boards/form-settings.php:169
+msgid "Required"
+msgstr "Verplicht"
+
+#: ../inc/boards/form-settings.php:21
+msgid "Post Title Required Message"
+msgstr "Bericht titel verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:30 ../inc/boards/form-settings.php:245
+#: ../inc/cores/front-form.php:7
+msgid "Post Content"
+msgstr "Bericht inhoud"
+
+#: ../inc/boards/form-settings.php:40
+msgid "Post Content Required Message"
+msgstr "Bericht inhoud  verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:49 ../inc/boards/form-settings.php:254
+#: ../inc/cores/front-form.php:68
+msgid "Post Excerpt"
+msgstr "Bericht uitreksel"
+
+#: ../inc/boards/form-settings.php:59
+msgid "Excerpt Required Message"
+msgstr "Bericht uitreksel verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:68 ../inc/boards/form-settings.php:263
+#: ../inc/cores/front-form.php:8
+msgid "Post Image"
+msgstr "Bericht afbeelding"
+
+#: ../inc/boards/form-settings.php:72
+msgid "Show in form"
+msgstr "Toon in formulier"
+
+#: ../inc/boards/form-settings.php:78
+msgid "Post Image Required Message"
+msgstr "Bericht afbeelding verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:87 ../inc/boards/form-settings.php:288
+#: ../inc/cores/front-form.php:136
+msgid "Author Name"
+msgstr "Naam auteur"
+
+#: ../inc/boards/form-settings.php:97
+msgid "Author Name Required Message"
+msgstr "Naam auteur verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:106 ../inc/boards/form-settings.php:297
+#: ../inc/cores/front-form.php:148
+msgid "Author URL"
+msgstr "Auteur URL"
+
+#: ../inc/boards/form-settings.php:116
+msgid "Author URL Required Message"
+msgstr "Auteur URL verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:125 ../inc/boards/form-settings.php:306
+#: ../inc/cores/front-form.php:160
+msgid "Author Email"
+msgstr "Emailadres auteur"
+
+#: ../inc/boards/form-settings.php:135
+msgid "Author Email Required Message"
+msgstr "Email adres verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:145 ../inc/boards/form-settings.php:272
+msgid "Post Category"
+msgstr "Bericht categorie"
+
+#: ../inc/boards/form-settings.php:155
+msgid "Post Category Required Message"
+msgstr "Bericht categorie verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:162 ../inc/boards/form-settings.php:279
+msgid "Post Tags"
+msgstr "Bericht labels"
+
+#: ../inc/boards/form-settings.php:172
+msgid "Post Tags Required Message"
+msgstr "Bericht labels verplicht veld melding"
+
+#: ../inc/boards/form-settings.php:179
+msgid "Post Title and Post Content are mandatory."
+msgstr "Bericht titel en inhoud zijn verplicht"
+
+#: ../inc/boards/form-settings.php:187
+msgid "Post Categories"
+msgstr "Bericht categorieen"
+
+#: ../inc/boards/form-settings.php:206
+msgid ""
+"Choose any  only if you don't include to show the category selecting options "
+"in the form"
+msgstr ""
+"Kies elke  alleen als er niet voor kiest om alle categorieën te tonen in het "
+"formulier"
+
+#: ../inc/boards/form-settings.php:210
+msgid "Post Content Editor Type:"
+msgstr "Bericht inhoud editor type:"
+
+#: ../inc/boards/form-settings.php:221
+msgid "Editor Size"
+msgstr "Editor grootte"
+
+#: ../inc/boards/form-settings.php:224
+msgid ""
+"Please enter the size of editor in number of rows.Default number of rows is "
+"10"
+msgstr ""
+"Voer aub. de grootte van de editor in als aantal regels. Standaard is het "
+"aantal regels 10"
+
+#: ../inc/boards/form-settings.php:232
+msgid "Form Labels"
+msgstr "Formulier labels"
+
+#: ../inc/boards/form-settings.php:315
+msgid "Submit Button"
+msgstr "Verzend knop"
+
+#: ../inc/boards/form-settings.php:322
+msgid ""
+"These field will only show up in frontend if you have checked these fields "
+"in Form Field Configurations secton above."
+msgstr ""
+"Deze velden worden alleen getoond indien deze heeft aangevinkt in de "
+"formulier velden configuratie sectie hierboven"
+
+#: ../inc/boards/general-settings.php:5
+msgid "Form Title"
+msgstr "Formulier titel"
+
+#: ../inc/boards/general-settings.php:11
+msgid "Post Publish Status:"
+msgstr "Bericht publicatie status"
+
+#: ../inc/boards/general-settings.php:14
+msgid "Publish"
+msgstr "Publiceer"
+
+#: ../inc/boards/general-settings.php:15
+msgid "Pending"
+msgstr "In afwachting van"
+
+#: ../inc/boards/general-settings.php:16
+msgid "Draft"
+msgstr "Ontwerp"
+
+#: ../inc/boards/general-settings.php:21
+msgid "Admin Notification:"
+msgstr "Beheerders kennisgeving"
+
+#: ../inc/boards/general-settings.php:25
+msgid ""
+"Check if you want admin to recieve notification email after submitting of a "
+"new post."
+msgstr ""
+"Vink aan als u wilt dat beheerder een email krijgt na inzending van een "
+"nieuw bericht"
+
+#: ../inc/boards/general-settings.php:30
+msgid "Allow Media Uploads:"
+msgstr "Toestaan dat plaatjes worden ge-upload"
+
+#: ../inc/boards/general-settings.php:34
+msgid "Check if you want logged in users to upload allowed media files"
+msgstr ""
+"Vink aan als u wilt dat ingelogde gebruikers media bestanden mogen uploaden"
+
+#: ../inc/boards/general-settings.php:39
+msgid "Check Login"
+msgstr "Controleer login"
+
+#: ../inc/boards/general-settings.php:43
+msgid "Check if you want admin login to submit a new post."
+msgstr ""
+"Vink aan als u wilt dat een bericht verstuurd wordt als de beheerder inlogt"
+
+#: ../inc/boards/general-settings.php:48
+msgid "Login Message"
+msgstr "Inlog melding"
+
+#: ../inc/boards/general-settings.php:51
+msgid ""
+"Message to be displayed if the user is not logged in and you have checked "
+"admin login option to submit the post."
+msgstr ""
+"Melding die moet verschijnen als de gebruiker niet is ingelogd en u heeft "
+"een vinkje geplaatst bij \"Controleer login\""
+
+#: ../inc/boards/general-settings.php:55
+msgid "Login Link Text"
+msgstr "Inlog link tekst"
+
+#: ../inc/boards/general-settings.php:58
+msgid ""
+"Text to be shown in login link  if the user is not logged in and you have "
+"checked admin login option to submit the post."
+msgstr ""
+"Tekst die moet verschijnen als de gebruiker niet is ingelogd en u heeft een "
+"vinkje geplaatst bij \"Controleer login\""
+
+#: ../inc/boards/general-settings.php:62
+msgid "Assign Author"
+msgstr "Toegewezen auteur"
+
+#: ../inc/boards/general-settings.php:79
+msgid "Plugin Styles:"
+msgstr "Plugin stijlen"
+
+#: ../inc/boards/general-settings.php:83
+msgid "Check if you want to use the plugin's basic styles in frontend form"
+msgstr "Vink aan als u de standaard stijlen wilt gebruiken in het formulier"
+
+#: ../inc/boards/general-settings.php:88
+msgid "Redirect URL"
+msgstr "Doorsturen URL"
+
+#: ../inc/boards/general-settings.php:91
+msgid ""
+"URL to be redirected after successful post submission. If kept blank, it "
+"will be redirected to same page."
+msgstr ""
+"URL waarnaar de gebruiker doorgestuurd wordt als verzenden gelukt is. Als "
+"dit veld leeg is wordt naar dezelfde pagina teruggekeerd"
+
+#: ../inc/boards/general-settings.php:96
+msgid "Post Submission Message"
+msgstr "Melding na het versturen van het bericht "
+
+#: ../inc/boards/general-settings.php:99
+msgid "Message displayed after successful post submission."
+msgstr "Melding nadat het versturen van het bericht gelukt is"
+
+#: ../inc/cores/front-form.php:9 ../inc/cores/front-form.php:190
+msgid "Submit Post"
+msgstr "Verzenden bericht"
+
+#: ../inc/cores/front-form.php:86
+msgid "Please upload image file type only."
+msgstr "Upload aub alleen afbeelding bestanden"
+
+#: ../inc/cores/front-form.php:119
+msgid "Tags (Use comma to add multiple tags)"
+msgstr "Labels (Gebruik een komma als u meerdere labels wilt gebruiken)"
+
+#: ../inc/cores/front-form.php:177
+msgid "Human Check"
+msgstr "Controleer of u een mens bent"
+
+#: ../inc/cores/front-form.php:181
+msgid "Enter Sum"
+msgstr "Voer de som in"
+
+#: ../inc/cores/save-post.php:20
+msgid "The entered sum is not correct"
+msgstr "De ingevoerde som is niet juist"
+
+#: ../inc/cores/save-post.php:50
+msgid "Invalid File Type"
+msgstr "Ongeldig bestandstype"
+
+#: ../inc/cores/save-post.php:179
+msgid "Hi there, Thank you for submitting a post."
+msgstr "He daar. Bedankt voor het verzenden van een bericht"
+
+#: ../inc/cores/save-settings.php:163
+msgid "Settings Saved Successfully."
+msgstr "Instellingen zijn goed opgeslagen"
+
+#: ../inc/cores/shortcode.php:30
+msgid "Login"
+msgstr "Login"

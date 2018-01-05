@@ -1,0 +1,316 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contest Gallery\n"
+"POT-Creation-Date: 2017-12-29 02:56+0100\n"
+"PO-Revision-Date: 2017-12-29 02:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: frontend/check-language.php:3
+msgid "Sort by"
+msgstr "Sortieren"
+
+#: frontend/check-language.php:4
+msgid "Comments"
+msgstr "Commentaar"
+
+#: frontend/check-language.php:5
+msgid "Vote first"
+msgstr "Stemmen"
+
+#: frontend/check-language.php:6
+msgid "Thumb view"
+msgstr "Miniaturen"
+
+#: frontend/check-language.php:7
+msgid "Height view"
+msgstr "Alle foto's op dezelfde hoogte"
+
+#: frontend/check-language.php:8
+msgid "Row view"
+msgstr "Gelijk aantal beelden in een rij"
+
+#: frontend/check-language.php:9
+msgid "Random"
+msgstr "Zoevallig"
+
+#: frontend/check-language.php:10
+msgid "Date descend"
+msgstr "Datum aflopen"
+
+#: frontend/check-language.php:11
+msgid "Date ascend"
+msgstr "Datum oplopend"
+
+#: frontend/check-language.php:12
+msgid "Comments descend"
+msgstr "Reacties aflopend"
+
+#: frontend/check-language.php:13
+msgid "Comments ascend"
+msgstr "Reacties oplopend"
+
+#: frontend/check-language.php:14
+msgid "Rating descend"
+msgstr "Recensies aflopend"
+
+#: frontend/check-language.php:15
+msgid "Rating ascend"
+msgstr "Recensies oplopend"
+
+#: frontend/check-language.php:16
+msgid "Full size"
+msgstr "Ware Grootte"
+
+#: frontend/check-language.php:17
+msgid "Picture comments"
+msgstr "Commentaar op de foto"
+
+#: frontend/check-language.php:18
+msgid "Your comment"
+msgstr "Uw Commentaar"
+
+#: frontend/check-language.php:19
+msgid "Name"
+msgstr "Naam"
+
+#: frontend/check-language.php:20
+msgid "Comment"
+msgstr "Commentaar"
+
+#: frontend/check-language.php:21
+msgid "I am not a robot"
+msgstr "Ik ben geen robot"
+
+#: frontend/check-language.php:22
+msgid "Send"
+msgstr "Versturen"
+
+#: frontend/check-language.php:23
+msgid "The name field must contain two characters or more"
+msgstr "De naam moet langer zijn dan twee letters"
+
+#: frontend/check-language.php:24
+msgid "The comment field must contain three characters or more"
+msgstr "De reactie moet langer zijn dan drie letters"
+
+#: frontend/check-language.php:25
+msgid "Plz check the checkbox to prove that you are not a robot"
+msgstr "Zet een vinkje om aan te geven dat je geen robot ben"
+
+#: frontend/check-language.php:26
+msgid "Thank you for your comment"
+msgstr "Bedankt voor uw reactie"
+
+#: frontend/check-language.php:27
+msgid "You have already voted for this picture"
+msgstr "Deze foto heb je al beoordeeld"
+
+#: frontend/check-language.php:28
+msgid "You have already used all your votes"
+msgstr "Je hebt al gebruikt al uw stemmen"
+
+#: frontend/check-language.php:29
+msgid "Only registered users are able to vote"
+msgstr "Alleen geregistreerde gebruikers kunnen een cijfer"
+
+#: frontend/check-language.php:30
+msgid "Back to gallery"
+msgstr "Terug naar Galerie"
+
+#: frontend/check-language.php:31
+msgid "This file type is not allowed"
+msgstr "Dit bestandstype is niet toegestaan"
+
+#: frontend/check-language.php:32
+msgid "The selected file is too large, max allowed size"
+msgstr ""
+"Het bestand dat u hebt gekozen is te groot. Maximaal toegestane grootte"
+
+#: frontend/check-language.php:33
+msgid "The resolution of this image is"
+msgstr "De resolutie van de foto is"
+
+#: frontend/check-language.php:35
+msgid "Maximum number of images for one upload is"
+msgstr "Maximum aantal beelden voor een upload is"
+
+#: frontend/check-language.php:36
+msgid "Minimum number of images for one upload is"
+msgstr "Minimum aantal beelden voor een upload is"
+
+#: frontend/check-language.php:38
+msgid "Maximum allowed resolution for JPG is"
+msgstr "De maximale resolutie voor JPG is"
+
+#: frontend/check-language.php:39
+msgid "Maximum allowed width for JPG is"
+msgstr "De maximale resolutie de brede voor JPG is"
+
+#: frontend/check-language.php:40
+msgid "Maximum allowed height for JPG is"
+msgstr "De maximale resolutie de hoogte voor JPG is"
+
+#: frontend/check-language.php:42
+msgid "Maximum allowed resolution for PNG is"
+msgstr "De maximale resolutie voor PNG is"
+
+#: frontend/check-language.php:43
+msgid "Maximum allowed width for PNG is"
+msgstr "De maximale resolutie de brede voor PNG is"
+
+#: frontend/check-language.php:44
+msgid "Maximum allowed height for PNG is"
+msgstr "De maximale resolutie de hoogte voor PNG is"
+
+#: frontend/check-language.php:46
+msgid "Maximum allowed resolution for GIF is"
+msgstr "De maximale resolutie voor GIF is"
+
+#: frontend/check-language.php:47
+msgid "Maximum allowed width for GIF is"
+msgstr "De maximale resolutie de brede voor GIF is"
+
+#: frontend/check-language.php:48
+msgid "Maximum allowed height for GIF is"
+msgstr "De maximale resolutie de hoogte voor GIF is"
+
+#: frontend/check-language.php:50
+msgid "You have to check this agreement"
+msgstr "U moet akkoord gaan met de voorwaarden"
+
+#: frontend/check-language.php:51
+msgid "This email is not valid"
+msgstr "Het e-mailadres is ongeldig"
+
+#: frontend/check-language.php:52
+msgid "Min amount of characters"
+msgstr "Minimum aantal letters"
+
+#: frontend/check-language.php:53
+msgid "Max amount of characters"
+msgstr "Maximum aantal letters"
+
+#: frontend/check-language.php:54
+msgid "Select your image"
+msgstr "Geen foto geselecteerd"
+
+#: frontend/check-language.php:55
+msgid "The photo contest is over"
+msgstr "De fotowedstrijd is voltooid"
+
+#: frontend/check-language.php:56
+msgid "Hold left mouse to see user info"
+msgstr "Linker muisknop ingedrukt om informatie voor de gebruiker te zien"
+
+#: frontend/check-language.php:58
+msgid "This email address is already registered"
+msgstr "Dit e-mailadres is reeds geregistreerd"
+
+#: frontend/check-language.php:59
+msgid "This username is already taken"
+msgstr "Deze gebruikersnaam is al in gebruik"
+
+#: frontend/check-language.php:61
+msgid "Username or e-mail"
+msgstr "Gebruikersnaam of e-mail"
+
+#: frontend/check-language.php:62
+msgid "Username or e-mail required"
+msgstr "Gebruikersnaam oder e-mail nodig"
+
+#: frontend/check-language.php:64
+msgid "Username or e-mail does not exist"
+msgstr "Gebruikersnaam oder e-Mail bestaat niet"
+
+#: frontend/check-language.php:66
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: frontend/check-language.php:67
+msgid "Password required"
+msgstr "Wachtwoord nodig"
+
+#: frontend/check-language.php:69
+msgid "Password is wrong"
+msgstr "Password  is vals"
+
+#: frontend/check-language.php:71
+msgid "You are already logged in"
+msgstr "U bent al geregistreerd"
+
+#: frontend/check-language.php:73
+msgid "Please fill out"
+msgstr "Vul"
+
+#: frontend/check-language.php:75
+msgid "Passwords do not match"
+msgstr "Wachtwoorden komen niet overeen"
+
+#: frontend/check-language.php:77
+msgid "Upload"
+msgstr "Uploaden"
+
+#: frontend/check-language.php:78
+msgid "Register"
+msgstr "Registreren"
+
+#: frontend/check-language.php:79
+msgid "Login"
+msgstr "Inloggen"
+
+#: frontend/check-language.php:81
+msgid "Please select"
+msgstr "Selecteer alstublieft"
+
+#: frontend/check-language.php:82
+msgid "You have not selected"
+msgstr "U hebt niet geselecteerd"
+
+#: frontend/check-language.php:84
+msgid "Please confirm"
+msgstr "Bevestig alstublieft"
+
+#: frontend/check-language.php:85
+msgid "Image is not activated"
+msgstr "Afbeelding is niet geactiveerd"
+
+#: index.php:517
+msgid "Contest Gallery User"
+msgstr ""
+
+#: index.php:1917
+msgid "Account"
+msgstr "Account"
+
+#: index.php:1918
+msgid "Logout?"
+msgstr "Logout?"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "Contest Gallery"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create a professional photo contest."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.contest-gallery.com/"
+msgstr ""

@@ -1,0 +1,81 @@
+.ap-form-field-wrapper label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.ap-form-field input[type="text"], 
+.ap-form-field input[type="email"]{
+    height: 32px;
+    padding: 0 10px;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.ap-form-field input[type="file"]{
+    border: none;
+    padding: 0px;
+}
+.ap-form-field-wrapper {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.ap-form_field textarea{
+    width: 100%;
+}
+.ap-form_field select {
+    height: 34px;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.ap-form-error-message {
+    color: red;
+    font-size: 14px;
+}
+#ap-captcha-result{
+width: 200px;
+margin-left: 10px;
+    
+}
+div.mce-tinymce, 
+.ap-form-content-editor{
+    border: 1px solid #EEE !important;
+}
+.ap-main-submit-button{
+    background: none repeat scroll 0 0 #2ea2cc;
+    border-color: #0074a2;
+    box-shadow: 0 1px 0 rgba(120, 200, 230, 0.5) inset, 0 1px 0 rgba(0, 0, 0, 0.15);
+    color: #fff;
+    text-decoration: none !important;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 13px;
+    height: 28px;
+    line-height: 26px;
+    margin: 0;
+    padding: 0 20px 1px;
+    white-space: nowrap;
+    text-align: center;
+}
+.ap-main-submit-button:hover{
+    background: #2C98C0;
+    box-shadow:  0 1px 0 rgba(0, 0, 0, 0.15) , 0 1px 0 rgba(120, 200, 230, 0.5) inset;
+    color: #fff;
+}
+.entry-content > .ap-form-wrapper{
+    background: none repeat scroll 0 0 #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+}
+.ap-form-field textarea{
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}

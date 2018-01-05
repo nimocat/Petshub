@@ -1,0 +1,81 @@
+.d4p-clearfix:before, .d4p-clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.d4p-clearfix.d4p-clearfix-before:before {
+    clear: both;
+}
+
+.d4p-clearfix:after {
+    clear: both;
+}
+
+.d4p-accessibility-show-for-sr {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+}
+
+.d4p-break-hypen {
+    -ms-word-break: break-all;
+    word-break: break-all;
+
+    word-break: break-word;
+
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+.d4p-accessibility-show-for-sr {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+}
+
+.d4plib-selected-image {
+    margin: 5px 0 0 0;
+    padding: 5px 0 0 0;
+    border-top: 1px solid #DDDDDD;
+    max-width: 518px;
+    display: block;
+}
+
+.d4plib-selected-image .d4plib-image-name {
+    font-weight: bold;
+    display: block;
+}
+
+.d4plib-selected-image img {
+    height: auto;
+    margin: 5px 0 0;
+    max-width: 100%;
+    display: none;
+}
+
+.d4plib-images-image {
+    line-height: 22px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed #dddddd;
+}
+
+.d4p-setting-images .d4plib-images-image:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+.d4plib-images-image img {
+    display: none;
+}
+
+.d4plib-images-image .d4plib-image-name {
+    display: inline;
+}

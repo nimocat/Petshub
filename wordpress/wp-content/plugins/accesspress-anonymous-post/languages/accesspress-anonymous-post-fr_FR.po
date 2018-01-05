@@ -1,0 +1,503 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Anonymous Post\n"
+"POT-Creation-Date: 2016-03-19 11:35+0100\n"
+"PO-Revision-Date: 2016-03-19 12:29+0100\n"
+"Last-Translator: Bruno Tritsch - www.wp-traduction.com <bruno@wp-traduction."
+"com>\n"
+"Language-Team: Bruno Tritsch - www.wp-traduction.com <bruno@wp-traduction."
+"com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: accesspress-anonymous-post.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: accesspress-anonymous-post.php:104 inc/cores/front-form.php:12
+#: inc/cores/save-post.php:49 inc/cores/save-post.php:55
+#: inc/cores/save-post.php:56
+msgid "This field is required"
+msgstr "Ce champ est requis"
+
+#: accesspress-anonymous-post.php:105
+msgid "Sum is not correct."
+msgstr "La somme n'est pas correcte."
+
+#: accesspress-anonymous-post.php:112
+msgid "AccessPress Anonymoust Post Settings"
+msgstr "Paramètres de AccessPress Anonymoust Post"
+
+#. Plugin Name of the plugin/theme
+#: accesspress-anonymous-post.php:112 inc/boards/about.php:26
+#: inc/boards/about.php:33 inc/settings.php:15
+msgid "AccessPress Anonymous Post"
+msgstr "AccessPress Anonymoust Post"
+
+#: accesspress-anonymous-post.php:140
+msgid "Anonymous Post"
+msgstr "Article anonyme"
+
+#: accesspress-anonymous-post.php:144 accesspress-anonymous-post.php:388
+#: inc/cores/shortcode.php:22
+msgid "Please login to submit the post."
+msgstr "Veuillez vous connecter pour soumettre l'article."
+
+#: accesspress-anonymous-post.php:295
+msgid "Hello there,"
+msgstr "Bonjour,"
+
+#: accesspress-anonymous-post.php:296
+msgid "A new post has been submitted via AccessPress Anonymous Post plugin in "
+msgstr ""
+"Un nouvel article a été soumis via l'extension AccessPress Anonymous Post "
+
+#: accesspress-anonymous-post.php:296
+msgid " Please find details below:"
+msgstr " Vous trouverez les détails ci-dessous :"
+
+#: accesspress-anonymous-post.php:314
+msgid "To take action (approve/reject)- please go here:"
+msgstr "Pour agir (approuver/rejeter) - veuillez aller ici :"
+
+#: accesspress-anonymous-post.php:317
+msgid "Thank You"
+msgstr "Merci"
+
+#: accesspress-anonymous-post.php:318
+msgid "New Post Submission - via AccessPress Anonymous Post"
+msgstr "Nouvelle soumission d'article - via AccessPress Anonymous Post"
+
+#: accesspress-anonymous-post.php:417
+msgid "Default Settings Restored Successfully."
+msgstr "Paramètres par défaut restaurés avec succès."
+
+#: inc/boards/about.php:2
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: inc/boards/captcha-settings.php:2 inc/settings.php:43
+msgid "Captcha Settings"
+msgstr "Réglages du Captcha"
+
+#: inc/boards/captcha-settings.php:6
+msgid "Show Captcha"
+msgstr "Afficher le Captcha"
+
+#: inc/boards/captcha-settings.php:10
+msgid "Captcha Type"
+msgstr "Type de Captcha"
+
+#: inc/boards/captcha-settings.php:13
+msgid "Mathematical Captcha"
+msgstr "Captcha mathématique"
+
+#: inc/boards/captcha-settings.php:14
+msgid "Google Captcha"
+msgstr "Captcha Google"
+
+#: inc/boards/captcha-settings.php:18
+msgid "Captcha Label"
+msgstr "Libellé du Captcha"
+
+#: inc/boards/captcha-settings.php:24
+msgid "Captcha Error Message"
+msgstr "Message d'erreur du Captcha"
+
+#: inc/boards/captcha-settings.php:32
+msgid "Site Key"
+msgstr "Clé de site"
+
+#: inc/boards/captcha-settings.php:38
+msgid "Secret Key"
+msgstr "Clé secrète"
+
+#: inc/boards/captcha-settings.php:44
+msgid ""
+"Google Captcha will only show up in form if you have filled the valid google "
+"captcha keys.Please visit <a href=\"https://www.google.com/recaptcha/admin\" "
+"target=\"_blank\">here</a> to get your site and secret key."
+msgstr ""
+"Le captcha Google sera uniquement affiché sur le formulaire si vous avez "
+"saisi les clés Google Cpatcha valides. Veuillez aller <a href=\"https://www."
+"google.com/recaptcha/admin\" target=\"_blank\">ici</a> pour obtenir vos clé "
+"de site et clé secrète."
+
+#: inc/boards/form-settings.php:3
+msgid "Form field configurations"
+msgstr "Configuration des champs du formulaire"
+
+#: inc/boards/form-settings.php:10 inc/boards/form-settings.php:236
+#: inc/cores/front-form.php:7
+msgid "Post Title"
+msgstr "Titre de l'article"
+
+#: inc/boards/form-settings.php:14 inc/boards/form-settings.php:34
+#: inc/boards/form-settings.php:53 inc/boards/form-settings.php:91
+#: inc/boards/form-settings.php:110 inc/boards/form-settings.php:129
+#: inc/boards/form-settings.php:149 inc/boards/form-settings.php:166
+msgid "Show on form"
+msgstr "Afficher sur le formulaire"
+
+#: inc/boards/form-settings.php:17 inc/boards/form-settings.php:37
+#: inc/boards/form-settings.php:56 inc/boards/form-settings.php:75
+#: inc/boards/form-settings.php:94 inc/boards/form-settings.php:113
+#: inc/boards/form-settings.php:132 inc/boards/form-settings.php:152
+#: inc/boards/form-settings.php:169
+msgid "Required"
+msgstr "Obligatoire"
+
+#: inc/boards/form-settings.php:21
+msgid "Post Title Required Message"
+msgstr "Message d'obligation de titre d'article"
+
+#: inc/boards/form-settings.php:30 inc/boards/form-settings.php:245
+#: inc/cores/front-form.php:8
+msgid "Post Content"
+msgstr "Contenu d'article"
+
+#: inc/boards/form-settings.php:40
+msgid "Post Content Required Message"
+msgstr "Message d'obligation de contenu d'article"
+
+#: inc/boards/form-settings.php:49 inc/boards/form-settings.php:254
+#: inc/cores/front-form.php:63
+msgid "Post Excerpt"
+msgstr "Extrait de l’article"
+
+#: inc/boards/form-settings.php:59
+msgid "Excerpt Required Message"
+msgstr "Message d'extrait obligatoire"
+
+#: inc/boards/form-settings.php:68 inc/boards/form-settings.php:263
+#: inc/cores/front-form.php:9
+msgid "Post Image"
+msgstr "Image de l’article"
+
+#: inc/boards/form-settings.php:72
+msgid "Show in form"
+msgstr "Afficher sur le formulaire"
+
+#: inc/boards/form-settings.php:78
+msgid "Post Image Required Message"
+msgstr "Message d'obligation d'image d'article"
+
+#: inc/boards/form-settings.php:87 inc/boards/form-settings.php:288
+#: inc/cores/front-form.php:121
+msgid "Author Name"
+msgstr "Nom de l'auteur"
+
+#: inc/boards/form-settings.php:97
+msgid "Author Name Required Message"
+msgstr "Message de nom d'auteur obligatoire"
+
+#: inc/boards/form-settings.php:106 inc/boards/form-settings.php:297
+#: inc/cores/front-form.php:132
+msgid "Author URL"
+msgstr "URL de l'auteur"
+
+#: inc/boards/form-settings.php:116
+msgid "Author URL Required Message"
+msgstr "Message d'URL d'auteur obligatoire"
+
+#: inc/boards/form-settings.php:125 inc/boards/form-settings.php:306
+#: inc/cores/front-form.php:143
+msgid "Author Email"
+msgstr "﻿Email de l'auteur"
+
+#: inc/boards/form-settings.php:135
+msgid "Author Email Required Message"
+msgstr "Message d'Email d'auteur obligatoire"
+
+#: inc/boards/form-settings.php:145 inc/boards/form-settings.php:272
+msgid "Post Category"
+msgstr "Catégorie d'article"
+
+#: inc/boards/form-settings.php:155
+msgid "Post Category Required Message"
+msgstr "Message d'obligation de catégorie d'article"
+
+#: inc/boards/form-settings.php:162 inc/boards/form-settings.php:279
+msgid "Post Tags"
+msgstr "Etiquettes d'article"
+
+#: inc/boards/form-settings.php:172
+msgid "Post Tags Required Message"
+msgstr "Message d'étiquette d'article obligatoire"
+
+#: inc/boards/form-settings.php:179
+msgid "Post Title and Post Content are mandatory."
+msgstr "Le titre de l'article et le contenu d'article sont obligatoires."
+
+#: inc/boards/form-settings.php:187
+msgid "Post Categories"
+msgstr "Catégories d'article"
+
+#: inc/boards/form-settings.php:206
+msgid ""
+"Choose any  only if you don't include to show the category selecting options "
+"in the form"
+msgstr ""
+"Choisissez n'importe laquelle uniquement si vous n'incluez pas l'affichage "
+"des options de sélection de catégorie dans le formulaire"
+
+#: inc/boards/form-settings.php:210
+msgid "Post Content Editor Type:"
+msgstr "Type d'éditeur de contenu d'article :"
+
+#: inc/boards/form-settings.php:221
+msgid "Editor Size"
+msgstr "Taille de l'éditeur"
+
+#: inc/boards/form-settings.php:224
+msgid ""
+"Please enter the size of editor in number of rows.Default number of rows is "
+"10"
+msgstr ""
+"Veuillez entrer la taille de l'éditeur en nombre de lignes. Le nombre de "
+"lignes par défaut est 10"
+
+#: inc/boards/form-settings.php:232
+msgid "Form Labels"
+msgstr "Libellés de formulaire"
+
+#: inc/boards/form-settings.php:315
+msgid "Submit Button"
+msgstr "Bouton de soumission"
+
+#: inc/boards/form-settings.php:322
+msgid ""
+"These field will only show up in frontend if you have checked these fields "
+"in Form Field Configurations secton above."
+msgstr ""
+"Ce champ apparaîtra uniquement en frontend si vous avez coché ces champs "
+"dans la section de configuration des champs de formulaire ci-dessus."
+
+#: inc/boards/general-settings.php:2 inc/settings.php:41
+msgid "General Settings"
+msgstr "Réglages généreaux"
+
+#: inc/boards/general-settings.php:5
+msgid "Form Title"
+msgstr "Titre du formulaire"
+
+#: inc/boards/general-settings.php:11
+msgid "Post Publish Status:"
+msgstr "Statut de publication de l'article :"
+
+#: inc/boards/general-settings.php:14
+msgid "Publish"
+msgstr "Publier"
+
+#: inc/boards/general-settings.php:15
+msgid "Pending"
+msgstr "﻿En attente"
+
+#: inc/boards/general-settings.php:16
+msgid "Draft"
+msgstr "Brouillon"
+
+#: inc/boards/general-settings.php:21
+msgid "Post Format:"
+msgstr "Format d'article :"
+
+#: inc/boards/general-settings.php:25
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/boards/general-settings.php:44
+msgid "Admin Notification:"
+msgstr "Notification de l'administrateur :"
+
+#: inc/boards/general-settings.php:48
+msgid ""
+"Check if you want admin to recieve notification email after submitting of a "
+"new post."
+msgstr ""
+"Cochez si vous souhaitez que l'administrateur reçoive une notification par "
+"mail après la soumission d'un nouvel article."
+
+#: inc/boards/general-settings.php:53
+msgid "Allow Media Uploads:"
+msgstr "Autoriser les téléversements de médias:"
+
+#: inc/boards/general-settings.php:57
+msgid "Check if you want logged in users to upload allowed media files"
+msgstr ""
+"Cochez si vous voulez que les utilisateurs soient connectés pour télécharger "
+"des fichiers multimédias"
+
+#: inc/boards/general-settings.php:62
+msgid "Check Login"
+msgstr "Cocher Connexion"
+
+#: inc/boards/general-settings.php:66
+msgid "Check if you want admin login to submit a new post."
+msgstr ""
+"Cochez si vous souhaitez que les utilisateurs soient connectés pour la "
+"soumission d'un nouvel article."
+
+#: inc/boards/general-settings.php:71
+msgid "Login Message"
+msgstr "Message de connexion"
+
+#: inc/boards/general-settings.php:74
+msgid ""
+"Message to be displayed if the user is not logged in and you have checked "
+"admin login option to submit the post."
+msgstr ""
+"Message qui sera affiché si l'utilisateur n'est pas connecté et que vous "
+"avez coché l'option d'obligation de connexion à l'administration pour "
+"soumettre un article."
+
+#: inc/boards/general-settings.php:78
+msgid "Login Link Text"
+msgstr "Texte du lien de connexion"
+
+#: inc/boards/general-settings.php:81
+msgid ""
+"Text to be shown in login link  if the user is not logged in and you have "
+"checked admin login option to submit the post."
+msgstr ""
+"Texte à afficher dans le lien de connexion, si l'utilisateur n'est pas "
+"connecté et que vous avez coché l'option d'obligation de connexion à "
+"l'administration pour soumettre un article."
+
+#: inc/boards/general-settings.php:85
+msgid "Assign Author"
+msgstr "Attribuer un auteur"
+
+#: inc/boards/general-settings.php:102
+msgid "Plugin Styles:"
+msgstr "Styles de l'extension :"
+
+#: inc/boards/general-settings.php:106
+msgid "Check if you want to use the plugin's basic styles in frontend form"
+msgstr ""
+"Cochez si vous voulez utiliser les styles de base de l'extension dans le "
+"formulaire pour visiteurs"
+
+#: inc/boards/general-settings.php:111
+msgid "Redirect URL"
+msgstr "URL de redirection"
+
+#: inc/boards/general-settings.php:114
+msgid ""
+"URL to be redirected after successful post submission. If kept blank, it "
+"will be redirected to same page."
+msgstr ""
+"URL de redirection après la soumission réussie d'un article. Si laissé vide, "
+"sera redirigé vers la même page."
+
+#: inc/boards/general-settings.php:119
+msgid "Post Submission Message"
+msgstr "Message de soumission d'article"
+
+#: inc/boards/general-settings.php:122
+msgid "Message displayed after successful post submission."
+msgstr "Message affiché après la soumission d'article réussie."
+
+#: inc/boards/upgrade.php:2 inc/settings.php:45
+msgid "Upgrade"
+msgstr "Mise à niveau"
+
+#: inc/cores/front-form.php:10 inc/cores/front-form.php:185
+msgid "Submit Post"
+msgstr "Soumettre un article"
+
+#: inc/cores/front-form.php:80
+msgid "Please upload image file type only."
+msgstr "Veuillez ne téléverser uniquement que des fichiers de type image."
+
+#: inc/cores/front-form.php:108
+msgid "Tags (Use comma to add multiple tags)"
+msgstr "Etiquettes (Utilisez des virgules pour ajouter plusieurs étiquettes)"
+
+#: inc/cores/front-form.php:159
+msgid "Human Check"
+msgstr "Vérification humaine"
+
+#: inc/cores/front-form.php:165
+msgid "Enter Sum"
+msgstr "Saisissez la somme"
+
+#: inc/cores/save-post.php:22
+msgid "The entered sum is not correct"
+msgstr "La somme saisie est incorrecte"
+
+#: inc/cores/save-post.php:31 inc/cores/save-post.php:39
+msgid "Please verify that you are a human."
+msgstr "Veuillez vérifier que vous êtes un humain."
+
+#: inc/cores/save-post.php:65
+msgid "Invalid File Type"
+msgstr "Type de fichier non valide."
+
+#: inc/cores/save-post.php:171
+msgid "Hi there, Thank you for submitting a post."
+msgstr "Bonjour, je vous remercie d'avoir soumis un article."
+
+#: inc/cores/save-settings.php:167
+msgid "Settings Saved Successfully."
+msgstr "Param&egrave;tres sauvegard&eacute;s avec succ&egrave;s."
+
+#: inc/cores/shortcode.php:30
+msgid "Login"
+msgstr "Connexion"
+
+#: inc/settings.php:19
+msgid "Follow us for new updates"
+msgstr "Suivez-nous pour les nouvelles mises à jour"
+
+#: inc/settings.php:30
+msgid "AccessPress Anonymous Post Settings"
+msgstr "Réglages d'AccessPress Anonymous Post"
+
+#: inc/settings.php:42
+msgid "Form Settings"
+msgstr "Réglages du formulaire"
+
+#: inc/settings.php:44
+msgid "How to use"
+msgstr "Comment utiliser"
+
+#: inc/settings.php:46
+msgid "About"
+msgstr "À propos"
+
+#: inc/settings.php:106
+msgid "Are you sure you want to restore default settings?"
+msgstr "Etes-vous sûr de vouloir restaurer les paramètres par défaut ?"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://accesspressthemes.com/wordpress-plugins/accesspress-anonymous-post/"
+msgstr ""
+"http://accesspressthemes.com/wordpress-plugins/accesspress-anonymous-post/"
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin that provides the ability to publish post from frontend with or "
+"without login anonymously using a simple html5 form from anywhere of the "
+"site with the help of shortcode and various backend settings."
+msgstr ""
+"Une extension qui offre la possibilité de publier un article côté visiteur "
+"avec ou sans connexion de manière anonyme en utilisant un formulaire html5 "
+"simple à partir de n'importe où du site avec l'aide de shortcodes et divers "
+"paramètres d'administration."
+
+#. Author of the plugin/theme
+msgid "AccessPress Themes"
+msgstr "AccessPress Themes"
+
+#. Author URI of the plugin/theme
+msgid "http://accesspressthemes.com/"
+msgstr "http://accesspressthemes.com/"

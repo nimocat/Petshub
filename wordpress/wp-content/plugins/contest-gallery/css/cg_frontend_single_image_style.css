@@ -1,0 +1,183 @@
+#cg-arrow-left-first-div{
+float:left;
+}
+
+#cg-arrow-left-second-div{
+float:left;
+}
+
+#cg-arrow-right-first-div{
+float:left;
+}
+
+#cg-arrow-right-second-div{
+float:left;
+}
+
+#cg-center-div{
+float:left;
+}
+
+#cg-arrow-right-image{
+border: none !important;
+box-shadow: none !important;
+}	
+
+#cg-arrow-left-image{
+border: none !important;
+box-shadow: none !important;
+}	
+
+#fb-like-div {
+float: left;
+margin-left:0px;
+}
+
+/*Sehr wichtig! Macht den Kommentar des Facebook Buttons visible. */ 
+iframe {
+ max-width: none !important;
+}
+
+#ul-stars{
+float:left;
+margin:0px;
+padding: 0px;
+}
+
+#ul-stars ul{
+float:left;
+margin:0px;
+padding: 0px;
+}
+
+#ul-stars-gallery{
+float:left;
+padding: 0px;
+margin-right:10px !important;
+}
+
+#ul-stars-gallery ul{
+float:left;
+padding: 0px;
+}
+
+#cg-comments-div{
+clear:both;
+}
+
+
+/* Css von der kleinen Lupe*/
+.pngzoom{
+border: none !important;
+box-shadow: none !important;
+}
+
+.cgimg{
+border: none !important;
+box-shadow: none !important;
+}
+
+
+.ul-cgrating {
+  margin:0 auto;
+  display:block;
+  width:250px;
+  text-decoration:none !important;
+  list-style: none !important;
+  border: none !important;
+box-shadow: none !important;
+}
+.ul-cgrating li {
+  float:left;
+  margin: 0;
+  margin-right: 0px;
+  padding:0px;
+  border: none !important;
+box-shadow: none !important;
+	 }
+	 
+.ul-cgrating-image {
+  margin:0 auto;
+  display:block;
+  width:150px;
+  text-decoration:none !important;
+  list-style: none !important;
+  border: none !important;
+box-shadow: none !important;
+}
+.ul-cgrating-image li {
+  float:left;
+  margin: 0;
+  margin-right: 3px;
+  border: none !important;
+box-shadow: none !important;
+	 }	 
+	 
+	 
+.ul-cgrating a {
+  display:block;
+  font-size:0px;
+  width:20px;
+  height:20px;
+  text-decoration:none !important;	
+}
+
+.ul-cgrating-image a {
+  display:block;
+  font-size:0px;
+  width:20px;
+  height:20px;
+  text-decoration:none !important;	
+}
+
+#cg-arrow-right{
+border: none !important;
+box-shadow: none !important;
+//float: left !important;
+}	
+
+#cg-arrow-left{
+border: none !important;
+box-shadow: none !important;
+//float: left !important;
+vertical-align: top;
+}	
+
+#cg-img-gallery{
+border: none !important;
+box-shadow: none !important;
+//float: left !important;
+margin-left:auto  !important;
+margin-right:auto  !important;
+vertical-align: top;
+}
+
+#main-img{
+display:block !important;
+margin: 0 auto !important;
+//border: 1px solid;
+margin-left:auto  !important;
+margin-right:auto  !important;
+text-align: center;
+}
+
+#center{
+margin-left:auto  !important;
+margin-right:auto  !important;
+}
+
+
+
+
+.neweditor{
+width:600px; // What ever size you want
+border: 8px solid;
+margin-left: 100px;
+}
+
+#test1{
+width:600px; // What ever size you want
+border: 8px solid;
+margin-left: 100px;
+background-color: green;
+}
