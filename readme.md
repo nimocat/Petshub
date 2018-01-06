@@ -1,7 +1,5 @@
 <center>![img](img/logo2.png)</center>
 
-
-
 ## Discription
 
 [Petshub](139.199.29.220) is a blogging website based on wordpress, aimed at providing a platform for pets lovers to share their stories and communicate with each other. Functions like adding posts, searching and sorting, giving comments and scores, and adding favorites are provided. Although it doesn't have a domain name, you can visit it by clicking [Petshub](139.199.29.220).
